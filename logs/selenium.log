@@ -5,3 +5,15 @@
 [wrappers.py]: [INFO  ] [2019-05-08 11:54:06,244]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
 [wrappers.py]: [INFO  ] [2019-05-08 11:54:08,303]: ==================== End call [__main__.LoginSuite], run 2.06s ====================>
 
+[wrappers.py]: [INFO  ] [2019-05-08 16:20:29,220]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-08 16:20:31,498]: ==================== End call [testcases_login.LoginSuite], run 2.28s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-08 16:36:56,895]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-08 16:36:59,018]: ==================== End call [testcases_login.LoginSuite], run 2.12s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-08 16:37:46,021]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-08 16:37:48,115]: ==================== End call [testcases_login.LoginSuite], run 2.09s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-08 16:41:29,217]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-08 16:41:31,297]: ==================== End call [testcases_login.LoginSuite], run 2.08s ====================>
+
