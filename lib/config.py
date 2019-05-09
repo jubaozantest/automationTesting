@@ -15,11 +15,10 @@ class  Config:
         dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
         config_path = os.path.join(dir_path, 'config', 'config.yaml')
         with open(config_path, 'r') as ymlfile:
-            self.cfg = yaml.load(ymlfile)
+            self.cfg = yaml.load(ymlfile,Loader=yaml.FullLoader)
     @property
     def server(self):
         return self.cfg['server']
-
 
     @property
     def browser_name(self):
@@ -28,5 +27,9 @@ class  Config:
     @property
     def browser_mode(self):
         return self.cfg['browser']['mode']
+
+    @property
+    def interface_pre(self):
+        return self.cfg['interfacePre']
 
 test_config = Config()

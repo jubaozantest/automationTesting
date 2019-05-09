@@ -3,9 +3,8 @@ from logs.log import logger
 
 METHODS = ['GET', 'POST', 'HEAD', 'TRACE', 'PUT', 'DELETE', 'OPTIONS', 'CONNECT']
 defult_headers = {
-        'Content-Type': "application/json",
+        'Content-Type':'application/json'
     }
-
 class UnSupportMethodException(Exception):
     pass
 
@@ -38,6 +37,6 @@ class HTTPClient(object):
     def send(self, params=None, data=None, **kwargs):
         response = self.session.request(method=self.method, url=self.url, params=params, data=data, **kwargs)
         response.encoding = 'utf-8'
-        logger.debug('{0} {1}'.format(self.method, self.url))
-        logger.debug('请求成功: {0}\n{1}'.format(response, response.text))
+        logger.info('{0} {1}'.format(self.method, self.url))
+        logger.info('请求成功: {0}\n{1}'.format(response, response.text))
         return response

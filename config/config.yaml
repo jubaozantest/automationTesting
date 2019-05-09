@@ -1,5 +1,5 @@
 server: https://t.jubaozan.cn/
-
+interfacePre: https://u.jubaozan.cn/
 browser:
   name: chrome
   mode: normal #headless表示谷歌headles模式, normal，grid,docker

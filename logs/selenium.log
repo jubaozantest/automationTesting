@@ -17,3 +17,73 @@
 [wrappers.py]: [INFO  ] [2019-05-08 16:41:29,217]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
 [wrappers.py]: [INFO  ] [2019-05-08 16:41:31,297]: ==================== End call [testcases_login.LoginSuite], run 2.08s ====================>
 
+[HTTPClient.py]: [DEBUG ] [2019-05-08 17:39:07,838]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-08 17:39:07,838]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[login.py]: [INFO  ] [2019-05-08 17:39:07,838]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-08 17:40:01,539]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-08 17:40:01,539]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[login.py]: [INFO  ] [2019-05-08 17:40:01,539]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-09 09:52:54,367]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-09 09:52:54,368]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[loginapi.py]: [INFO  ] [2019-05-09 09:52:54,369]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-09 09:56:48,202]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-09 09:56:48,202]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[loginapi.py]: [INFO  ] [2019-05-09 09:56:48,202]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-09 10:08:43,742]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-09 10:08:43,742]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[loginapi.py]: [INFO  ] [2019-05-09 10:08:43,743]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-09 10:22:54,766]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-09 10:22:54,767]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[loginapi.py]: [INFO  ] [2019-05-09 10:22:54,767]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-09 10:33:44,378]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-09 10:33:44,378]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[loginapi.py]: [INFO  ] [2019-05-09 10:33:44,378]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-09 11:01:50,227]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-09 11:01:50,227]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[loginapi.py]: [INFO  ] [2019-05-09 11:01:50,227]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-09 11:14:26,969]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-09 11:14:26,969]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[loginapi.py]: [INFO  ] [2019-05-09 11:14:26,969]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-09 11:14:54,011]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-09 11:14:54,012]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[loginapi.py]: [INFO  ] [2019-05-09 11:14:54,012]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:15:14,822]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:15:14,822]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[loginapi.py]: [INFO  ] [2019-05-09 11:15:14,822]: {"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:21:26,917]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:21:26,918]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzY4ODczNDksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzIwODczNDl9In0.9X6J0PR1Ctllgly-tW3mkACxtZxIg8FSk_Du5CPwmWg"}
+[loginapi.py]: [INFO  ] [2019-05-09 11:21:26,918]: {"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzY4ODczNDksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzIwODczNDl9In0.9X6J0PR1Ctllgly-tW3mkACxtZxIg8FSk_Du5CPwmWg"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:23:32,840]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:23:32,840]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzcwMTMyNjgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzIyMTMyNjh9In0.khjREDT-6yVkzxh_E64ckN0KBJxrRPOTxFpEDMvwDSA"}
+[loginapi.py]: [INFO  ] [2019-05-09 11:23:32,841]: {"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzcwMTMyNjgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzIyMTMyNjh9In0.khjREDT-6yVkzxh_E64ckN0KBJxrRPOTxFpEDMvwDSA"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:26:47,534]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:26:47,534]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzcyMDc5NTQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzI0MDc5NTR9In0.83XDRs90JMKMAZk3cC9Opa3VQYYXkm3-A3Cj_X0ef8I"}
+[login.py]: [INFO  ] [2019-05-09 11:26:47,534]: {"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzcyMDc5NTQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzI0MDc5NTR9In0.83XDRs90JMKMAZk3cC9Opa3VQYYXkm3-A3Cj_X0ef8I"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:28:54,351]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:28:54,352]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzczMzQ3NzYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzI1MzQ3NzZ9In0.eB2q-vi9LU5FcPEtCR6oVxuO_qaGVFqba-jA7Zf-230"}
+[login.py]: [INFO  ] [2019-05-09 11:28:54,352]: {"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzczMzQ3NzYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzI1MzQ3NzZ9In0.eB2q-vi9LU5FcPEtCR6oVxuO_qaGVFqba-jA7Zf-230"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:32:36,616]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:32:36,617]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5Nzc1NTcwNDIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzI3NTcwNDJ9In0.uNg_aL_ApPTfd9I4zBXTsfZvv1NuqILEjuK2C-_kiLM"}
+[login.py]: [INFO  ] [2019-05-09 11:32:36,617]: {"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5Nzc1NTcwNDIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzI3NTcwNDJ9In0.uNg_aL_ApPTfd9I4zBXTsfZvv1NuqILEjuK2C-_kiLM"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:33:40,159]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:33:40,159]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5Nzc2MjA1NjksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzI4MjA1Njl9In0.ElpM0I8-v8iK-osqyuOXJtAjBtdDDHGCU22pEr-mtc4"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:44:51,835]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 11:44:51,835]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzgyOTIyNTcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzM0OTIyNTd9In0.7iuNJiCSzihCCl0NoyoA7-ut8TFFa_ACqS62XIPv_Is"}
