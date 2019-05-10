@@ -1,14 +1,6 @@
 from selenium.common.exceptions import NoSuchElementException, NoSuchAttributeException, NoAlertPresentException, \
     NoSuchWindowException, NoSuchFrameException
 from selenium.webdriver.support.wait import WebDriverWait
-from logs.log import logger
-
-# try:
-#     from uiautomator2 import UiObjectNotFoundError
-#     import uiautomator2 as ut2
-# except Exception:
-#     logger.error("ImportError: No module named 'uiautomator2'")
-#     pass
 
 
 def is_alert_present(driver):

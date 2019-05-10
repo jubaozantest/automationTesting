@@ -5,6 +5,7 @@ from util.selenium_public_methods import *
 from logs.log import logger
 from  util.wrappers import timer
 from pages.login_page import LoginPage
+from pages.linshou_shouyishezhi import Linshou
 class LoginSuite(unittest.TestCase):
     basic = BasicTestCase()
     url = basic.url
@@ -21,7 +22,7 @@ class LoginSuite(unittest.TestCase):
         self.browser.quit()
 
     @timer
-    def test_correct_user(self):
+    def test_1_correct_user(self):
         '''
         用例1：正确的用户登录
         :return:
@@ -34,6 +35,9 @@ class LoginSuite(unittest.TestCase):
         self.browser.get_element_until_is_visible(*LoginPage.pwd_input).send_keys(kwargs["pwd"])
         self.browser.get_element_until_is_visible(*LoginPage.login_button).click()
 
+    def test_2_bujifenyong(self):
+        self.browser.get_element_until_is_visible(*Linshou.linshoutab).click()
+        self.browser.get_element_until_is_visible(*Linshou.tianjiachanpinbutton).click()
 
 if __name__ == "__main__":
     unittest.main()

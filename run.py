@@ -5,7 +5,7 @@ from util.default_path import get_config
 config = get_config()
 now = time.strftime('%Y-%m-%d-%H-%M-%S', time.localtime())
 #report_path = config.REPORT_DIR+r'\test{0}.html'.format(int(time.time())) #报告名称加上时间戳
-report_path = config.REPORT_DIR+r'\{0}-report.html'.format(now)           #报告名称加上当前时间
+report_path = config.REPORT_DIR+r'\{0}-UI-report.html'.format(now)           #报告名称加上当前时间
 def creatsuite():
     '''添加测试集'''
     testunit = unittest.TestSuite()
@@ -33,11 +33,8 @@ def getopts():
       sys.exit(1)
 
 if __name__ == "__main__":
-    getopts()
     suite = creatsuite()
-
     #unittest.TextTestRunner(verbosity=2).run(suite)
-    #f = open(r'C:\Users\MIME\Desktop\test.html', 'wb')
     f = open(report_path,'wb')
-    runner=HTMLTestRunner(stream=f,title='自动化测试报告',description='描述信息')
+    runner=HTMLTestRunner(stream=f,title='聚宝赞UI自动化测试报告',description='描述信息')
     runner.run(suite)

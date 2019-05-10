@@ -164,9 +164,9 @@ class Template_mixin(object):
     2: '错误',
     }
 
-    DEFAULT_TITLE = '1219单元测试报告'
+    DEFAULT_TITLE = '聚宝赞自动化测试平台'
     DEFAULT_DESCRIPTION = ''
-    DEFAULT_TESTER='石期涛'
+    DEFAULT_TESTER='何剑豪'
 
     # ------------------------------------------------------------------------
     # HTML Template

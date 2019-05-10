@@ -87,3 +87,371 @@
 [HTTPClient.py]: [INFO  ] [2019-05-09 11:44:51,835]: POST https://u.jubaozan.cn/auth/login
 [HTTPClient.py]: [INFO  ] [2019-05-09 11:44:51,835]: 请求成功: <Response [200]>
 {"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5NzgyOTIyNTcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczNzM0OTIyNTd9In0.7iuNJiCSzihCCl0NoyoA7-ut8TFFa_ACqS62XIPv_Is"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 16:46:37,777]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 16:46:37,809]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5OTYzNzk4NjUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTE1Nzk4NjV9In0.dScVjLSmS_5lSdmS3WqgqkKivptwVmmVPGbIh9PQj5s"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 16:48:37,759]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 16:48:37,759]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5OTY0OTk4NTQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTE2OTk4NTR9In0.Qc8HPESU4D0_wc_gLdiNxNdlBjoaAC0sBoby7zFwVLQ"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 16:50:33,814]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 16:50:33,815]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5OTY2MTU4OTcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTE4MTU4OTd9In0.E_qoKmF4zIMbuIx_MjT8HyhDfOrMRtKjs2c3oNaIKUA"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:10:39,110]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:10:39,110]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5OTc4MjEyMDgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTMwMjEyMDh9In0.d49xUjic2qqU9MwHLKZGaVCMkdei-Oxsvr365BJLdYk"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:11:03,751]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:11:03,752]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5OTc4NDU4NDcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTMwNDU4NDd9In0.N1Txll8h4eSY81RAus9uqW3gj_w6GmACTHdYMrdNvCY"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:12:19,814]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:12:19,814]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTc5OTc5MjE5MDAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTMxMjE5MDB9In0.v_OYvKmSNhupDZJc_jPCcy6MIVRLwqLNMwM742yLwiU"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:51:17,388]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:51:17,404]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDAyNTg2MzYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTU0NTg2MzZ9In0.FMyoh9ZtyEL1bu8my4dMyfjhaSymySSubxw9vcxJJoc"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:51:17,653]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:51:17,654]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDAyNTg5MDgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTU0NTg5MDh9In0.ZUTqi70wnR7ThVR7-4Z_7wnRXGVOXcfnWJ_Dq9Oc4os"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:54:05,004]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 17:54:05,005]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDA0MjYyNDQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTU2MjYyNDR9In0.VY2g2FdrKzw5peU1Cp_x02ohdUpMhniGmW5j59rAxU4"}
+[wrappers.py]: [INFO  ] [2019-05-09 18:10:20,740]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-09 18:10:24,367]: ==================== End call [__main__.LoginSuite], run 3.63s ====================>
+
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:21:17,582]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:21:17,582]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDIwNTg4MzMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTcyNTg4MzN9In0.1m7kS0lA1vD-HZku-nGuqgLbGSNFaYRotR8oh2Mtd6Y"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:21:25,598]: POST https://trade.jubaozan.cn/micro/merchant-api/merchant/menu/getMenu
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:21:25,598]: 请求成功: <Response [200]>
+{"code":401,"message":"用户未登录","timestamp":1557397266}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:25:47,765]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:25:47,765]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDIzMjkwMTEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTc1MjkwMTF9In0.ZKX2bw95a5zPA64SsA2YbKIbiptzfuZs3jgAI5cSfRE"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:25:51,878]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:25:51,879]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDIzMzMxNDMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTc1MzMxNDN9In0.ZWUNM6AW0XCApI2VavQ3XXPcSfy4-HAsk5ZE2nRoxqA"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:26:26,403]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:26:26,404]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDIzNjc2NjEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTc1Njc2NjF9In0.4lfI_lKsCNfyYm_mcbwViD-pf99ZIdkCbBvkQBjiHqM"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:29:20,937]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:29:20,937]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDI1NDIxOTcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTc3NDIxOTd9In0.HIFLaumIB9XNC5Ozm3nssD9TrI0a9s8jkGlcBb0i8vE"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:32:38,944]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:32:38,945]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDI3NDAyMDYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTc5NDAyMDZ9In0.CWbEh41zaFXwL7fyjVmo-ugzNISwKUxuL5MSdnPlzcU"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:37:31,093]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:37:31,094]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDMwMzIzNTQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTgyMzIzNTR9In0.LdgSorxvRirxat-NxpruAVeGCOr_0nbBVwhDQdPV1w8"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:38:11,220]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:38:11,221]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDMwNzI0NjMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTgyNzI0NjN9In0.iH2RXqxp2QvzSOl2Ox3zJyGhoiJt52CBq3GWLrvEcxQ"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:40:32,767]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:40:32,767]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:40:32,964]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:40:32,965]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwMDMyMTQyMjYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTczOTg0MTQyMjZ9In0.z315cYIlGzEGTpfMtiUyvhBodwCvLB-4D3wbYB0y5nQ"}
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:42:04,911]: POST https://t.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:42:04,912]: 请求成功: <Response [200]>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name = "format-detection" content = "telephone=no">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta content="telephone=no" name="format-detection"/>
+    <link rel="stylesheet" href="css/404.css">
+    <title>404Error</title>
+</head>
+<body>
+<div id="rocket">
+    <img src="img/rocket.png" alt="">
+</div>
+<h4>
+    您访问的页面已离开地球
+</h4>
+<p class="split"></p>
+<div class="title">可能原因:</div>
+<div class="item">
+    <ul>
+        <li>网络不稳定</li>
+        <li>尚未解除互联网</li>
+        <li>安全软件禁止访问网络</li>
+    </ul>
+</div>
+</body>
+</html>
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:42:05,373]: POST https://t.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-09 18:42:05,373]: 请求成功: <Response [200]>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name = "format-detection" content = "telephone=no">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta content="telephone=no" name="format-detection"/>
+    <link rel="stylesheet" href="css/404.css">
+    <title>404Error</title>
+</head>
+<body>
+<div id="rocket">
+    <img src="img/rocket.png" alt="">
+</div>
+<h4>
+    您访问的页面已离开地球
+</h4>
+<p class="split"></p>
+<div class="title">可能原因:</div>
+<div class="item">
+    <ul>
+        <li>网络不稳定</li>
+        <li>尚未解除互联网</li>
+        <li>安全软件禁止访问网络</li>
+    </ul>
+</div>
+</body>
+</html>
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:18:55,776]: POST https://t.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:18:55,821]: 请求成功: <Response [200]>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name = "format-detection" content = "telephone=no">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta content="telephone=no" name="format-detection"/>
+    <link rel="stylesheet" href="css/404.css">
+    <title>404Error</title>
+</head>
+<body>
+<div id="rocket">
+    <img src="img/rocket.png" alt="">
+</div>
+<h4>
+    您访问的页面已离开地球
+</h4>
+<p class="split"></p>
+<div class="title">可能原因:</div>
+<div class="item">
+    <ul>
+        <li>网络不稳定</li>
+        <li>尚未解除互联网</li>
+        <li>安全软件禁止访问网络</li>
+    </ul>
+</div>
+</body>
+</html>
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:18:56,250]: POST https://t.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:18:56,250]: 请求成功: <Response [200]>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name = "format-detection" content = "telephone=no">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta content="telephone=no" name="format-detection"/>
+    <link rel="stylesheet" href="css/404.css">
+    <title>404Error</title>
+</head>
+<body>
+<div id="rocket">
+    <img src="img/rocket.png" alt="">
+</div>
+<h4>
+    您访问的页面已离开地球
+</h4>
+<p class="split"></p>
+<div class="title">可能原因:</div>
+<div class="item">
+    <ul>
+        <li>网络不稳定</li>
+        <li>尚未解除互联网</li>
+        <li>安全软件禁止访问网络</li>
+    </ul>
+</div>
+</body>
+</html>
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:21:41,133]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:21:41,134]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:21:41,532]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:21:41,532]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTYwODI1MTQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTEyODI1MTR9In0.NQDujPrs-nMA4lcvO4jSKYeHUvrgMAxLE6qNATb4JyQ"}
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:42:11,850]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:42:11,850]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:42:12,054]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:42:12,055]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTczMTMwNDMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTI1MTMwNDN9In0.HcWsE9nYtyH_5SboRoZ6edwVtXv2gdPTDxILDEz7E3U"}
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:43:30,324]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:43:30,324]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:43:30,511]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-10 09:43:30,511]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTczOTE0ODgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTI1OTE0ODh9In0.8_UnLT8nZJlUQ9jxVuN4w7r2su6kBvfHG_ZJenJBe9Y"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 09:44:28,601]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 09:44:28,601]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 09:44:28,792]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 09:44:28,793]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTc0NDk3NzAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTI2NDk3NzB9In0.QJUN2xm6f-QYBPBxAglCeECB-m2hr7jdBIe1dasbmG0"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:00:10,638]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:00:10,638]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:00:10,857]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:00:10,858]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTgzOTE4NDIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTM1OTE4NDJ9In0.OxWl6dOJJH1XYIAxlkcZ_UwG3K1YrWLnh278Ne07pvw"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:01:39,138]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:01:39,138]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:01:39,389]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:01:39,390]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTg0ODAzNzgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTM2ODAzNzh9In0.iav0MsHSoPSFd1ohAEFNsQmxXsPUHQnUqy0CdS2F1S8"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:09:53,150]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:09:53,150]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:09:53,335]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:09:53,335]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTg5NzQzMjgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTQxNzQzMjh9In0.EtxwKfuIQjFRxQ8q1of7QKsso9V7E68NREPtwtSzZio"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:12:59,234]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:12:59,235]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:12:59,484]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:12:59,484]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTkxNjA0MzAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTQzNjA0MzB9In0.Px6-7hlaNEv2xafeUdQuC3nryV6nxHrv8C-lCyL82Gs"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:08,910]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:08,910]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:09,098]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:09,099]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTkxNzAwODcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTQzNzAwODd9In0.xxSpNM5ufY1vX9_h4IyOQwGB_tmnclLbfcqTmMtQI9E"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:09,311]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:09,312]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:37,156]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:37,156]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:37,478]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:37,479]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTkxOTg0MzksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTQzOTg0Mzl9In0.YArd6hrU5P5QzQz2D19pPiP5rpmOeoryMays4SUeyIE"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:37,768]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:13:37,769]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:17:09,282]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:17:09,282]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNTk0MTAyNzEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTQ2MTAyNzF9In0.ytq0I_wWzxSrsRhaEvq4t3RezSEIYvxoL3xIGRAfrYs"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:17:09,488]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:17:09,489]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:17:09,682]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:17:09,682]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:37:21,136]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:37:21,137]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNjA2MjIxMjksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTU4MjIxMjl9In0.4pn1nXC0XOvYpbcUAlZlCZhzY4v-10uSGyI54xfFY8o"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:37:21,321]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:37:21,322]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:37:21,511]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 10:37:21,512]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:00:16,432]: PUT https://u.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:00:16,432]: 请求成功: <Response [404]>
+{"timestamp":"2019-05-10 02:59:57","status":404,"error":"Not Found","message":"No handler found for PUT /mall/goods/poster","path":"/mall/goods/poster"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:00:16,664]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:00:16,665]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNjE5OTc2NjIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTcxOTc2NjJ9In0.SbbZP0RwmosOkRjyEY0scICAHjAPC5liUvcZqzyIDNI"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:00:16,903]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:00:16,904]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:00:17,103]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:00:17,104]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:01:30,737]: PUT https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:01:30,737]: 请求成功: <Response [405]>
+{"timestamp":"2019-05-10 03:01:11","status":405,"error":"Method Not Allowed","message":"Request method 'PUT' not supported","path":"/auth/login"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:01:30,944]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:01:30,945]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNjIwNzE5MzgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTcyNzE5Mzh9In0._fqXB2XZEMfgU6ID1y3qBADLAg8EEJEJGx3DEs9cMUw"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:01:31,142]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:01:31,143]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:01:31,367]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:01:31,368]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:02:19,917]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:02:19,918]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNjIxMjA5MTgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTczMjA5MTh9In0.wUFS9s3zxImYHXEu8x-rd75HK04Ll83W491XOwabZvI"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:02:20,140]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:02:20,140]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNjIxMjExMjUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTczMjExMjV9In0.lE3tocubsUPMXBVDD2N0h1TLIpWGEV-WLZfsCnj8MZc"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:02:20,332]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:02:20,332]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:02:20,515]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:02:20,516]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[wrappers.py]: [INFO  ] [2019-05-10 11:03:29,940]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-10 11:03:30,926]: ==================== End call [testcases_login.LoginSuite], run 0.986s ====================>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:44:27,538]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:44:27,538]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNjQ2NDg1NDcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTk4NDg1NDd9In0.ffrYd1OOjL4FbbU4DiG4ybSK3nwUqueHkFYVriiJGy0"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:44:27,723]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:44:27,723]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:44:27,907]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:44:27,908]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:46:48,439]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:46:48,439]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNjQ3ODk0NDYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NTk5ODk0NDZ9In0.7Uya7KfuHI1DsGbr5Vag4zBgWaNCQ4zSgzPx60chGjo"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:46:48,664]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:46:48,664]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:46:48,863]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 11:46:48,863]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 14:47:13,679]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 14:47:13,680]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwNzU2MTQ2NDAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NzA4MTQ2NDB9In0.-u4mvFib9KWFwYDaafETyPnbV3NJtrGHnr1PuIJpVz0"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 14:47:13,880]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 14:47:13,880]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 14:47:14,052]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 14:47:14,052]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[wrappers.py]: [INFO  ] [2019-05-10 16:03:25,043]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-10 16:03:27,633]: ==================== End call [testcases_login.LoginSuite], run 2.59s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-10 16:05:16,332]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-10 16:05:19,257]: ==================== End call [testcases_login.LoginSuite], run 2.92s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-10 16:06:55,280]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-10 16:06:57,802]: ==================== End call [testcases_login.LoginSuite], run 2.52s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-10 16:07:22,817]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-10 16:07:25,547]: ==================== End call [testcases_login.LoginSuite], run 2.73s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-10 16:07:45,454]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-10 16:07:48,251]: ==================== End call [testcases_login.LoginSuite], run 2.8s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-10 16:08:22,278]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-10 16:08:24,689]: ==================== End call [testcases_login.LoginSuite], run 2.41s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-10 16:17:28,644]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-10 16:17:35,891]: ==================== End call [testcases_login.LoginSuite], run 7.25s ====================>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-10 16:53:29,219]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 16:53:29,219]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwODMxOTAxODksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0NzgzOTAxODl9In0.zQAPb2YyPOKcAqC297VnTgJEBAWQ3wp2uGpdTbKyJD4"}
+[HTTPClient.py]: [DEBUG ] [2019-05-10 16:53:57,374]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-10 16:53:57,374]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwODMyMTgzNDEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0Nzg0MTgzNDF9In0.gnSRr_92e7is-sbmXvjwXrSc4r02s_bpCUsXycxvloA"}
