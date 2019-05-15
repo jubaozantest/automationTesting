@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c1bf26-2331-4344-ba6c-bf6bbdbbcf20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/extract.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/extractVariables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/query_mysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/initbrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/initbrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/extract.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/extract.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/interface_testcases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/config/interface_testcases.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/selenium.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_interfaceCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_interfaceCase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/testcases_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/testcases_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcasesInterface/goods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcasesInterface/login_mobile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/HTTPClient.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/HTTPClient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/default_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/default_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcasesInterface/handle_testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcasesInterface/handle_testcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/query_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/query_mysql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/util/tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/tool.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,28 +29,34 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/operation_excel.py">
+        <entry file="file://$PROJECT_DIR$/config/config.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/util/query_mysql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-243">
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            <state relative-caret-position="243">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/HTTPClient.py">
+        <entry file="file://$PROJECT_DIR$/testcasesInterface/handle_testcase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+            <state relative-caret-position="81">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="263">
+                <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -102,11 +100,9 @@
         <option value="$PROJECT_DIR$/logs/log.py" />
         <option value="$PROJECT_DIR$/reports/2019-04-17-17-42-26-report.html" />
         <option value="$PROJECT_DIR$/util/wrappers.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/logs/selenium.log" />
         <option value="$PROJECT_DIR$/pages/homepage.py" />
         <option value="$PROJECT_DIR$/interface/intfTestCase/sendValidcode.py" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/interface/intfTestCase/login111.py" />
         <option value="$PROJECT_DIR$/interface/intfTestCase/loginapi.py" />
         <option value="$PROJECT_DIR$/interface/intfTestCase/login.py" />
@@ -123,7 +119,6 @@
         <option value="$PROJECT_DIR$/lib/initbrowser.py" />
         <option value="$PROJECT_DIR$/util/test.py" />
         <option value="$PROJECT_DIR$/util/extractVariables.py" />
-        <option value="$PROJECT_DIR$/util/query_mysql.py" />
         <option value="$PROJECT_DIR$/testcasesInterface/login_mobile.py" />
         <option value="$PROJECT_DIR$/config/config.yaml" />
         <option value="$PROJECT_DIR$/lib/config.py" />
@@ -133,9 +128,13 @@
         <option value="$PROJECT_DIR$/util/default_path.py" />
         <option value="$PROJECT_DIR$/util/read_excel.py" />
         <option value="$PROJECT_DIR$/util/HTTPClient.py" />
-        <option value="$PROJECT_DIR$/util/tool.py" />
-        <option value="$PROJECT_DIR$/util/operation_excel.py" />
         <option value="$PROJECT_DIR$/testcasesInterface/authLogin.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/util/tool.py" />
+        <option value="$PROJECT_DIR$/util/query_mysql.py" />
+        <option value="$PROJECT_DIR$/testcasesInterface/handle_testcase.py" />
+        <option value="$PROJECT_DIR$/util/operation_excel.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -167,17 +166,17 @@
             <path>
               <item name="automationTesting" type="b2602c69:ProjectViewProjectNode" />
               <item name="automationTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationTesting" type="462c0819:PsiDirectoryNode" />
               <item name="reports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="automationTesting" type="b2602c69:ProjectViewProjectNode" />
               <item name="automationTesting" type="462c0819:PsiDirectoryNode" />
               <item name="testcasesInterface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automationTesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automationTesting" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,28 +227,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="goods" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selenium_py_matser" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcasesInterface" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcasesInterface/goods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="handle_testcase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_py_matser" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="query_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_py_matser" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,7 +262,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/read_excel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/query_mysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,20 +293,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="selenium_py_matser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/tool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.read_excel" />
       <item itemvalue="Python.authLogin" />
-      <item itemvalue="Python.goods" />
       <item itemvalue="Python.run_interfaceCase" />
       <item itemvalue="Python.handle_testcase" />
+      <item itemvalue="Python.query_mysql" />
+      <item itemvalue="Python.tool" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.run_interfaceCase" />
+        <item itemvalue="Python.tool" />
+        <item itemvalue="Python.query_mysql" />
         <item itemvalue="Python.handle_testcase" />
         <item itemvalue="Python.authLogin" />
-        <item itemvalue="Python.read_excel" />
-        <item itemvalue="Python.goods" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +363,7 @@
       <workItem from="1557483704281" duration="15000" />
       <workItem from="1557484499458" duration="228000" />
       <workItem from="1557643468006" duration="402000" />
-      <workItem from="1557710530952" duration="64347000" />
+      <workItem from="1557710530952" duration="76180000" />
     </task>
     <servers />
   </component>
@@ -401,7 +400,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126236000" />
+    <option name="totallyTimeSpent" value="138069000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -414,24 +413,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2700454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18835099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.3289689" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.59738135" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989899" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32659933" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.40425533" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3584288" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3989899" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32659933" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.40425533" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,13 +439,13 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25567323" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18835099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.59738135" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3584288" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3989899" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -487,21 +487,18 @@
     <SUITE FILE_PATH="coverage/automationTesting$goods.coverage" NAME="goods Coverage Results" MODIFIED="1557883429491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcasesInterface" />
     <SUITE FILE_PATH="coverage/selenium_py_matser$login.coverage" NAME="login Coverage Results" MODIFIED="1557281438014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
     <SUITE FILE_PATH="coverage/automationTesting$run.coverage" NAME="run Coverage Results" MODIFIED="1557727365049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/automationTesting$run_interfaceCase.coverage" NAME="run_interfaceCase Coverage Results" MODIFIED="1557894340231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automationTesting$run_interfaceCase.coverage" NAME="run_interfaceCase Coverage Results" MODIFIED="1557907753360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automationTesting$Unittests_in_mobile_login_py.coverage" NAME="Unittests in mobile_login.py Coverage Results" MODIFIED="1557395474675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases_interface" />
+    <SUITE FILE_PATH="coverage/automationTesting$tool.coverage" NAME="tool Coverage Results" MODIFIED="1557907259658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/automationTesting$login.coverage" NAME="login Coverage Results" MODIFIED="1557373480425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
     <SUITE FILE_PATH="coverage/automationTesting$testcases_login.coverage" NAME="testcases_login Coverage Results" MODIFIED="1557731954357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
     <SUITE FILE_PATH="coverage/automationTesting$test.coverage" NAME="test Coverage Results" MODIFIED="1557744253673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
-    <SUITE FILE_PATH="coverage/automationTesting$query_mysql.coverage" NAME="query_mysql Coverage Results" MODIFIED="1557742447278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/automationTesting$query_mysql.coverage" NAME="query_mysql Coverage Results" MODIFIED="1557902804609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/automationTesting$Unnamed.coverage" NAME="name Coverage Results" MODIFIED="1557396251871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../" />
     <SUITE FILE_PATH="coverage/automationTesting$login_mobile.coverage" NAME="login_mobile Coverage Results" MODIFIED="1557815997262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcasesInterface" />
     <SUITE FILE_PATH="coverage/automationTesting$Unittests_in_login_mobile_py.coverage" NAME="Unittests in login_mobile.py Coverage Results" MODIFIED="1557397551354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases_interface" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/reports/2019-05-10-10-13-36-report.html" />
-    <entry file="file://$PROJECT_DIR$/reports/2019-05-10-10-17-08-report.html" />
-    <entry file="file://$PROJECT_DIR$/reports/2019-05-10-10-34-59-report.html" />
-    <entry file="file://$PROJECT_DIR$/reports/2019-05-10-10-37-20-report.html" />
     <entry file="file://$PROJECT_DIR$/reports/2019-05-10-11-00-15-report.html" />
     <entry file="file://$PROJECT_DIR$/reports/2019-05-10-11-01-30-report.html" />
     <entry file="file://$PROJECT_DIR$/reports/2019-05-10-11-02-19-report.html" />
@@ -577,19 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/wrappers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://C:/python3/Lib/site-packages/openpyxl/workbook/workbook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -645,13 +629,6 @@
           <folding>
             <element signature="e#39#96#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -732,20 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/HTTPClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/operation_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testcasesInterface/authLogin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
@@ -769,20 +732,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/util/tool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+        <state relative-caret-position="293">
+          <caret line="248" column="22" selection-start-line="248" selection-start-column="6" selection-end-line="248" selection-end-column="22" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/reports/2019-05-15-16-05-01-interface-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/2019-05-15-16-03-28-interface-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/util/query_mysql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        <state relative-caret-position="241">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/operation_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/HTTPClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcasesInterface/handle_testcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="263">
+            <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

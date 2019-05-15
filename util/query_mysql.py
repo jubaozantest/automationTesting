@@ -3,8 +3,8 @@ import pymysql
 from sshtunnel import SSHTunnelForwarder
 
 class ExecuteSQL(object):
-    def __init__(self, dbname, sql):
-        self.dbname = dbname
+    def __init__(self, sql):
+        #self.dbname = dbname
         self.sql = sql
 
     def execute_sql(self):
@@ -19,7 +19,7 @@ class ExecuteSQL(object):
                                          port=server.local_bind_port,
                                          user='root',
                                          passwd='ilszRSaCXojd',
-                                         db=self.dbname)  # 需要连接的数据库的名称
+                                         )  # 需要连接的数据库的名称
             # 使用cursor()方法获取操作游标
             cursor = db_connect.cursor()
             try:
@@ -31,12 +31,15 @@ class ExecuteSQL(object):
                 print('Error: 执行查询失败，%s' % data)
             db_connect.close()
             return results
-
+def execute_sql(sql):
+    connect = ExecuteSQL(sql)
+    res = connect.execute_sql()
+    #print(res[0][0], type(res[0][0]))
+    return res[0][0]
 if __name__ == '__main__':
-    name = 'fxydym'
-    sql = "select mobile from fx_agent where agentid='14494534'"
-    connect = ExecuteSQL(name, sql)
-    res=connect.execute_sql()
+    #sql = "select mobile from fx_agent where agentid='14494534'"
+    sql = "select money from fxydym.fx_angent_extend where agentid=14507854"
+    execute_sql(sql)
 
 
 

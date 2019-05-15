@@ -3,7 +3,7 @@ from util.HTTPClient import HTTPClient
 from lib.config import test_config,extract_config
 from util.operation_excel import Excel
 from ddt import ddt,data
-from util.tool import check_json_contains
+from util.tool import is_json_contains
 row=1
 @ddt
 class AuthLogin(unittest.TestCase):
@@ -31,7 +31,7 @@ class AuthLogin(unittest.TestCase):
         '''校验excel中的检查点：1.字段的值和respone中的值相等 2.字段的值不为空'''
         if checkkpoint:
             checkkpoint = eval(checkkpoint)
-            result=check_json_contains(res,checkkpoint)
+            result=is_json_contains(res,checkkpoint)
             print(res)
             Excel().write_result(row,result[0])
             self.assertTrue(result[0],result[1])

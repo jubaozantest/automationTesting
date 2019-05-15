@@ -4,7 +4,7 @@ import random
 import socket
 import time
 import os
-
+from util.query_mysql import execute_sql
 
 def get_host():
     """
@@ -100,27 +100,37 @@ def is_json_contains(actual, expect, err_msg=''):
                 return False
 
     elif isinstance(actual, dict) and isinstance(expect, dict):
-        for key in expect:
+        for key ,value in expect.items():
             if key not in actual:
                 err_msg += '实际结果中未找到"{}"这个Key'.format(key)
                 return False, err_msg
-            elif not isinstance(actual[key], type(expect[key])):
-                err_msg += '"{0}"这个Key的预期结果类型是"{1}",实际结果类型是"{2}"'.format(
-                    key, type(expect[key]).__name__, type(actual[key]).__name__)
-                return False, err_msg
-            if isinstance(actual[key], dict) and isinstance(expect[key], dict):
-                res = is_json_contains(actual[key], expect[key], err_msg)
-                if res is not True:
-                    return res
-            elif isinstance(actual[key], list) and isinstance(expect[key], list):
-                res = is_json_contains(actual[key], expect[key], err_msg)
-                if res is not True:
-                    return res
-            elif actual[key] != expect[key]:
-                err_msg += '"{0}"这个Key的预期结果是"{1}"，实际结果是"{2}"'.format(key, expect[key], actual[key])
-                return False, err_msg
-
-    return True
+            if not value=='isNotNone':
+                # if not isinstance(actual[key], type(expect[key])):
+                #     err_msg += '"{0}"这个Key的预期结果类型是"{1}",实际结果类型是"{2}"'.format(
+                #         key, type(expect[key]).__name__, type(actual[key]).__name__)
+                #     return False, err_msg
+                if isinstance(actual[key], dict) and isinstance(expect[key], dict):
+                    res = is_json_contains(actual[key], expect[key], err_msg)
+                    if res is not True:
+                        return res
+                elif isinstance(actual[key], list) and isinstance(expect[key], list):
+                    res = is_json_contains(actual[key], expect[key], err_msg)
+                    if res is not True:
+                        return res
+                '''数据库校验'''
+                if isinstance(expect[key],str) and expect[key].startswith("select") :
+                    expect[key]=execute_sql(expect[key])
+                    if actual[key] != expect[key]:
+                        err_msg += '"{0}"这个Key的预期结果是"{1}"，实际结果是"{2}"'.format(key, expect[key], actual[key])
+                        return False, err_msg
+                elif actual[key] != expect[key]:
+                    err_msg += '"{0}"这个Key的预期结果是"{1}"，实际结果是"{2}"'.format(key, expect[key], actual[key])
+                    return False, err_msg
+            else:
+                if not actual[key]:
+                    err_msg = '实际结果{}的值为空'.format(key)
+                    return False, err_msg
+    return True,err_msg
 
 
 class DateEncoder(json.JSONEncoder):
@@ -220,3 +230,21 @@ if __name__ == '__main__':
     # print(s)
     # print(generate_idcard())
     pass
+    a={
+    "code": 0,
+    "message": "操作成功",
+    "body": {
+        "balance": 28.58,
+        "canApply": 25.47,
+        "noBanlance": 3.11,
+        "isbailMoneyToBalance": False,
+        "bailMoney": 0,
+        "nick": "焦梓意",
+        "headerUrl": "http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132",
+        "currency": "元"
+    },
+    "timestamp": 1557900966
+}
+    b={"message":"操作成功","body":{"canApply":"select money from fxydym.fx_angent_extend where agentid=14507854"}}
+    x=is_json_contains(a,b)
+    print(x)
