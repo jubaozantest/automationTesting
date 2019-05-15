@@ -1,7 +1,7 @@
-# -*- coding=utf-8
-import os
 import yaml
-
+from util.default_path import get_config
+extract_path=get_config().EXTRACT_PATH
+config_path=get_config().WINDOWS_CONFIG
 class  Config:
     def __init__(self):
         '''
@@ -11,9 +11,9 @@ class  Config:
         os.path.abspath(path): 将path从相对路径转成绝对路径
         os.pardir: Linux下相当于"../"
         '''
-        dir_path = os.path.dirname(os.path.realpath(__file__))
-        dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
-        config_path = os.path.join(dir_path, 'config', 'config.yaml')
+        # dir_path = os.path.dirname(os.path.realpath(__file__))
+        # dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
+        # config_path = os.path.join(dir_path, 'config', 'config.yaml')
         #,Loader=yaml.FullLoader
         with open(config_path, 'r') as ymlfile:
             self.cfg = yaml.load(ymlfile)
@@ -33,4 +33,14 @@ class  Config:
     def interface_pre(self):
         return self.cfg['interfacePre']
 
+class  ConfigExtract:
+    def __init__(self):
+
+        with open(extract_path, 'r') as ymlfile:
+            self.cfg = yaml.load(ymlfile)
+
+    def extract(self,variable):
+        return self.cfg[variable]
+
 test_config = Config()
+extract_config =ConfigExtract()

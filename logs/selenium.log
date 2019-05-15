@@ -455,3 +455,1396 @@
 [HTTPClient.py]: [DEBUG ] [2019-05-10 16:53:57,374]: POST https://u.jubaozan.cn/auth/login
 [HTTPClient.py]: [DEBUG ] [2019-05-10 16:53:57,374]: 请求成功: <Response [200]>
 {"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgwODMyMTgzNDEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc0Nzg0MTgzNDF9In0.gnSRr_92e7is-sbmXvjwXrSc4r02s_bpCUsXycxvloA"}
+[HTTPClient.py]: [DEBUG ] [2019-05-12 14:49:26,772]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-12 14:49:26,773]: 请求成功: <Response [200]>
+{"code":210000,"success":false,"errorMessage":"数据不能没有内容:必须传商家id"}
+[HTTPClient.py]: [DEBUG ] [2019-05-12 14:50:55,391]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-12 14:50:55,392]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-12_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 09:36:10,308]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 09:36:10,308]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-13_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 09:38:13,522]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 09:38:13,523]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-13_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 09:44:53,658]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 09:44:53,659]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-13_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 09:45:20,429]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 09:45:20,429]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-13_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 10:06:24,217]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 10:06:24,218]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-13_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 10:06:24,446]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 10:06:24,447]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 10:06:53,732]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 10:06:53,733]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-13_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 10:06:53,997]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 10:06:53,997]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:03:28,211]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:03:28,211]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:03:28,440]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:03:28,440]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[wrappers.py]: [INFO  ] [2019-05-13 11:08:01,644]: <==================== hejianhao Begin call [__main__.GoodsPoster] ====================
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:08:02,134]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:08:02,134]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[wrappers.py]: [ERROR ] [2019-05-13 11:08:02,189]: ATP: 接口发现未知错误 
+ an error occured 
+False != True
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcasesInterface/goods.py", line 30, in test_1_right_numIid
+    self.assertEqual(res['success'],True)
+  File "C:\python3\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python3\lib\unittest\case.py", line 832, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: False != True
+
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:08:02,575]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:08:02,575]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:09:59,384]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:09:59,385]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:09:59,639]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:09:59,639]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:10:00,041]: PUT https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:10:00,042]: 请求成功: <Response [405]>
+{"timestamp":"2019-05-13 03:09:36","status":405,"error":"Method Not Allowed","message":"Request method 'PUT' not supported","path":"/auth/login"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:10:00,281]: PUT https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:10:00,281]: 请求成功: <Response [405]>
+{"timestamp":"2019-05-13 03:09:36","status":405,"error":"Method Not Allowed","message":"Request method 'PUT' not supported","path":"/auth/login"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:10:00,527]: PUT https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:10:00,527]: 请求成功: <Response [405]>
+{"timestamp":"2019-05-13 03:09:36","status":405,"error":"Method Not Allowed","message":"Request method 'PUT' not supported","path":"/auth/login"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:12:34,893]: PUT https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:12:34,893]: 请求成功: <Response [405]>
+{"timestamp":"2019-05-13 03:12:11","status":405,"error":"Method Not Allowed","message":"Request method 'PUT' not supported","path":"/auth/login"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:12:35,082]: PUT https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:12:35,083]: 请求成功: <Response [405]>
+{"timestamp":"2019-05-13 03:12:11","status":405,"error":"Method Not Allowed","message":"Request method 'PUT' not supported","path":"/auth/login"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:21,509]: PUT https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:21,510]: 请求成功: <Response [405]>
+{"timestamp":"2019-05-13 03:12:57","status":405,"error":"Method Not Allowed","message":"Request method 'PUT' not supported","path":"/auth/login"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:21,696]: PUT https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:21,696]: 请求成功: <Response [405]>
+{"timestamp":"2019-05-13 03:12:58","status":405,"error":"Method Not Allowed","message":"Request method 'PUT' not supported","path":"/auth/login"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:42,109]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:42,109]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMjE5OTg1MzMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MTcxOTg1MzN9In0.Tj_yA5FhOwi8kr7XeuCqEuHcKj3DbePTn30YWPTfBPU"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:42,311]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:42,311]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:57,017]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:57,017]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:57,237]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:13:57,238]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:14:13,597]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:14:13,598]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:14:13,814]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:14:13,814]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:14:14,151]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:14:14,152]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMjIwMzA1NzMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MTcyMzA1NzN9In0.uObm6sNTYCMWsr1zkd8rp9aHd367gFKISMUwyALRjgU"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:14:14,396]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:14:14,396]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:19:28,670]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:19:28,671]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:19:28,883]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:19:28,884]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:19:29,525]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:19:29,525]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMjIzNDU5MjIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MTc1NDU5MjJ9In0.TZ61XSjYbaVzCdwe0783RbyYnrGYyEO8tr9t_o8OYG8"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:19:29,789]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:19:29,789]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:46:55,482]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:46:55,483]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:47:25,428]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:47:25,429]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:47:36,285]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:47:36,285]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:47:53,793]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:47:53,793]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:49:19,817]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:49:19,818]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMjQxMzYyNTUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MTkzMzYyNTV9In0.4_QPUo0QnSz5MQDjab-tCctbCnl81KJjiyztNZT3pPY"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:49:20,063]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:49:20,064]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:51:44,309]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:51:44,310]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMjQyODA2ODYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MTk0ODA2ODZ9In0.svNsvboSXx6Gy-uBNKDG9GlB9YuuQAvUtjo1SalN1WM"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:51:44,543]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:51:44,544]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:56:31,772]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:56:31,772]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMjQ1NjgxNzgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MTk3NjgxNzh9In0.7UJbQ6nTkRbndPbPq8VF7YSqRD-aj4aZNVIeQ5EdTSo"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:56:32,064]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 11:56:32,064]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[wrappers.py]: [INFO  ] [2019-05-13 14:02:51,463]: <==================== hejianhao Begin call [testcases_login.LoginSuite] ====================
+[wrappers.py]: [ERROR ] [2019-05-13 14:02:56,776]: ATP: 接口发现未知错误 
+ an error occured 
+exceptions must derive from BaseException
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 57, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(*args))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:\automationTesting\testcases\testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:\automationTesting\testcases\testcases_login.py", line 36, in login
+    self.browser.get_element_until_is_visible(*LoginPage.login_button).click()
+  File "E:\automationTesting\lib\initbrowser.py", line 60, in get_element_until_is_visible
+    raise ("{0}元素路径找不到")
+TypeError: exceptions must derive from BaseException
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:09:58,945]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [ERROR ] [2019-05-13 14:09:58,947]: ATP: 接口发现未知错误 
+ an error occured 
+exceptions must derive from BaseException
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 58, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(*args))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\automationTesting\lib\initbrowser.py", line 58, in <lambda>
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(*args))
+TypeError: find_element() takes from 1 to 3 positional arguments but 4 were given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 34, in login
+    self.browser.get_element_until_is_visible(*LoginPage.username_input).send_keys(kwargs["name"])
+  File "E:\automationTesting\lib\initbrowser.py", line 61, in get_element_until_is_visible
+    raise ("{0}元素路径找不到")
+TypeError: exceptions must derive from BaseException
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:16:50,269]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-13 14:16:51,684]: ==================== End call [__main__.LoginSuite], run 1.42s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:18:02,063]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [ERROR ] [2019-05-13 14:18:02,064]: ATP: 接口发现未知错误 
+ an error occured 
+type() takes 1 or 3 arguments
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 34, in login
+    self.browser.get_element_until_is_visible(*LoginPage.username_input).send_keys(kwargs["name"])
+  File "E:\automationTesting\lib\initbrowser.py", line 56, in get_element_until_is_visible
+    print(*args,type(*args))
+TypeError: type() takes 1 or 3 arguments
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:18:35,605]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [ERROR ] [2019-05-13 14:18:35,606]: ATP: 接口发现未知错误 
+ an error occured 
+type() takes 1 or 3 arguments
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 34, in login
+    self.browser.get_element_until_is_visible(*LoginPage.username_input).send_keys(kwargs["name"])
+  File "E:\automationTesting\lib\initbrowser.py", line 56, in get_element_until_is_visible
+    print(*args,type(*args))
+TypeError: type() takes 1 or 3 arguments
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:19:13,990]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-13 14:19:15,319]: ==================== End call [__main__.LoginSuite], run 1.33s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:20:22,355]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-13 14:20:23,707]: ==================== End call [__main__.LoginSuite], run 1.35s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:23:57,361]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-13 14:23:58,664]: ==================== End call [__main__.LoginSuite], run 1.3s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:25:05,272]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [ERROR ] [2019-05-13 14:25:05,275]: ATP: 接口发现未知错误 
+ an error occured 
+tuple index out of range
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 34, in login
+    self.browser.get_element_until_is_visible(LoginPage.username_input).send_keys(kwargs["name"])
+  File "E:\automationTesting\lib\initbrowser.py", line 58, in get_element_until_is_visible
+    inspect=args[1]
+IndexError: tuple index out of range
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:26:45,903]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [ERROR ] [2019-05-13 14:26:45,907]: ATP: 接口发现未知错误 
+ an error occured 
+tuple index out of range
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 34, in login
+    self.browser.get_element_until_is_visible(LoginPage.username_input).send_keys(kwargs["name"])
+  File "E:\automationTesting\lib\initbrowser.py", line 58, in get_element_until_is_visible
+    inspect=args[1]
+IndexError: tuple index out of range
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:29:17,699]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-13 14:29:19,112]: ==================== End call [__main__.LoginSuite], run 1.41s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:32:22,953]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-13 14:32:24,110]: ==================== End call [__main__.LoginSuite], run 1.15s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:40:48,092]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 14:40:48,092]: 点击元素--111，值为//*[@id='use_name']
+[wrappers.py]: [INFO  ] [2019-05-13 14:40:48,092]: ==================== End call [__main__.LoginSuite], run 0.0s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:42:07,183]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 14:42:07,184]: 开始点击元素:111，值为://*[@id='use_name']
+[wrappers.py]: [INFO  ] [2019-05-13 14:42:07,184]: ==================== End call [__main__.LoginSuite], run 0.001s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:43:45,323]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [ERROR ] [2019-05-13 14:43:45,325]: ATP: 接口发现未知错误 
+ an error occured 
+tuple index out of range
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 37, in login
+    self.browser.click_element(LoginPage.username_input)
+  File "E:\automationTesting\lib\initbrowser.py", line 64, in click_element
+    logger.info('开始点击元素:{0}，值为:{1}'.format(args[2],args[1]))
+IndexError: tuple index out of range
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:44:01,865]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [INFO  ] [2019-05-13 14:44:01,867]: ==================== End call [__main__.LoginSuite], run 0.0s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:46:54,855]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 14:46:54,855]: 开始点击元素:111，值为://*[@id='use_name']
+[wrappers.py]: [ERROR ] [2019-05-13 14:46:54,855]: ATP: 接口发现未知错误 
+ an error occured 
+tuple index out of range
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 37, in login
+    self.browser.click_element(*LoginPage.username_input)
+  File "E:\automationTesting\lib\initbrowser.py", line 65, in click_element
+    self.get_element_until_is_visible(args).click()
+  File "E:\automationTesting\lib\initbrowser.py", line 57, in get_element_until_is_visible
+    by,inspect,name=args[0],args[1],args[2]
+IndexError: tuple index out of range
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:47:25,428]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 14:47:25,430]: 开始点击元素:111，值为://*[@id='use_name']
+[wrappers.py]: [INFO  ] [2019-05-13 14:47:25,496]: ==================== End call [__main__.LoginSuite], run 0.066s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:52:36,141]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[wrappers.py]: [ERROR ] [2019-05-13 14:52:36,141]: ATP: 接口发现未知错误 
+ an error occured 
+send_keys() got multiple values for argument 'value'
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 37, in login
+    self.browser.send_keys(*LoginPage.username_input,value=kwargs["name"])
+TypeError: send_keys() got multiple values for argument 'value'
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:53:12,939]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 14:53:12,939]: 开始在元素:sjsdmz输入:xpath，路径值为:111
+[wrappers.py]: [ERROR ] [2019-05-13 14:53:13,003]: ATP: 接口发现未知错误 
+ an error occured 
+exceptions must derive from BaseException
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 59, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "E:\automationTesting\lib\initbrowser.py", line 59, in <lambda>
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 966, in find_element
+    'value': value})['value']
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 320, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: Unsupported locator strategy: //*[@id='use_name']
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 37, in login
+    self.browser.send_keys(*LoginPage.username_input,kwargs["name"])
+  File "E:\automationTesting\lib\initbrowser.py", line 69, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(value)
+  File "E:\automationTesting\lib\initbrowser.py", line 62, in get_element_until_is_visible
+    raise ("{0}元素路径找不到".format(name))
+TypeError: exceptions must derive from BaseException
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:57:38,707]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 14:57:38,707]: 开始点击元素:111，路径值为://*[@id='use_name']
+[wrappers.py]: [INFO  ] [2019-05-13 14:57:38,808]: ==================== End call [__main__.LoginSuite], run 0.1s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 14:59:02,998]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 14:59:02,998]: 开始在元素:111输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-13 14:59:03,051]: 开始在元素:111输入:a111111，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-13 14:59:03,088]: 开始点击元素:111，路径值为://*[@id='use_name']
+[wrappers.py]: [INFO  ] [2019-05-13 14:59:03,139]: ==================== End call [__main__.LoginSuite], run 0.141s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 15:00:12,993]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 15:00:12,993]: 开始在元素:用户名输入框输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:00:13,049]: 开始在元素:用户名输入框输入:a111111，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:00:13,084]: 开始点击元素:用户名输入框，路径值为://*[@id='use_name']
+[wrappers.py]: [INFO  ] [2019-05-13 15:00:13,118]: ==================== End call [__main__.LoginSuite], run 0.124s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 15:01:35,513]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 15:01:35,513]: 开始在元素:用户名输入框输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:01:35,563]: 开始在元素:密码输入框输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:01:35,619]: 开始点击元素:登录按钮，路径值为://input[@value='登录']
+[wrappers.py]: [INFO  ] [2019-05-13 15:01:37,427]: ==================== End call [__main__.LoginSuite], run 1.91s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-13 15:02:42,358]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 15:02:42,359]: 开始在元素:用户名输入框输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:02:42,411]: 开始在元素:密码输入框输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:02:42,462]: 开始点击元素:登录按钮，路径值为://input[@value='登录111']
+[wrappers.py]: [ERROR ] [2019-05-13 15:02:47,646]: ATP: 接口发现未知错误 
+ an error occured 
+exceptions must derive from BaseException
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 59, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 36, in login
+    self.browser.click_element(*LoginPage.login_button)
+  File "E:\automationTesting\lib\initbrowser.py", line 65, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "E:\automationTesting\lib\initbrowser.py", line 62, in get_element_until_is_visible
+    raise ("{0}元素路径找不到".format(name))
+TypeError: exceptions must derive from BaseException
+
+[wrappers.py]: [INFO  ] [2019-05-13 15:03:41,857]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 15:03:41,858]: 开始在元素:用户名输入框输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:03:41,924]: 开始在元素:密码输入框输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:03:41,982]: 开始点击元素:登录按钮，路径值为://input[@value='登录111']
+[wrappers.py]: [ERROR ] [2019-05-13 15:03:47,266]: ATP: 接口发现未知错误 
+ an error occured 
+exceptions must derive from BaseException
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 59, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 30, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 36, in login
+    self.browser.click_element(*LoginPage.login_button)
+  File "E:\automationTesting\lib\initbrowser.py", line 65, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "E:\automationTesting\lib\initbrowser.py", line 62, in get_element_until_is_visible
+    raise ("{}元素路径找不到".format(name))
+TypeError: exceptions must derive from BaseException
+
+[wrappers.py]: [INFO  ] [2019-05-13 15:19:19,539]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-13 15:19:19,539]: 开始在元素:用户名输入框输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:19:19,664]: 开始在元素:密码输入框输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-13 15:19:19,720]: 开始点击元素:登录按钮，路径值为://input[@value='登录111']
+[wrappers.py]: [ERROR ] [2019-05-13 15:19:24,876]: ATP: 接口发现未知错误 
+ an error occured 
+登录按钮元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 62, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 29, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 35, in login
+    self.browser.click_element(*LoginPage.login_button)
+  File "E:\automationTesting\lib\initbrowser.py", line 68, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "E:\automationTesting\lib\initbrowser.py", line 65, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 登录按钮元素路径找不到
+
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:21:05,588]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:21:05,588]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMzY4NjU1NTAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzIwNjU1NTB9In0.VXQ1M146VCbhu-C4cGtuXIf4ax1J88K5L3FqQHki3LQ"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:21:05,812]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:21:05,812]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:29:07,947]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:29:07,947]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMzczNDc5MjcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzI1NDc5Mjd9In0.XgX1ehG54uHjBCqjN279D0w_YIkU_j7TNu4TDyzJFhA"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:29:08,182]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:29:08,182]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:29:28,975]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:29:28,975]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMzczNjg5NjAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzI1Njg5NjB9In0.wsR5ayS3qVLfQpomi-D8T4dQVFq7xQIn5gUP7I38m1g"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:30:08,337]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:30:08,338]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMzc0MDgzMzQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzI2MDgzMzR9In0.qBplaHX4h_N5Xpernka8Wo1oR_3De3XOWCuzbRR2YIE"}
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:32:13,147]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-13 15:32:13,147]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMzc1MzMxMzgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzI3MzMxMzh9In0.YAZYYYi0eyGWnaFizw7L04EJOt7O0Cvz7gKlOQht2yU"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:32:32,457]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:32:32,457]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMzc1NTI0NTMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzI3NTI0NTN9In0.oWw5axsKa0P7z8IPUGQKM9RAxoM0KkgWwZt9W9UekHU"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:39:18,985]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:39:18,986]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMzc5NTg5NzEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzMxNTg5NzF9In0.fEu4LlwkUnT-h5HewjPj8MfNr0NZl8UgMSHHIxZqMjM"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:39:19,204]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:39:19,206]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:54:54,967]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:54:54,967]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMzg4OTQ5NTQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzQwOTQ5NTR9In0.p9twodmDidLWcflo2gnhXGylZwVet9v-dS1WbMXXco0"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:58:31,911]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 15:58:31,912]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzMzkxMTE4ODcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzQzMTE4ODd9In0.gajQpUikzfZknDGzjfEuCCqQlkIz07BMC3CwydPHgXg"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:21:48,263]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:21:48,264]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA1MDgyNTksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzU3MDgyNTl9In0.UWd0t8sh_UOPauVLsUJSYpmKRppTrhLhhTKMnbzPQqk"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:23:47,937]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:23:47,937]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA2Mjc5MjYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzU4Mjc5MjZ9In0.8IS-kicyCydJUgd7n17hx07VVnMXBkwJdACXVr7viCw"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:24:13,152]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:24:13,153]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA2NTMxNDEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzU4NTMxNDF9In0.detXCs5gtULKbXP1ksEKkm6nXNsvnRfbLSwkjdZhl8w"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:24:39,592]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:24:39,592]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA2Nzk2MDAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzU4Nzk2MDB9In0.EAL6iz2Q2irV9kqp0ISxOa1y13phtiwULCr7hqH5jzI"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:24:57,902]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:24:57,903]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA2OTc5MDQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzU4OTc5MDR9In0.gWFTunx-Rnu_9ijSP-QQoYPJeQqG5grgP6-keKtrpUg"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:25:12,233]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:25:12,233]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA3MTIyMjUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzU5MTIyMjV9In0.ufH9W3ErqspSf_QywDFqOcWNdPV6o1r0JsS_n8y_uAA"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:25:55,772]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:25:55,772]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA3NTU3NzgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzU5NTU3Nzh9In0.Iuop-aqEo67eCiRD9WxYz_xVbL-yjBFzXYlIYoEK2HY"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:26:43,931]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:26:43,932]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA4MDM5NDAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzYwMDM5NDB9In0.-bdt3o2ymqNg02yEjolgABbAYF2fqVxykGp-MvlW9V8"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:27:17,309]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:27:17,309]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA4MzczMTEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzYwMzczMTF9In0.8gBtbGnCy7BnnZFmht1PmjsgvZcImCamJadQW1epujE"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:28:17,407]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:28:17,407]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDA4OTc0MDgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzYwOTc0MDh9In0.sWhBjrJXq-iro9kuDK0UQjl9MB_70u2TxOaa52gVwxY"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:30:43,059]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:30:43,059]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDEwNDMwNTIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzYyNDMwNTJ9In0.82Dh_vysznX_frX-Nl3EhwLKSWlaE5khxhqPQoRMLPU"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:30:43,294]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:30:43,295]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:32:57,820]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:32:57,820]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDExNzc4MTcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzYzNzc4MTd9In0.zii-OMo_5Z18jkOCrBuOIepTiReGOy7O8cf29MXOPIo"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:32:58,041]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:32:58,042]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:32:58,273]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:32:58,273]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTgzNDExNzgyNzEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc3MzYzNzgyNzF9In0.MHx6D2PNR-PF6gVwwrpQf9uUohC87V_pyzpT1won1rQ"}
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:32:58,632]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-13 16:32:58,632]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:05:39,139]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:05:39,139]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:05:39,414]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:05:39,414]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:17:50,243]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:17:50,244]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:17:50,424]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:17:50,424]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:19:30,059]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:19:30,059]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:19:30,240]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-14 14:19:30,240]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:19:59,809]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:19:59,809]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:19:59,985]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:19:59,985]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:32:21,863]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:32:21,864]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:32:22,167]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:32:22,167]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:37:46,441]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:37:46,441]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:37:46,891]: POST https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:37:46,891]: 请求成功: <Response [405]>
+<!doctype html><html lang="en"><head><title>HTTP Status 405 – Method Not Allowed</title><style type="text/css">h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 405 – Method Not Allowed</h1></body></html>
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:39:08,131]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:39:08,131]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjA3NDcxMzQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTU5NDcxMzR9In0.bSgDWwzDOut5s4IvslKXB-5o2qg09Y5NPfmOwkzQOBc"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:39:08,328]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:39:08,329]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:39:57,935]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:39:57,935]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjA3OTY5MjgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTU5OTY5Mjh9In0.tk79sm4jGDdn5geo_jbs_7stRu9uQ6b2yqLCizvs03w"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:39:58,108]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:39:58,110]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:41:13,092]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:41:13,092]: 请求成功: <Response [200]>
+{"code":211000,"success":false,"errorMessage":"缺少商家id参数"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:41:13,473]: POST https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:41:13,473]: 请求成功: <Response [405]>
+<!doctype html><html lang="en"><head><title>HTTP Status 405 – Method Not Allowed</title><style type="text/css">h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 405 – Method Not Allowed</h1></body></html>
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:42:49,540]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:42:49,542]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjA5Njg1NDksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTYxNjg1NDl9In0.mrc0emwOocLIP6EKjsQgriMIZi1NzPVQi2UEvrB4law"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:42:49,728]: POST https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:42:49,729]: 请求成功: <Response [405]>
+{"timestamp":1557816168739,"status":405,"error":"Method Not Allowed","message":"Request method 'POST' not supported","path":"/mall/goods/poster"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:50:31,288]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:50:31,289]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjE0MzAyOTYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTY2MzAyOTZ9In0.jDrczzJ7ymU86bfPT5Ua-Soj2Wnl4SuQcNuV5vkScIE"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:50:31,484]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:50:31,484]: 请求成功: <Response [200]>
+{"code":780000,"success":false,"errorMessage":"用户不存在"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:50:32,532]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:50:32,532]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:51:54,276]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:51:54,276]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:55:53,780]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:55:53,780]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjE3NTI3ODgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTY5NTI3ODh9In0.DCaCDdy-PajWdXlAGeYO3V5Y7SLZoK8eNBqe-WqJbCg"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:58:09,782]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:58:09,782]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjE4ODg3ODgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTcwODg3ODh9In0.OS9dkQVdvOdCModHicmWc_3ehcQX374eQle4Rjwxpt4"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:59:04,091]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 14:59:04,091]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjE5NDMwODksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTcxNDMwODl9In0.JrBc2xDEVQw58chJhwEpIz25xVvc4GgiCD9j3kiyqM4"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:00:05,592]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:00:05,592]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjIwMDQ2MDEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTcyMDQ2MDF9In0.ywtvX4SEcu3VvqGYDkzL8dyFiimPMAbz4PfkvY37Vrw"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:00:55,371]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:00:55,372]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjIwNTQzODAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTcyNTQzODB9In0.s3RhMrg1MKBw6bRgvRnP_CAffrWxDs1An2hAAUlHF6g"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:02:15,919]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:02:15,919]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjIxMzQ5MDgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTczMzQ5MDh9In0.R0kde07-cjewk2xaGuR05KauOxkiYTwJuHfvgSBEnhQ"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:02:39,983]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:02:39,983]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjIxNTg5OTAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTczNTg5OTB9In0.Yyb1LlLKFYzKYKTmSN4vVtuLN6HK1J3gtFKwV_cdJC0"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:02:40,911]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:02:40,911]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:03:07,260]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:03:07,260]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjIxODYyNjcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTczODYyNjd9In0.V_Vrn00npj4E_vDO7eoPFdemNH2k6aSDyanCZtylwuU"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:03:08,007]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:03:08,008]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:04:48,400]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:04:48,401]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjIyODc0MTAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTc0ODc0MTB9In0.9-00oQWAYooYL1PCOklsnHGpFgQYQRITZoKXz9YzOLk"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:05:06,240]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:05:06,240]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjIzMDUyNDcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTc1MDUyNDd9In0.T6Uev_eNQFzX6iJJ0URuP8hrfj4bAhLn17yZdQpaQGg"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:09:04,828]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:09:04,828]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjI1NDM4MzMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTc3NDM4MzN9In0.Yqwr2oNsfQ39u8blGbEjPysMIKVHyP-sb3lEgZ1oa6I"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:12:12,621]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:12:12,621]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjI3MzE2MjcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTc5MzE2Mjd9In0.4LVe9jwDwk-ax52E2WVekyc08nmhun1r5yBz9PFKQIY"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:12:13,446]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:12:13,446]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:13:18,000]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:13:18,000]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjI3OTcwMDgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTc5OTcwMDh9In0.4mcOhzrfoeY4fKel_l9mOjl9DHLNSlHTO7UHHMYu3CE"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:13:18,681]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:13:18,681]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:25,163]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:25,164]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjM0NjQxNzksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTg2NjQxNzl9In0.V0L-ymFsXevH04FQJuuN-a6w_j3UlBzaUE5ErNPVPYM"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:25,858]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:25,858]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:39,062]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:39,062]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjM0NzgwNzUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTg2NzgwNzV9In0._FV3e4vFDmb8fyVu_r8cQEf8EvClpGwmPhvDM6fzpHo"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:39,960]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:39,961]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:59,868]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:24:59,870]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjM0OTg4ODQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTg2OTg4ODR9In0.tvd6AG-w0bEnbRE8jQXseuUpWSXwPChchjut5FUr1kA"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:25:00,644]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:25:00,644]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:30:04,566]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:30:04,567]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjM4MDM1NzUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTkwMDM1NzV9In0.X-xqI4zbJFU_AsuPtApOeoCMHTFaiXYz6aAcckuhfc8"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:30:05,385]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:30:05,387]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:30:05,691]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:30:05,691]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":25.47,"canApply":25.47,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557819004}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:34:12,655]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:34:12,655]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjQwNTE2NjQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MTkyNTE2NjR9In0.KgrRI0E512ylXtUv1Y62Aj9hcxWkINI_xZFDGxMV22g"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:34:13,549]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:34:13,549]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:34:14,029]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:34:14,030]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":25.47,"canApply":25.47,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557819253}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:48:24,006]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:48:24,007]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjQ5MDMwMjQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjAxMDMwMjR9In0.H9e2ejNtNplUPBbWMaPZEJL9qp592fHBq7RyTKFJZ4M"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:48:24,944]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:48:24,945]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:48:25,230]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:48:25,230]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":25.47,"canApply":25.47,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557820104}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:50:38,388]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:50:38,390]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjUwMzc0MDksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjAyMzc0MDl9In0.I1zIKnG9futi2GgrHJQa2YvFkg6fUhlDoM0mYSsAxHA"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:50:39,192]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:50:39,193]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:50:39,634]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 15:50:39,634]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":25.47,"canApply":25.47,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557820238}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:21:44,054]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:21:44,055]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjY5MDMwNzcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjIxMDMwNzd9In0.ccKJE8HJykSt3avi8Z6Pl0yb6ZV-rowf7xUPAfFsjaQ"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:21:44,987]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:21:44,987]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:21:45,496]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:21:45,497]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557822104}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:23:09,577]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:23:09,578]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjY5ODg1OTcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjIxODg1OTd9In0.XQyLao_vY4LgGhlvEzzN-809pt9TzfbOKQ7vsSfNstE"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:23:10,740]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:23:10,740]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:23:11,031]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:23:11,032]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557822190}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:23,625]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:23,625]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjcwNjI2NTIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjIyNjI2NTJ9In0.i2Wm2GSZtAnc_rg110rB8xqdBjXHbXQpTYMJXsAHgr4"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:24,489]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:24,491]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:24,681]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:24,681]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557822263}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:48,852]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:48,854]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjcwODc4NzUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjIyODc4NzV9In0.s-AVlKFkyShWwDrBLiscr38LZWdsSAb-D1WsU3ZHIxA"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:49,652]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:49,652]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:49,859]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:24:49,860]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557822288}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:25:38,223]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:25:38,223]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjcxMzcyNDYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjIzMzcyNDZ9In0.Pf8a7Yi77VPZ-JfpkhhXNgmpQA5A5bjAUBw11Jajo0c"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:25:39,355]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:25:39,355]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:25:39,726]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:25:39,726]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557822338}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:11,102]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:11,103]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0Mjc3MTAxMTYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjI5MTAxMTZ9In0.yeksoOZQzH-Dm0oMhVqjohYNTpAz9TCFBpbxykPUfvA"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:14,075]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:14,075]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:15,270]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:15,270]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557822914}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:25,313]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:25,315]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0Mjc3MjQzNDMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjI5MjQzNDN9In0.ZZzo_5dDXZ0QhpEanfUn5CYheE9o6Zdjj9k_dBNvaIs"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:26,928]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:26,929]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:28,019]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:28,019]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557822927}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:45,193]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:45,193]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:45,372]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:45,372]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:45,632]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:35:45,632]: 请求成功: <Response [200]>
+{"code":901,"message":"com.netflix.client.ClientException: Load balancer does not have available server for client: user-service","description":"account-service","timestamp":1557822944}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:21,491]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:21,492]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:22,364]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:22,365]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:23,319]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:23,319]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557822982}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:41,430]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:41,431]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:41,621]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:41,621]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:42,006]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:36:42,007]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557823001}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:19,476]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:19,476]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:19,632]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:19,633]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:20,039]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:20,039]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557823099}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:40,310]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:40,311]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:40,448]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:40,448]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:40,822]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:38:40,822]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557823119}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:40:34,439]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:40:34,440]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjgwMzI2MDUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjMyMzI2MDV9In0.9fU89uMYcvVPLhet_Us-L9QZg1cDzVO9VdBOSs1CXsE"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:40:37,380]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:40:37,380]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:40:37,676]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:40:37,676]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557823236}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:35,086]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:35,086]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjgwOTQwOTUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjMyOTQwOTV9In0.H7LW2GxTdUaDsYV4RcmHbbBUHH4XAahzTL-Hqs6mXf8"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:35,545]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:35,547]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:35,825]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:35,825]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557823294}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:48,970]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:48,971]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjgxMDc5ODYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjMzMDc5ODZ9In0.qv1su88pZ0ZLBvfD1tC6hkJjPkdWO6dpZKqkzJqkgJw"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:49,192]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:49,193]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:49,486]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:41:49,486]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557823308}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:42:55,868]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:42:55,870]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjgxNzQ4NjUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjMzNzQ4NjV9In0._8H3DXb7L65VSdOCl7D0VQJ_dBv56ysy0cbs6kqFMUs"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:42:56,171]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:42:56,171]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:42:56,367]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:42:56,367]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557823375}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:43:13,128]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:43:13,128]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjgxOTIxMzAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjMzOTIxMzB9In0.l7E1zpXZ7kp28wgTqkXDAHZmN9vbpk4IZ3p5zVghKPI"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:43:13,736]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:43:13,737]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:43:14,151]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:43:14,151]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557823393}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:44:12,919]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:44:12,919]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MjgyNTE5MzYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjM0NTE5MzZ9In0.__Sw_amUKIBOHENUJR6a3PcSaT2fSc40gku71ZFOcio"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:44:13,299]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:44:13,299]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:44:13,678]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 16:44:13,678]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557823452}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:04:04,536]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:04:04,536]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0Mjk0NDM1NTksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjQ2NDM1NTl9In0._cET1zPfqpD8pv6dJMmlhgRdyvU8mjeb2ZSbcl8p-d0"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:04:04,887]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:04:04,887]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:04:05,190]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:04:05,190]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557824644}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:06:05,223]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:06:05,223]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0Mjk1NjQyMzYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjQ3NjQyMzZ9In0.DCmYV8u0lti4_2Omh24L8oloxE7A-_MBYMSD2Uu65iE"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:06:05,599]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:06:05,599]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:06:05,902]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:06:05,903]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557824764}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:04,095]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:04,095]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzAxMDMxMDcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjUzMDMxMDd9In0.ZqDUhwlhdW0O3SbH_VRwKDIOSaZVsc3KUXn3DRqOo20"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:04,483]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:04,483]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:04,803]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:04,803]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557825303}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:34,838]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:34,839]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzAxMzM4NTksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjUzMzM4NTl9In0.XrP6bmn9BFsJ2Syn2AOOeQx5r0ajks27fhG-bw6vJ5E"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:35,164]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:35,164]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:35,475]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:15:35,476]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557825334}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:25:50,700]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:25:50,700]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzA3NDk3MjgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjU5NDk3Mjh9In0.LKJJ6Z3m_zP4I9qY2bv1G2C7KWXF_NZ_mkNy46a-GxI"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:25:51,075]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:25:51,075]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:25:51,414]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:25:51,414]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557825950}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:41:00,003]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:41:00,003]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzE2NTkwMzgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjY4NTkwMzh9In0.KHLNwMU9Ke94U8GiYlpkL76O0ax9uUs8vWlzTTtggFI"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:41:04,180]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:41:04,182]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:41:04,495]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:41:04,496]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":28.58,"canApply":25.47,"noBanlance":3.11,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1557826863}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:42:26,830]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:42:26,831]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzE3NDU4NTUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjY5NDU4NTV9In0.x-Gw0z_7qJy5eNBusR2ObK8l8xH4WRyJCvH3tG43R6k"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:42:28,047]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:42:28,048]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:43:51,153]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:43:51,153]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzE4MzAxNzQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjcwMzAxNzR9In0.lpgrK1JkWWnB8KRZ6sNpWbm9F1AeebxieyBaQagkAJ0"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:43:52,240]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:43:52,240]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:43:52,622]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:43:52,622]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557827031}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:21,719]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:21,720]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzIyODA3NDQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc0ODA3NDR9In0.IWBygT8j5QYgIL31c-FBhvAfQwP5R8SI22nmpxd9t5s"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:22,796]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:22,796]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:37,391]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:37,392]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzIyOTY0MjUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc0OTY0MjV9In0.cbF1lNYuWCaIMbW601cjfX3a9mpe44Zj_wLMmjzGW9U"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:38,276]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:38,276]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:38,572]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:51:38,574]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557827497}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:54:29,375]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:54:29,375]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI0NjgzOTcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc2NjgzOTd9In0.OwCdBE_zyFuVVLqtHSkkq8DylvNgVd8bMFCiXk5pEAA"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:54:30,407]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:54:30,407]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:54:30,707]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:54:30,708]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557827669}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:56:20,724]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:56:20,724]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI1Nzk3NjIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc3Nzk3NjJ9In0.ckbLTMpXd9_ftWTHM49h8OvIANqBmD7Qn2hBsQPrTeU"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:57:51,646]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:57:51,646]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI2NzA2ODQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc4NzA2ODR9In0.Xf9aMXjDieKs0AFe9tItFFLrXTvurVZJvGG-vdLc2FY"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:17,600]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:17,600]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI3NTY2MTIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc5NTY2MTJ9In0.x4MKgFl38S2FYKI1DNl1kKVMozA9p-qYcLx8e3WrU2Y"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 17:59:17,606]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI3NTY2MTIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc5NTY2MTJ9In0.x4MKgFl38S2FYKI1DNl1kKVMozA9p-qYcLx8e3WrU2Y
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:20,984]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:20,984]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:21,417]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:21,417]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557827960}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:27,809]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:27,809]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI3NjY4NDksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc5NjY4NDl9In0.K8KSgvfR_OQR66QRkYxb8MtosZWY1xQo2klu9Ok1XvQ"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 17:59:27,814]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI3NjY4NDksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc5NjY4NDl9In0.K8KSgvfR_OQR66QRkYxb8MtosZWY1xQo2klu9Ok1XvQ
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:29,710]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:29,711]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:30,017]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:30,017]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557827969}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:36,483]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:36,483]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI3NzU1MTIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc5NzU1MTJ9In0.C7xLPS2wajr5-KQNZAN_WMjjjSsrUxXGOSHhUnAzRcA"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 17:59:36,486]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI3NzU1MTIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4Mjc5NzU1MTJ9In0.C7xLPS2wajr5-KQNZAN_WMjjjSsrUxXGOSHhUnAzRcA
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:52,672]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:52,672]: 请求成功: <Response [502]>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:53,628]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:53,628]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:53,984]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 17:59:53,985]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557827993}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:00:09,447]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:00:09,447]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI4MDg0ODIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjgwMDg0ODJ9In0.Rs1Uygh8Hrk4xEeaGWTAXI-PDNPCL1t3ndka8-krv2k"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 18:00:09,451]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzI4MDg0ODIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjgwMDg0ODJ9In0.Rs1Uygh8Hrk4xEeaGWTAXI-PDNPCL1t3ndka8-krv2k
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:00:12,457]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:00:12,457]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:00:12,843]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:00:12,843]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557828011}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:04:43,831]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:04:43,831]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzMwODI4MjYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjgyODI4MjZ9In0.00Jm_KhLmj7Ns6H8qvSAGFYOCA1bi7T0EKEUDQ7uJFg"}
+[HTTPClient.py]: [INFO  ] [2019-05-14 18:04:43,836]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0MzMwODI4MjYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4MjgyODI4MjZ9In0.00Jm_KhLmj7Ns6H8qvSAGFYOCA1bi7T0EKEUDQ7uJFg
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:04:46,862]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:04:46,862]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-14_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:04:47,232]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-14 18:04:47,232]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557828286}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:21:47,353]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:21:47,353]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0ODgxMDQzMzEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODMzMDQzMzF9In0.M8cl8keKopR-0KCPAlIwHatE19LlJGGwnfBgu7jmIqo"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 09:21:47,355]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0ODgxMDQzMzEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODMzMDQzMzF9In0.M8cl8keKopR-0KCPAlIwHatE19LlJGGwnfBgu7jmIqo
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:21:52,315]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:21:52,315]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-15_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:21:52,801]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:21:52,801]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557883309}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:23:16,209]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:23:16,210]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-15_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:23:51,011]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:23:51,012]: 请求成功: <Response [200]>
+{"goodsPosterUrl":"https://img.2mhn.cn/goods_poster1123_2019-05-15_14507819_1764.jpg","success":true,"qrCodeUrl":"null/mall/blankPage/1764?siteId=1123&fromAgentId=14507819"}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:23:51,302]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:23:51,303]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:58:54,308]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:58:54,308]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTAzMzEzMDMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODU1MzEzMDN9In0.xgYO8t13HgvZZdIKVxlp3hWL0mb5su9W47ghyOyV5aQ"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 09:58:54,312]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTAzMzEzMDMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODU1MzEzMDN9In0.xgYO8t13HgvZZdIKVxlp3hWL0mb5su9W47ghyOyV5aQ
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:58:57,023]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:58:57,024]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:58:57,311]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:58:57,311]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:58:57,635]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-15 09:58:57,635]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557885534}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 10:01:28,467]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [DEBUG ] [2019-05-15 10:01:28,467]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTA0ODU0NzQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODU2ODU0NzR9In0.z6XLtaE_2v782YgINnooEomUkkvi97KI5Cf55UHGgnM"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:01:28,471]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTA0ODU0NzQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODU2ODU0NzR9In0.z6XLtaE_2v782YgINnooEomUkkvi97KI5Cf55UHGgnM
+[HTTPClient.py]: [DEBUG ] [2019-05-15 10:01:30,873]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-15 10:01:30,873]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 10:01:31,075]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [DEBUG ] [2019-05-15 10:01:31,075]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [DEBUG ] [2019-05-15 10:01:31,384]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [DEBUG ] [2019-05-15 10:01:31,385]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557885688}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:02:10,295]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:02:10,296]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTA1MjczMDUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODU3MjczMDV9In0.sw8PPN25ogcpbc-8neB_bdZElECWdAzrBfATF4eCjSs"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:02:10,299]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTA1MjczMDUsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODU3MjczMDV9In0.sw8PPN25ogcpbc-8neB_bdZElECWdAzrBfATF4eCjSs
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:02:12,625]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:02:12,625]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:02:12,804]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:02:12,804]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:02:13,067]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:02:13,067]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557885730}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:05:25,128]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:05:25,128]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTA3MjIxNDAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODU5MjIxNDB9In0.T5kSx7DrSBxvDIdGu1-8zVBgsopBaF_imcdjwEoasok"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:05:25,131]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTA3MjIxNDAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODU5MjIxNDB9In0.T5kSx7DrSBxvDIdGu1-8zVBgsopBaF_imcdjwEoasok
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:05:27,296]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:05:27,296]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:05:27,523]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:05:27,523]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:05:27,807]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:05:27,807]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557885924}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:06:50,325]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:06:50,326]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTA4MDczMzAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODYwMDczMzB9In0.0yoH9TFyO-iW1WYTaTmxKGXnQFsXfon9AVS-pQVvb9A"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:06:50,331]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTA4MDczMzAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODYwMDczMzB9In0.0yoH9TFyO-iW1WYTaTmxKGXnQFsXfon9AVS-pQVvb9A
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:06:52,424]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:06:52,424]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:06:52,596]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:06:52,598]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:06:52,875]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:06:52,875]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557886009}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:10:28,579]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:10:28,580]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTEwMjU1ODcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODYyMjU1ODd9In0.u9adfc3UD8Kh1WwI_D4GetUo1n7x1vaFE1SQL6cpiMI"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:10:28,587]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTEwMjU1ODcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4ODYyMjU1ODd9In0.u9adfc3UD8Kh1WwI_D4GetUo1n7x1vaFE1SQL6cpiMI
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:10:30,803]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:10:30,804]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:10:30,963]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:10:30,963]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:10:31,251]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 10:10:31,252]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557886228}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:29:43,795]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:29:43,796]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTU3ODA3OTQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTA5ODA3OTR9In0.oBWSNzgqShPAlvF3XGdJXpYeNcz6WR6NxSQW0LTre8M"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:29:43,855]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTU3ODA3OTQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTA5ODA3OTR9In0.oBWSNzgqShPAlvF3XGdJXpYeNcz6WR6NxSQW0LTre8M
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:29:46,079]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:29:46,079]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:29:46,296]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:29:46,296]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:29:46,787]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:29:46,788]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557890983}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:30:30,489]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:30:30,491]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTU4Mjc1MDMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTEwMjc1MDN9In0.VDqrPrByylGj5wxMa24Qqb6ZJnZ-x_rE1J0IUjy7L3E"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:30:30,526]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTU4Mjc1MDMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTEwMjc1MDN9In0.VDqrPrByylGj5wxMa24Qqb6ZJnZ-x_rE1J0IUjy7L3E
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:30:32,686]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:30:32,687]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:30:32,910]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:30:32,911]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:30:33,211]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:30:33,211]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557891030}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:40:15,235]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:40:15,236]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY0MTIyMTYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTE2MTIyMTZ9In0.xjU2LCU7lJhPPOmbIW0HbC4E8XRxx-7jzKLDgrAo_-I"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:40:15,284]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY0MTIyMTYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTE2MTIyMTZ9In0.xjU2LCU7lJhPPOmbIW0HbC4E8XRxx-7jzKLDgrAo_-I
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:40:17,534]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:40:17,535]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:40:17,763]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:40:17,763]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:40:18,216]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:40:18,216]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557891615}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:45:16,841]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:45:16,843]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY3MTM4NzAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTE5MTM4NzB9In0.lTFhh0Kzzc6L1PZMgtLAZ6a_Y3voO_lSbGAjXnd1TKE"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:45:16,894]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY3MTM4NzAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTE5MTM4NzB9In0.lTFhh0Kzzc6L1PZMgtLAZ6a_Y3voO_lSbGAjXnd1TKE
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:45:19,055]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:45:19,055]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:45:19,269]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:45:19,270]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:45:19,697]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:45:19,699]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557891916}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:13,663]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:13,663]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY3NzA2ODgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTE5NzA2ODh9In0.QRZQxZRdH4GbCphH-hiNl6Zd5wX9BshCuxWiZGBm2qY"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:14,042]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:14,043]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:14,246]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:14,246]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:14,617]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:14,618]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557891971}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:31,631]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:31,631]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY3ODg2NTMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTE5ODg2NTN9In0.20DZmK-qbRXt2E7G92paDouDDbcu169cvwITUIuI7O4"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:31,672]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY3ODg2NTMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTE5ODg2NTN9In0.20DZmK-qbRXt2E7G92paDouDDbcu169cvwITUIuI7O4
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:33,857]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:33,858]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:34,067]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:34,068]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:34,384]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:46:34,384]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557891991}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:47:36,016]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:47:36,016]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY4NTMwMzYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTIwNTMwMzZ9In0.qgEqaW3BA4A99KPs2qmd9_I5o3DRAgKY2R6q7_DJDYs"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:47:36,078]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY4NTMwMzYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTIwNTMwMzZ9In0.qgEqaW3BA4A99KPs2qmd9_I5o3DRAgKY2R6q7_DJDYs
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:47:40,232]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:47:40,232]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:47:41,115]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:47:41,115]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:47:42,064]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:47:42,065]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557892059}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:48:23,904]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:48:23,904]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY5MDA5MTcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTIxMDA5MTd9In0.N-KMcEuaGWErzSwq0bWmkzUN2Yt6jr4qRInGxhm6Buw"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:48:23,966]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY5MDA5MTcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTIxMDA5MTd9In0.N-KMcEuaGWErzSwq0bWmkzUN2Yt6jr4qRInGxhm6Buw
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:48:26,851]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:48:26,852]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:48:27,961]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:48:27,963]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:48:29,087]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:48:29,087]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557892106}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:49:03,798]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:49:03,799]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY5NDA4MjYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTIxNDA4MjZ9In0.gCB8d4-pnFpuFH0OCyehnz4Egr6U-h5sLNTpLxgGfC8"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:49:03,848]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTY5NDA4MjYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTIxNDA4MjZ9In0.gCB8d4-pnFpuFH0OCyehnz4Egr6U-h5sLNTpLxgGfC8
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:49:06,047]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:49:06,047]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:49:06,287]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:49:06,287]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:49:06,621]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:49:06,621]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557892143}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:54:04,703]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:54:04,703]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTcyNDE3MjksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTI0NDE3Mjl9In0.4rzgTQlvtg1dFY_P-CaE8AGCcqvRhs-JdyOE4-VzVFg"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:54:04,753]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTcyNDE3MjksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTI0NDE3Mjl9In0.4rzgTQlvtg1dFY_P-CaE8AGCcqvRhs-JdyOE4-VzVFg
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:54:06,897]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:54:06,897]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:54:07,192]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:54:07,193]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:54:07,486]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 11:54:07,486]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557892444}
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:28,593]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:28,595]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTkxMjU2MDksInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTQzMjU2MDl9In0.U759F_JjNisQ7f6Pa80QqIl1mYBAIcmg9ZI577SlRcY"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:28,993]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:28,993]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:29,224]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:29,224]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:29,523]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:29,523]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557894326}
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:41,134]: POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:41,134]: 请求成功: <Response [200]>
+{"agentId":14507819,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTkxMzgxNTYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTQzMzgxNTZ9In0.xxMi9omQRl14w5CTb_w4j4VRTv6iy1hF1D12JTMPwKw"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:41,176]: 开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg0OTkxMzgxNTYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc4OTQzMzgxNTZ9In0.xxMi9omQRl14w5CTb_w4j4VRTv6iy1hF1D12JTMPwKw
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:43,358]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:43,358]: 请求成功: <Response [200]>
+{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:43,636]: PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:43,638]: 请求成功: <Response [200]>
+{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:43,888]: GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-15 12:25:43,889]: 请求成功: <Response [200]>
+{"code":0,"message":"操作成功","body":{"balance":0.0,"canApply":0.0,"noBanlance":0.0,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"15202127953","headerUrl":"","currency":"元"},"timestamp":1557894340}

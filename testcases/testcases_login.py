@@ -5,7 +5,6 @@ from util.selenium_public_methods import *
 from logs.log import logger
 from  util.wrappers import timer
 from pages.login_page import LoginPage
-from pages.linshou_shouyishezhi import Linshou
 class LoginSuite(unittest.TestCase):
     basic = BasicTestCase()
     url = basic.url
@@ -31,13 +30,10 @@ class LoginSuite(unittest.TestCase):
         self.assertEqual(1, 1)
 
     def login(self,**kwargs):
-        self.browser.get_element_until_is_visible(*LoginPage.username_input).send_keys(kwargs["name"])
-        self.browser.get_element_until_is_visible(*LoginPage.pwd_input).send_keys(kwargs["pwd"])
-        self.browser.get_element_until_is_visible(*LoginPage.login_button).click()
+        self.browser.send_keys(*LoginPage.username_input,kwargs["name"])
+        self.browser.send_keys(*LoginPage.pwd_input,kwargs["pwd"])
+        self.browser.click_element(*LoginPage.login_button)
 
-    def test_2_bujifenyong(self):
-        self.browser.get_element_until_is_visible(*Linshou.linshoutab).click()
-        self.browser.get_element_until_is_visible(*Linshou.tianjiachanpinbutton).click()
 
 if __name__ == "__main__":
     unittest.main()

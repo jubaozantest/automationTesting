@@ -41,14 +41,24 @@ class Config(object):
     LINUX_CHROME_DRIVER=LINUX_BASE_PATH+'drivers'
     WINDOWS_CHROME_DRIVER=BASE_PATH+ r'\driver\chromedriver.exe'
 
+    #extract
+    LINUX_EXTRACT=LINUX_BASE_PATH+'drivers'
+    WINDOWS_EXTRACT=BASE_PATH+ r'\config\extract.yaml'
+    # extract
+    LINUX_CONFIG = LINUX_BASE_PATH + 'drivers'
+    WINDOWS_CONFIG = BASE_PATH + r'\config\config.yaml'
+
     if platform.system() == 'Linux':
         LOG_PATH = LINUX_LOG
 
         REPORT_DIR = LINUX_REPORT_DIR
 
     elif platform.system() == 'Windows':
+
         LOG_PATH = WINDOWS_LOG
         REPORT_DIR = WINDOWS_REPORT_DIR
+        EXTRACT_PATH=WINDOWS_EXTRACT
+        WINDOWS_CONFIG=WINDOWS_CONFIG
 
     else:
         LOG_PATH = LINUX_LOG

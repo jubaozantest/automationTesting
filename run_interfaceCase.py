@@ -10,7 +10,6 @@ def creatsuite():
     testunit = unittest.TestSuite()
     dir_path = os.path.dirname(os.path.realpath(__file__))
     test_dir = os.path.join(dir_path, "testcasesInterface")
-    print("test_dir",test_dir)
     discover = unittest.defaultTestLoader.discover(test_dir, pattern="*.py",
                                                    top_level_dir=None)
     for test_suite in discover:
