@@ -1,8 +1,8 @@
 # 自研接口和UI一体化的自动化测试框架:jubaozantest Version:1.0
-###### 测试报告如图所示
-![Image text](https://github.com/jubaozantest/automationTesting/picture/111.png)
-![Image text](https://github.com/jubaozantest/automationTesting/picture/222.png)
-![Image text](https://github.com/jubaozantest/automationTesting/picture/333.png)
+###### 测试报告效果图展示
+![Image text](https://github.com/jubaozantest/automationTesting/blob/master/picture/111.png)
+![Image text](https://github.com/jubaozantest/automationTesting/blob/master/picture/222.png)
+![Image text](https://github.com/jubaozantest/automationTesting/blob/master/picture/333.png)
 
 
 ## 环境安装
