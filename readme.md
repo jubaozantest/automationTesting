@@ -1,9 +1,4 @@
 # 自研接口和UI一体化的自动化测试框架:jubaozantest Version:1.0
-###### 测试报告效果图展示
-![Image text](https://github.com/jubaozantest/automationTesting/blob/master/picture/111.png)
-![Image text](https://github.com/jubaozantest/automationTesting/blob/master/picture/222.png)
-![Image text](https://github.com/jubaozantest/automationTesting/blob/master/picture/333.png)
-
 
 ## 环境安装
 
@@ -94,6 +89,13 @@
 ######  所有依赖安装包
 
 
+#  待优化完善功能
+###  1.优化用例结果校验方式
+###  2.UI自动化分布式执行
+###  3.Jenkins/Docker 自动化用例可持续集成
+
+
+
 ## 编写测试用例规范
 ###接口用例
 #####  1.excel文件每一行代表一个接口测试用例:字段说明
@@ -107,3 +109,12 @@
 #####        检查点（必填,例如{"success":True}）
 #####        用例运行结果(用例运行完自动生成)
 #####  2.运行run_interfaceCases会运行所有用例，生成excel报告和html报告   
+
+
+###  测试报告效果图展示
+![Image text](https://github.com/jubaozantest/automationTesting/blob/master/picture/111.png)
+![Image text](https://github.com/jubaozantest/automationTesting/blob/master/picture/222.png)
+![Image text](https://github.com/jubaozantest/automationTesting/blob/master/picture/333.png)
+###### 接下来就能编写接口/UI自动化测试用例！！！
+
+
