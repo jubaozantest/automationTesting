@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c1bf26-2331-4344-ba6c-bf6bbdbbcf20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config/extract.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/extract.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/interface_testcases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/config/interface_testcases.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/selenium.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcasesInterface/handle_testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcasesInterface/handle_testcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/query_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/query_mysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/tool.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="137">
-                <caret line="103" column="30" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
+              <first_editor relative-caret-position="54">
+                <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -368,7 +363,7 @@
       <workItem from="1557483704281" duration="15000" />
       <workItem from="1557484499458" duration="228000" />
       <workItem from="1557643468006" duration="402000" />
-      <workItem from="1557710530952" duration="76459000" />
+      <workItem from="1557710530952" duration="76752000" />
     </task>
     <servers />
   </component>
@@ -405,7 +400,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138348000" />
+    <option name="totallyTimeSpent" value="138641000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -418,6 +413,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18835099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -808,8 +804,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="137">
-            <caret line="103" column="30" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
