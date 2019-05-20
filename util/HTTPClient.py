@@ -4,6 +4,7 @@ from util.operation_excel import Excel
 from ruamel import yaml
 from util.default_path import get_config
 from util.tool import  *
+
 extract_path=get_config().EXTRACT_PATH
 METHODS = ['GET', 'POST', 'HEAD', 'TRACE', 'PUT', 'DELETE', 'OPTIONS', 'CONNECT']
 defult_headers = {
@@ -68,12 +69,6 @@ class HTTPClient(object):
 
 
 if __name__=="__main__":
-    testdict={"mobile": "152${random_phone}", "siteId": 1123,
-     "loginType": 1, "validCode": 1482}
-    for key, value in testdict.items():
-        if isinstance(value,str)  and '${random_phone}' in value:
-            num=random_phone()
-            print(num)
-
+    pass
 
 

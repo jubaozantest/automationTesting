@@ -2204,3 +2204,159 @@ AssertionError: None != 1
 [HTTPClient.py]: [INFO  ] [2019-05-20 17:17:35,740]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
 [HTTPClient.py]: [INFO  ] [2019-05-20 17:17:35,742]: >>>请求成功: <Response [200]>
 接口响应值为:{"code":0,"message":"操作成功","body":{"balance":127.27000000000001,"canApply":111.37,"noBanlance":15.9,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1558343856}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:05:28,569]: >>>开始执行第1个用例POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:05:28,569]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":221000,"success":false,"errorMessage":"验证码不正确"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:05:30,135]: >>>开始执行第2个用例PUT https://trade.jubaozan.cn//mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:05:30,136]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:05:31,180]: >>>开始执行第3个用例PUT https://trade.jubaozan.cn//mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:05:31,182]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:05:32,276]: >>>开始执行第4个用例GET https://trade.jubaozan.cn//mall/goods/index
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:05:32,276]: >>>请求成功: <Response [200]>
+接口响应值为:{"htmlBody":"[{\"name\":\"pagetitle\",\"title\":\"聚宝赞商城无敌\",\"desc\":\"\",\"categroydesc\":\"置链接到的页面地址\",\"categroy\":\"\",\"background\":\"#ffffff\",\"config\":true,\"candelete\":false,\"shareTitle\":\"\"},{\"name\":\"goods\",\"goods\":[],\"size\":3,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":1,\"showdesc\":false,\"showprice\":true},{\"name\":\"goods\",\"goods\":[],\"size\":1,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":2,\"showdesc\":false,\"showprice\":true},{\"name\":\"goodslist\",\"goods\":[{\"memberprice\":\"15.00\",\"price\":\"15.00\",\"name\":\"积分实物\",\"id\":16100,\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpefb0cu14ii13dr1dv66mqt2n9.jpg\",\"url\":\"https://h5.jubaozan.cn/mall/goodsInfo/16100?siteId=1123\"},{\"memberprice\":\"10.00\",\"price\":\"10.00\",\"name\":\"积分实物\",\"id\":16099,\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpefb0cu14ii13dr1dv66mqt2n9.jpg\",\"url\":\"https://h5.jubaozan.cn/mall/goodsInfo/16099?siteId=1123\"}],\"size\":2,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":3,\"showdesc\":false,\"showprice\":true,\"categroy\":\"31\",\"categroydesc\":\"商品分组测试\",\"goodscount\":6},{\"name\":\"imagead\",\"showtype\":0,\"showsize\":0,\"fullscreen\":false,\"showbtn\":true,\"pics\":[{\"id\":-1,\"name\":\"\",\"pic\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"},{\"id\":-1,\"name\":\"\",\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpvsfbt81mo2pv21s1v4isgb9.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"}]},{\"name\":\"imagead\",\"showtype\":1,\"showsize\":0,\"fullscreen\":true,\"showbtn\":true,\"pics\":[{\"id\":-1,\"name\":\"\",\"pic\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"},{\"id\":-1,\"name\":\"\",\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpvsfbt81mo2pv21s1v4isgb9.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"}]},{\"name\":\"textnav\",\"navs\":[{\"name\":\"『文本导航wqefwefwfew』\",\"url\":\"\"}]},{\"name\":\"line\"},{\"name\":\"space\",\"backgroundcolor\":\"#8080ff\",\"height\":\"90\"},{\"name\":\"audio\",\"audio\":[{\"title\":\"15年8月26林洪森FC.mp3\",\"id\":\"2972\",\"desc\":\"\",\"time\":\"2017-06-21\",\"src\":\"http://v.c3tech.cn/o_1bj44es3gegt1gnt1i8naln1fng9.mp3\",\"loop\":\"loop\"}]},{\"name\":\"video\",\"video\":[{\"title\":\"VID20170210152928.mp4\",\"id\":\"2931\",\"desc\":\"\",\"time\":\"2017-04-24\",\"src\":\"http://v.c3tech.cn/o_1beffa2uk6gv1ohs1qr4d311mca.mp4\",\"poster\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\"}]},{\"name\":\"search\",\"skin\":1,\"url\":\"javascript:;\"},{\"name\":\"search\",\"skin\":0,\"url\":\"javascript:;\"},{\"name\":\"textnav\",\"navs\":[{\"name\":\"『文本导航』\",\"url\":\"javascript:;\",\"urldesc\":\"置链接到的页面地址\"}]}]","success":true}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:06:57,689]: >>>开始执行第1个用例POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:06:57,690]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":14508000,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg5NTE2MTgwMTgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA4MDAwXCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTgzNDY4MTgwMTh9In0.EDtTd88DqqFzIxXQpzongDsDh6Lt3W4iwbg4GNdRXog"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:06:57,744]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg5NTE2MTgwMTgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA4MDAwXCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTgzNDY4MTgwMTh9In0.EDtTd88DqqFzIxXQpzongDsDh6Lt3W4iwbg4GNdRXog
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:07:00,720]: >>>开始执行第2个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:07:00,720]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:07:01,691]: >>>开始执行第3个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:07:01,692]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:07:02,699]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/mall/goods/index
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:07:02,700]: >>>请求成功: <Response [200]>
+接口响应值为:{"htmlBody":"[{\"name\":\"pagetitle\",\"title\":\"聚宝赞商城无敌\",\"desc\":\"\",\"categroydesc\":\"置链接到的页面地址\",\"categroy\":\"\",\"background\":\"#ffffff\",\"config\":true,\"candelete\":false,\"shareTitle\":\"\"},{\"name\":\"goods\",\"goods\":[],\"size\":3,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":1,\"showdesc\":false,\"showprice\":true},{\"name\":\"goods\",\"goods\":[],\"size\":1,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":2,\"showdesc\":false,\"showprice\":true},{\"name\":\"goodslist\",\"goods\":[{\"memberprice\":\"15.00\",\"price\":\"15.00\",\"name\":\"积分实物\",\"id\":16100,\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpefb0cu14ii13dr1dv66mqt2n9.jpg\",\"url\":\"https://h5.jubaozan.cn/mall/goodsInfo/16100?siteId=1123\"},{\"memberprice\":\"10.00\",\"price\":\"10.00\",\"name\":\"积分实物\",\"id\":16099,\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpefb0cu14ii13dr1dv66mqt2n9.jpg\",\"url\":\"https://h5.jubaozan.cn/mall/goodsInfo/16099?siteId=1123\"}],\"size\":2,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":3,\"showdesc\":false,\"showprice\":true,\"categroy\":\"31\",\"categroydesc\":\"商品分组测试\",\"goodscount\":6},{\"name\":\"imagead\",\"showtype\":0,\"showsize\":0,\"fullscreen\":false,\"showbtn\":true,\"pics\":[{\"id\":-1,\"name\":\"\",\"pic\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"},{\"id\":-1,\"name\":\"\",\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpvsfbt81mo2pv21s1v4isgb9.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"}]},{\"name\":\"imagead\",\"showtype\":1,\"showsize\":0,\"fullscreen\":true,\"showbtn\":true,\"pics\":[{\"id\":-1,\"name\":\"\",\"pic\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"},{\"id\":-1,\"name\":\"\",\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpvsfbt81mo2pv21s1v4isgb9.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"}]},{\"name\":\"textnav\",\"navs\":[{\"name\":\"『文本导航wqefwefwfew』\",\"url\":\"\"}]},{\"name\":\"line\"},{\"name\":\"space\",\"backgroundcolor\":\"#8080ff\",\"height\":\"90\"},{\"name\":\"audio\",\"audio\":[{\"title\":\"15年8月26林洪森FC.mp3\",\"id\":\"2972\",\"desc\":\"\",\"time\":\"2017-06-21\",\"src\":\"http://v.c3tech.cn/o_1bj44es3gegt1gnt1i8naln1fng9.mp3\",\"loop\":\"loop\"}]},{\"name\":\"video\",\"video\":[{\"title\":\"VID20170210152928.mp4\",\"id\":\"2931\",\"desc\":\"\",\"time\":\"2017-04-24\",\"src\":\"http://v.c3tech.cn/o_1beffa2uk6gv1ohs1qr4d311mca.mp4\",\"poster\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\"}]},{\"name\":\"search\",\"skin\":1,\"url\":\"javascript:;\"},{\"name\":\"search\",\"skin\":0,\"url\":\"javascript:;\"},{\"name\":\"textnav\",\"navs\":[{\"name\":\"『文本导航』\",\"url\":\"javascript:;\",\"urldesc\":\"置链接到的页面地址\"}]}]","success":true}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:10:57,758]: >>>开始执行第1个用例POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:10:57,759]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":14508001,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg5NTE4NTgwODEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA4MDAxXCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTgzNDcwNTgwODF9In0.9n9-dSBMGbGfbna6jXSS4p8OjqFI7hh1GE5y6CM6SWk"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:10:57,814]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg5NTE4NTgwODEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA4MDAxXCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTgzNDcwNTgwODF9In0.9n9-dSBMGbGfbna6jXSS4p8OjqFI7hh1GE5y6CM6SWk
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:11:01,069]: >>>开始执行第2个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:11:01,070]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:11:01,680]: >>>开始执行第3个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:11:01,680]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:11:02,064]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/mall/goods/index
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:11:02,064]: >>>请求成功: <Response [200]>
+接口响应值为:{"htmlBody":"[{\"name\":\"pagetitle\",\"title\":\"聚宝赞商城无敌\",\"desc\":\"\",\"categroydesc\":\"置链接到的页面地址\",\"categroy\":\"\",\"background\":\"#ffffff\",\"config\":true,\"candelete\":false,\"shareTitle\":\"\"},{\"name\":\"goods\",\"goods\":[],\"size\":3,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":1,\"showdesc\":false,\"showprice\":true},{\"name\":\"goods\",\"goods\":[],\"size\":1,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":2,\"showdesc\":false,\"showprice\":true},{\"name\":\"goodslist\",\"goods\":[{\"memberprice\":\"15.00\",\"price\":\"15.00\",\"name\":\"积分实物\",\"id\":16100,\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpefb0cu14ii13dr1dv66mqt2n9.jpg\",\"url\":\"https://h5.jubaozan.cn/mall/goodsInfo/16100?siteId=1123\"},{\"memberprice\":\"10.00\",\"price\":\"10.00\",\"name\":\"积分实物\",\"id\":16099,\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpefb0cu14ii13dr1dv66mqt2n9.jpg\",\"url\":\"https://h5.jubaozan.cn/mall/goodsInfo/16099?siteId=1123\"}],\"size\":2,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":3,\"showdesc\":false,\"showprice\":true,\"categroy\":\"31\",\"categroydesc\":\"商品分组测试\",\"goodscount\":6},{\"name\":\"imagead\",\"showtype\":0,\"showsize\":0,\"fullscreen\":false,\"showbtn\":true,\"pics\":[{\"id\":-1,\"name\":\"\",\"pic\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"},{\"id\":-1,\"name\":\"\",\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpvsfbt81mo2pv21s1v4isgb9.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"}]},{\"name\":\"imagead\",\"showtype\":1,\"showsize\":0,\"fullscreen\":true,\"showbtn\":true,\"pics\":[{\"id\":-1,\"name\":\"\",\"pic\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"},{\"id\":-1,\"name\":\"\",\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpvsfbt81mo2pv21s1v4isgb9.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"}]},{\"name\":\"textnav\",\"navs\":[{\"name\":\"『文本导航wqefwefwfew』\",\"url\":\"\"}]},{\"name\":\"line\"},{\"name\":\"space\",\"backgroundcolor\":\"#8080ff\",\"height\":\"90\"},{\"name\":\"audio\",\"audio\":[{\"title\":\"15年8月26林洪森FC.mp3\",\"id\":\"2972\",\"desc\":\"\",\"time\":\"2017-06-21\",\"src\":\"http://v.c3tech.cn/o_1bj44es3gegt1gnt1i8naln1fng9.mp3\",\"loop\":\"loop\"}]},{\"name\":\"video\",\"video\":[{\"title\":\"VID20170210152928.mp4\",\"id\":\"2931\",\"desc\":\"\",\"time\":\"2017-04-24\",\"src\":\"http://v.c3tech.cn/o_1beffa2uk6gv1ohs1qr4d311mca.mp4\",\"poster\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\"}]},{\"name\":\"search\",\"skin\":1,\"url\":\"javascript:;\"},{\"name\":\"search\",\"skin\":0,\"url\":\"javascript:;\"},{\"name\":\"textnav\",\"navs\":[{\"name\":\"『文本导航』\",\"url\":\"javascript:;\",\"urldesc\":\"置链接到的页面地址\"}]}]","success":true}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:11:03,039]: >>>开始执行第5个用例GET https://trade.jubaozan.cn/mall/goods/detail
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:11:03,039]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"null"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:50,325]: >>>开始执行第1个用例POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:50,326]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:50,526]: >>>开始执行第2个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:50,528]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:50,684]: >>>开始执行第3个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:50,686]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:50,878]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/mall/goods/index
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:50,880]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:51,069]: >>>开始执行第5个用例GET https://trade.jubaozan.cn/mall/goods/detail
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:12:51,069]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:20,279]: >>>开始执行第1个用例POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:20,280]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:20,488]: >>>开始执行第2个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:20,488]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:20,803]: >>>开始执行第3个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:20,803]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:21,187]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/mall/goods/index
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:21,187]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:21,630]: >>>开始执行第5个用例GET https://trade.jubaozan.cn/mall/goods/detail
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:13:21,630]: >>>请求成功: <Response [502]>
+接口响应值为:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:34,634]: >>>开始执行第1个用例POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:34,635]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:37,986]: >>>开始执行第2个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:37,987]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:38,307]: >>>开始执行第3个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:38,308]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:39,404]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/mall/goods/index
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:39,404]: >>>请求成功: <Response [200]>
+接口响应值为:{"htmlBody":"[{\"name\":\"pagetitle\",\"title\":\"聚宝赞商城无敌\",\"desc\":\"\",\"categroydesc\":\"置链接到的页面地址\",\"categroy\":\"\",\"background\":\"#ffffff\",\"config\":true,\"candelete\":false,\"shareTitle\":\"\"},{\"name\":\"goods\",\"goods\":[],\"size\":3,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":1,\"showdesc\":false,\"showprice\":true},{\"name\":\"goods\",\"goods\":[],\"size\":1,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":2,\"showdesc\":false,\"showprice\":true},{\"name\":\"goodslist\",\"goods\":[{\"memberprice\":\"15.00\",\"price\":\"15.00\",\"name\":\"积分实物\",\"id\":16100,\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpefb0cu14ii13dr1dv66mqt2n9.jpg\",\"url\":\"https://h5.jubaozan.cn/mall/goodsInfo/16100?siteId=1123\"},{\"memberprice\":\"10.00\",\"price\":\"10.00\",\"name\":\"积分实物\",\"id\":16099,\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpefb0cu14ii13dr1dv66mqt2n9.jpg\",\"url\":\"https://h5.jubaozan.cn/mall/goodsInfo/16099?siteId=1123\"}],\"size\":2,\"sizetype\":0,\"showname\":true,\"showbuy\":true,\"buytype\":3,\"showdesc\":false,\"showprice\":true,\"categroy\":\"31\",\"categroydesc\":\"商品分组测试\",\"goodscount\":6},{\"name\":\"imagead\",\"showtype\":0,\"showsize\":0,\"fullscreen\":false,\"showbtn\":true,\"pics\":[{\"id\":-1,\"name\":\"\",\"pic\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"},{\"id\":-1,\"name\":\"\",\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpvsfbt81mo2pv21s1v4isgb9.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"}]},{\"name\":\"imagead\",\"showtype\":1,\"showsize\":0,\"fullscreen\":true,\"showbtn\":true,\"pics\":[{\"id\":-1,\"name\":\"\",\"pic\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"},{\"id\":-1,\"name\":\"\",\"pic\":\"http://ozg3nxlp4.bkt.clouddn.com/o_1cpvsfbt81mo2pv21s1v4isgb9.jpg\",\"url\":\"\",\"urldesc\":\"设置链接到的页面地址\"}]},{\"name\":\"textnav\",\"navs\":[{\"name\":\"『文本导航wqefwefwfew』\",\"url\":\"\"}]},{\"name\":\"line\"},{\"name\":\"space\",\"backgroundcolor\":\"#8080ff\",\"height\":\"90\"},{\"name\":\"audio\",\"audio\":[{\"title\":\"15年8月26林洪森FC.mp3\",\"id\":\"2972\",\"desc\":\"\",\"time\":\"2017-06-21\",\"src\":\"http://v.c3tech.cn/o_1bj44es3gegt1gnt1i8naln1fng9.mp3\",\"loop\":\"loop\"}]},{\"name\":\"video\",\"video\":[{\"title\":\"VID20170210152928.mp4\",\"id\":\"2931\",\"desc\":\"\",\"time\":\"2017-04-24\",\"src\":\"http://v.c3tech.cn/o_1beffa2uk6gv1ohs1qr4d311mca.mp4\",\"poster\":\"https://t.jubaozan.cn/upload/res/1123/images/1539844559172.jpg\"}]},{\"name\":\"search\",\"skin\":1,\"url\":\"javascript:;\"},{\"name\":\"search\",\"skin\":0,\"url\":\"javascript:;\"},{\"name\":\"textnav\",\"navs\":[{\"name\":\"『文本导航』\",\"url\":\"javascript:;\",\"urldesc\":\"置链接到的页面地址\"}]}]","success":true}
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:39,712]: >>>开始执行第5个用例GET https://trade.jubaozan.cn/mall/goods/detail
+[HTTPClient.py]: [INFO  ] [2019-05-20 18:14:39,712]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"null"}
