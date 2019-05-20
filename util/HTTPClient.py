@@ -1,7 +1,6 @@
 import requests,json,time
 from logs.log import logger
 from util.operation_excel import Excel
-from util.extractVariables import GlobalExtract
 from ruamel import yaml
 from util.default_path import get_config
 extract_path=get_config().EXTRACT_PATH
@@ -44,19 +43,19 @@ class HTTPClient(object):
             data=json.loads(data)
         response = self.session.request(method=self.method, url=self.url, params=params, data=data, **kwargs)
         response.encoding = 'utf-8'
-        logger.info('{0} {1}'.format(self.method, self.url))
-        logger.info('请求成功: {0}\n{1}'.format(response, response.text))
+        logger.info('>>>开始执行第{2}个用例{0} {1}'.format(self.method, self.url,count-1))
+        logger.info('>>>请求成功: {0}\n接口响应值为:{1}'.format(response, response.text))
         '''写入响应值到excel表的请求响应值'''
         Excel().write_respone(count,response.text)
         if response.status_code==200 and isinstance(response.text,str):
             response=json.loads(response.text)
             '''提取变量写入yaml文件'''
-            if extract:
+            if extract in response.keys():
                 extract_dict={}
                 extract_dict[extract]=response[extract]
                 with open(extract_path, "w") as yaml_file:
                     yaml.dump(extract_dict, yaml_file, Dumper=yaml.RoundTripDumper)
-                    logger.info("开始提取变量{}值为:{}".format(extract,response[extract]))
+                    logger.info(">>>开始提取变量{}值为:{}".format(extract,response[extract]))
                     time.sleep(1.8)
         else:
             raise RequestFailed('请求500')

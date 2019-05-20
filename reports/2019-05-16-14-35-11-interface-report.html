@@ -116,18 +116,18 @@ function html_escape(s) {
 <div class='heading'>
 <h1 style="font-family: Microsoft YaHei">聚宝赞接口自动化测试报告</h1>
 <p class='attribute'><strong>测试人员 : </strong> 何剑豪</p>
-<p class='attribute'><strong>开始时间 : </strong> 2019-05-15 16:09:14</p>
-<p class='attribute'><strong>合计耗时 : </strong> 0:00:05.121000</p>
-<p class='attribute'><strong>测试结果 : </strong> 共 4，通过 3，失败 1，通过率= 75.00%</p>
+<p class='attribute'><strong>开始时间 : </strong> 2019-05-16 14:35:12</p>
+<p class='attribute'><strong>合计耗时 : </strong> 0:00:04.581000</p>
+<p class='attribute'><strong>测试结果 : </strong> 共 4，通过 2，失败 2，通过率= 50.00%</p>
 
 <p class='description'>描述信息</p>
 </div>
 
 
 <p id='show_detail_line'>
-<a class="btn btn-primary" href='javascript:showCase(0)'>概要{ 75.00% }</a>
-<a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 1 }</a>
-<a class="btn btn-success" href='javascript:showCase(2)'>通过{ 3 }</a>
+<a class="btn btn-primary" href='javascript:showCase(0)'>概要{ 50.00% }</a>
+<a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 2 }</a>
+<a class="btn btn-success" href='javascript:showCase(2)'>通过{ 2 }</a>
 <a class="btn btn-info" href='javascript:showCase(3)'>所有{ 4 }</a>
 </p>
 <table id='result_table' class="table table-condensed table-bordered table-hover">
@@ -151,8 +151,8 @@ function html_escape(s) {
 <tr class='failClass warning'>
     <td>handle_testcase.AuthLogin</td>
     <td class="text-center">4</td>
-    <td class="text-center">3</td>
-    <td class="text-center">1</td>
+    <td class="text-center">2</td>
+    <td class="text-center">2</td>
     <td class="text-center">0</td>
     <td class="text-center"><a href="javascript:showClassDetail('c1',4)" class="detail" id='c1'>详细</a></td>
 </tr>
@@ -168,7 +168,7 @@ function html_escape(s) {
     <div id='div_pt1_1' class="collapse in" align="left">
     <pre>
     
-pt1_1: {'agentId': 14507819, 'success': True, 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg1MTI1NTIxNTIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc5MDc3NTIxNTJ9In0.3NX6m-w81_Si-wSA9SUm5KKvw7q6dZtn7k6FS9-Zx_Y'}
+pt1_1: {'agentId': 14507819, 'success': True, 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg1OTMzMDgwMTAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3ODE5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTc5ODg1MDgwMTB9In0.ZQ1TCHi6SnM-3tz9LKQFFtvFOirmdOcKeiGzbnFZE30'}
 
 
     </pre>
@@ -187,7 +187,7 @@ pt1_1: {'agentId': 14507819, 'success': True, 'token': 'eyJ0eXAiOiJKV1QiLCJhbGci
     <div id='div_ft1_2' class="collapse in" align="left">
     <pre>
     
-ft1_2: {'code': 100000, 'success': False, 'errorMessage': "Can't read input file!"}
+ft1_2: {'code': 100000, 'success': False, 'errorMessage': '系统内部错误'}
 Traceback (most recent call last):
   File "C:\python3\lib\site-packages\ddt.py", line 145, in wrapper
     return func(self, *args, **kwargs)
@@ -201,18 +201,24 @@ AssertionError: False is not true : "success"这个Key的预期结果是"True"�
     </td>
 </tr>
 
-<tr id='pt1_3' class='hiddenRow'>
-    <td class='passCase'><div class='testcase'>test_cases_3</div></td>
+<tr id='ft1_3' class='none'>
+    <td class='failCase'><div class='testcase'>test_cases_3</div></td>
     <td colspan='5' align='center'>
     <!--默认收起错误信息 -Findyou
-    <button id='btn_pt1_3' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_3'>通过</button>
-    <div id='div_pt1_3' class="collapse">  -->
+    <button id='btn_ft1_3' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_ft1_3'>失败</button>
+    <div id='div_ft1_3' class="collapse">  -->
     <!-- 默认展开错误信息 -Findyou -->
-    <button id='btn_pt1_3' type="button"  class="btn btn-danger btn-xs" data-toggle="collapse" data-target='#div_pt1_3'>通过</button>
-    <div id='div_pt1_3' class="collapse in" align="left">
+    <button id='btn_ft1_3' type="button"  class="btn btn-danger btn-xs" data-toggle="collapse" data-target='#div_ft1_3'>失败</button>
+    <div id='div_ft1_3' class="collapse in" align="left">
     <pre>
     
-pt1_3: {'code': 240000, 'success': False, 'errorMessage': '获取商品信息失败'}
+ft1_3: {'code': 100000, 'success': False, 'errorMessage': '系统内部错误'}
+Traceback (most recent call last):
+  File "C:\python3\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\automationTesting\testcasesInterface\handle_testcase.py", line 37, in test_cases
+    self.assertTrue(result[0],result[1])
+AssertionError: False is not true : "errorMessage"这个Key的预期结果是"获取商品信息失败"，实际结果是"系统内部错误"
 
 
     </pre>
@@ -231,7 +237,7 @@ pt1_3: {'code': 240000, 'success': False, 'errorMessage': '获取商品信息失
     <div id='div_pt1_4' class="collapse in" align="left">
     <pre>
     
-pt1_4: {'code': 0, 'message': '操作成功', 'body': {'balance': 28.58, 'canApply': 25.47, 'noBanlance': 3.11, 'isbailMoneyToBalance': False, 'bailMoney': 0.0, 'nick': '焦梓意', 'headerUrl': 'http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132', 'currency': '元'}, 'timestamp': 1557907755}
+pt1_4: {'code': 0, 'message': '操作成功', 'body': {'balance': 37.07, 'canApply': 26.47, 'noBanlance': 10.6, 'isbailMoneyToBalance': False, 'bailMoney': 0.0, 'nick': '焦梓意', 'headerUrl': 'http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132', 'currency': '元'}, 'timestamp': 1557988511}
 
 
     </pre>
@@ -242,10 +248,10 @@ pt1_4: {'code': 0, 'message': '操作成功', 'body': {'balance': 28.58, 'canApp
 <tr id='total_row' class="text-center active">
     <td>总计</td>
     <td>4</td>
-    <td>3</td>
-    <td>1</td>
+    <td>2</td>
+    <td>2</td>
     <td>0</td>
-    <td>通过率：75.00%</td>
+    <td>通过率：50.00%</td>
 </tr>
 </table>
 

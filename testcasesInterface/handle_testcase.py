@@ -32,7 +32,6 @@ class AuthLogin(unittest.TestCase):
         if checkkpoint:
             checkkpoint = eval(checkkpoint)
             result=is_json_contains(res,checkkpoint)
-            print(res)
             Excel().write_result(row,result[0])
             self.assertTrue(result[0],result[1])
 if __name__ == '__main__':

@@ -194,9 +194,9 @@ function showOutput(id, name) {
 
 <div class='page-header'>
 <h1>聚宝赞UI自动化测试报告</h1>
-<p class='attribute'><strong>开始时间:</strong> 2019-05-15 17:23:13</p>
-<p class='attribute'><strong>运行时长:</strong> 0:00:14.071000</p>
-<p class='attribute'><strong>状态:</strong> 错误 1</p>
+<p class='attribute'><strong>开始时间:</strong> 2019-05-16 14:40:21</p>
+<p class='attribute'><strong>运行时长:</strong> 0:00:09.567000</p>
+<p class='attribute'><strong>状态:</strong> 通过 1</p>
 
 </div>
 <p class='description'>描述信息</p>
@@ -228,94 +228,27 @@ function showOutput(id, name) {
     <td>截图</td>
 </tr>
 
-<tr class='errorClass'>
+<tr class='passClass'>
     <td>testcases_login.LoginSuite</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td><a href="javascript:showClassDetail('c1',1)">详情</a></td>
     <td width="150px">Assert or Error Image</td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_1_correct_user</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        错误</a>
-
-    <div id='div_ft1.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft1.1: Traceback (most recent call last):
-  File "E:\automationTesting\lib\initbrowser.py", line 62, in get_element_until_is_visible
-    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
-  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
-    raise TimeoutException(message, screen, stacktrace)
-selenium.common.exceptions.TimeoutException: Message: 
-
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
-    c = func(self, *args, **kw)
-  File "E:\automationTesting\testcases\testcases_login.py", line 29, in test_1_correct_user
-    self.login(name=self.username, pwd=self.password)
-  File "E:\automationTesting\testcases\testcases_login.py", line 35, in login
-    self.browser.click_element(*LoginPage.login_button)
-  File "E:\automationTesting\lib\initbrowser.py", line 68, in click_element
-    self.get_element_until_is_visible(*args).click()
-  File "E:\automationTesting\lib\initbrowser.py", line 65, in get_element_until_is_visible
-    raise ElementNotFoundException("{}元素路径找不到".format(name))
-lib.initbrowser.ElementNotFoundException: 登录按钮元素路径找不到
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "E:\automationTesting\util\wrappers.py", line 20, in wrapper
-    c = jsonify({"code": "999", "desc": "system error"})
-  File "C:\python3\lib\site-packages\flask\json\__init__.py", line 309, in jsonify
-    if current_app.config['JSONIFY_PRETTYPRINT_REGULAR'] or current_app.debug:
-  File "C:\python3\lib\site-packages\werkzeug\local.py", line 348, in __getattr__
-    return getattr(self._get_current_object(), name)
-  File "C:\python3\lib\site-packages\werkzeug\local.py", line 307, in _get_current_object
-    return self.__local()
-  File "C:\python3\lib\site-packages\flask\globals.py", line 51, in _find_app
-    raise RuntimeError(_app_ctx_err_msg)
-RuntimeError: Working outside of application context.
-
-This typically means that you attempted to use functionality that needed
-to interface with the current application object in some way. To solve
-this, set up an application context with app.app_context().  See the
-documentation for more information.
-
-
-        </pre>
-    </div>
-    </td>
-    <td align="right">
-        <a hidden="hidden" href="">
-            <img   src="" height="200px" width="400px"/>
-        </a>
-    </td>
-    <!--css div popup end-->
-
-    </td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_1_correct_user</div></td>
+    <td colspan='5' align='center'>通过</td>
 </tr>
 
 <tr id='total_row'>
     <td>总计</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td> <a href="" target="_blank"></a></td>
 
     <td>&nbsp;</td>

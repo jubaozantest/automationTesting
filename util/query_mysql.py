@@ -34,7 +34,6 @@ class ExecuteSQL(object):
 def execute_sql(sql):
     connect = ExecuteSQL(sql)
     res = connect.execute_sql()
-    #print(res[0][0], type(res[0][0]))
     return res[0][0]
 if __name__ == '__main__':
     #sql = "select mobile from fx_agent where agentid='14494534'"
