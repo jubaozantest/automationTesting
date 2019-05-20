@@ -3,6 +3,7 @@ from logs.log import logger
 from util.operation_excel import Excel
 from ruamel import yaml
 from util.default_path import get_config
+from util.tool import  *
 extract_path=get_config().EXTRACT_PATH
 METHODS = ['GET', 'POST', 'HEAD', 'TRACE', 'PUT', 'DELETE', 'OPTIONS', 'CONNECT']
 defult_headers = {
@@ -41,6 +42,10 @@ class HTTPClient(object):
     def send(self, params=None, data=None,extract=None,count=None, **kwargs):
         if data and isinstance(data,str):
             data=json.loads(data)
+            '''转换请求参数里面的变量,例如：152${random_phone}'''
+            for key, value in data.items():
+                if isinstance(value, str) and '${random_phone}' in value:
+                    data[key] = value.split('$')[0]+str(random_phone())
         response = self.session.request(method=self.method, url=self.url, params=params, data=data, **kwargs)
         response.encoding = 'utf-8'
         logger.info('>>>开始执行第{2}个用例{0} {1}'.format(self.method, self.url,count-1))
@@ -60,3 +65,15 @@ class HTTPClient(object):
         else:
             raise RequestFailed('请求500')
         return response
+
+
+if __name__=="__main__":
+    testdict={"mobile": "152${random_phone}", "siteId": 1123,
+     "loginType": 1, "validCode": 1482}
+    for key, value in testdict.items():
+        if isinstance(value,str)  and '${random_phone}' in value:
+            num=random_phone()
+            print(num)
+
+
+

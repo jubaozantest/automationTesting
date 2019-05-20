@@ -2173,3 +2173,34 @@ AssertionError: None != 1
 [HTTPClient.py]: [INFO  ] [2019-05-20 11:20:09,426]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
 [HTTPClient.py]: [INFO  ] [2019-05-20 11:20:09,426]: >>>请求成功: <Response [200]>
 接口响应值为:{"code":0,"message":"操作成功","body":{"balance":127.27000000000001,"canApply":111.37,"noBanlance":15.9,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1558322409}
+[HTTPClient.py]: [INFO  ] [2019-05-20 16:45:21,032]: >>>开始执行第2个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 16:45:21,032]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 16:45:21,547]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-20 16:45:21,548]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":0,"message":"操作成功","body":{"balance":127.27000000000001,"canApply":111.37,"noBanlance":15.9,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1558341921}
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:16:45,644]: >>>开始执行第1个用例POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:16:45,644]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:16:46,000]: >>>开始执行第2个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:16:46,000]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:16:46,247]: >>>开始执行第3个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:16:46,247]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:16:46,641]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:16:46,643]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":0,"message":"操作成功","body":{"balance":127.27000000000001,"canApply":111.37,"noBanlance":15.9,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1558343806}
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:17:32,760]: >>>开始执行第1个用例POST https://u.jubaozan.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:17:32,761]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":14507999,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg5NDg2NTMwNzcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3OTk5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTgzNDM4NTMwNzd9In0.X3stsSplQT8J58yfPAmNryWjKy0cZK_Nc4v6zewzX8w"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:17:32,809]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTg5NDg2NTMwNzcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3OTk5XCIsXCJtZXJjaGFudElkXCI6XCIxMTIzXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTgzNDM4NTMwNzd9In0.X3stsSplQT8J58yfPAmNryWjKy0cZK_Nc4v6zewzX8w
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:17:35,110]: >>>开始执行第2个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:17:35,110]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"Can't read input file!"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:17:35,365]: >>>开始执行第3个用例PUT https://trade.jubaozan.cn/mall/goods/poster
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:17:35,365]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":240000,"success":false,"errorMessage":"获取商品信息失败"}
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:17:35,740]: >>>开始执行第4个用例GET https://trade.jubaozan.cn/micro/account-api/api/account/balance/queryAccountBalance
+[HTTPClient.py]: [INFO  ] [2019-05-20 17:17:35,742]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":0,"message":"操作成功","body":{"balance":127.27000000000001,"canApply":111.37,"noBanlance":15.9,"isbailMoneyToBalance":false,"bailMoney":0.0,"nick":"焦梓意","headerUrl":"http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132","currency":"元"},"timestamp":1558343856}

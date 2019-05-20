@@ -31,6 +31,8 @@ def get_current_time():
     """
     return str(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
 
+def random_phone():
+    return random.randrange(0, 99999999)
 
 def get_current_timestamp():
     """
