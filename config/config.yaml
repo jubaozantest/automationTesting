@@ -1,5 +1,8 @@
 server: https://t.jubaozan.cn/
-interfacePre: https://u.jubaozan.cn/
+variables:
+  userhost: https://u.jubaozan.cn
+  shophost: https://trade.jubaozan.cn
+  siteId : 1123
 browser:
   name: chrome
   mode: normal #headless表示谷歌headles模式, normal，grid,docker

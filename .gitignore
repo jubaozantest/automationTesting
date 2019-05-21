@@ -2,3 +2,6 @@
 config/config.yml
 __pycache__
 *.pyc
+*.xml
+*.log
+

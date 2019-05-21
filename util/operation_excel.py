@@ -24,14 +24,14 @@ class Excel:
     def write_respone(self,row,respone):
         wb = load_workbook(self.filename)
         wb1 = wb.active
-        wb1.cell(row,8,respone)
+        wb1.cell(row,9,respone)
         wb.save(self.filename)
 
     def write_result(self,row,result):
         wb = load_workbook(self.filename)
         wb1 = wb.active
         if result:
-            wb1.cell(row,10,'pass')
+            wb1.cell(row,11,'pass')
         else:
-            wb1.cell(row,10,'fail')
+            wb1.cell(row,11,'fail')
         wb.save(self.filename)

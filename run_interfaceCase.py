@@ -5,6 +5,7 @@ from util.default_path import get_config
 config = get_config()
 now = time.strftime('%Y-%m-%d-%H-%M-%S', time.localtime())
 report_path = config.REPORT_DIR+r'\{0}-interface-report.html'.format(now)
+
 def creatsuite():
     '''添加测试集'''
     testunit = unittest.TestSuite()

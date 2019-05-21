@@ -47,23 +47,6 @@ def str_time_to_timestamp(str_time):
     return int(time.mktime(time_array))
 
 
-def check_json_contains(actual, expect):
-        err_msg = ''
-        for key, value in expect.items():
-            if key not in actual:
-                err_msg = '实际结果中未找到"{}"这个Key'.format(key)
-                return False, err_msg
-            if not value == 'isNotNone':
-                if actual[key] != expect[key]:
-                    err_msg = '"{0}"这个Key的预期结果是"{1}"，实际结果是"{2}"'.format(key, expect[key], actual[key])
-                    print(err_msg)
-                    return False,err_msg
-            else:
-                if not actual[key]:
-                    err_msg = '实际结果{}的值为空'.format(key)
-                    print(err_msg)
-                    return False, err_msg
-        return True, err_msg
 
 def is_json_contains(actual, expect, err_msg=''):
     if not isinstance(actual, (list, dict)):

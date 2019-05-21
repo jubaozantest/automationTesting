@@ -30,12 +30,22 @@ class  Config:
         return self.cfg['browser']['mode']
 
     @property
-    def interface_pre(self):
-        return self.cfg['interfacePre']
+    def variables_userhost(self):
+        return self.cfg['variables']['userhost']
+
+    @property
+    def variables_shophost(self):
+        return self.cfg['variables']['shophost']
+
+    @property
+    def variables_siteId(self):
+        return self.cfg['variables']['siteId']
+
+    def variables(self,name):
+        return self.cfg['variables'][name]
 
 class  ConfigExtract:
     def __init__(self):
-
         with open(extract_path, 'r') as ymlfile:
             self.cfg = yaml.load(ymlfile)
 
