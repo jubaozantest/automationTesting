@@ -3,6 +3,7 @@ import json
 import random
 import socket
 import time
+
 import os
 from util.query_mysql import execute_sql
 
@@ -100,13 +101,14 @@ def is_json_contains(actual, expect, err_msg=''):
                     return False
             elif key not in actual:
                 return False
-
     elif isinstance(actual, dict) and isinstance(expect, dict):
-        for key ,value in expect.items():
+        for key, value in expect.items():
+            if isinstance(value,str):
+                value=value.upper()
             if key not in actual:
                 err_msg += '实际结果中未找到"{}"这个Key'.format(key)
                 return False, err_msg
-            if not value=='isNotNone':
+            if not value=='ISNOTNONE':
                 # if not isinstance(actual[key], type(expect[key])):
                 #     err_msg += '"{0}"这个Key的预期结果类型是"{1}",实际结果类型是"{2}"'.format(
                 #         key, type(expect[key]).__name__, type(actual[key]).__name__)
@@ -181,41 +183,6 @@ def generate_idcard():
 
     id_card = '%s%s' % (x, LAST[y % 11])
     return id_card
-
-
-def count_case_by_single_file(f_path):
-    """统计某文件里RF用例数量"""
-    sum = 0
-    with open(f_path, mode='r', encoding='UTF-8') as f:
-        exist_lines = f.readlines()
-        is_case_file = False
-        for line in exist_lines:
-            if line.startswith('*** Test Cases ***'):
-                is_case_file = True
-                continue
-            if is_case_file and not line.startswith('    ') and len(line) > 2:
-                print('line:{}'.format(line))
-                sum += 1
-    return sum
-
-
-def count_rf_cases(root_dir, case_num=None):
-    """统计目录下RF用例总数"""
-    if not case_num:
-        case_num = 0
-    f_d_list = os.listdir(root_dir)
-
-    for f_d in f_d_list:
-        if f_d.startswith('.'):
-            continue
-        f_d_path = os.path.join(root_dir, f_d)
-        if os.path.isfile(f_d_path):
-            if f_d_path.endswith('.txt') or f_d_path.endswith('.robot'):
-                case_num += count_case_by_single_file(f_d_path)
-        else:
-            case_num = count_rf_cases(f_d_path, case_num)
-
-    return case_num
 
 
 

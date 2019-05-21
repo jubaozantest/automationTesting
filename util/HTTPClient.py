@@ -43,13 +43,17 @@ class HTTPClient(object):
     def send(self, params=None, data=None,extract=None,count=None, **kwargs):
         if data and isinstance(data,str):
             data=json.loads(data)
-            '''转换请求参数里面的变量,例如：152${random_phone}'''
             for key, value in data.items():
+                '''转换请求参数里面的变量,例如：152${random_phone}'''
                 if isinstance(value, str) and '${random_phone}' in value:
                     data[key] = value.split('$')[0]+str(random_phone())
+                '''转换请求参数里面的sql,例如'''
+                if isinstance(value,str) and (value.startswith("select") or value.startswith("update")) :
+                    data[key]=execute_sql(value)
         response = self.session.request(method=self.method, url=self.url, params=params, data=data, **kwargs)
         response.encoding = 'utf-8'
         logger.info('>>>开始执行第{2}个用例{0} {1}'.format(self.method, self.url,count-1))
+        logger.info('>>>请求参数为:{}'.format(data))
         logger.info('>>>请求成功: {0}\n接口响应值为:{1}'.format(response, response.text))
         '''写入响应值到excel表的请求响应值'''
         Excel().write_respone(count,response.text)
@@ -70,5 +74,10 @@ class HTTPClient(object):
 
 if __name__=="__main__":
     pass
-
-
+    x=1
+    y=False
+    c=False
+    if x and (y or c) :
+        print('111')
+    else:
+        print('222')

@@ -34,9 +34,14 @@ class AuthLogin(unittest.TestCase):
         res = client.send(data=params,extract=extract,count=row)
         '''校验excel中的检查点：1.字段的值和respone中的值相等 2.字段的值不为空'''
         if checkkpoint:
-            checkkpoint = eval(checkkpoint)
+            try:
+                checkkpoint = eval(checkkpoint)
+            except NameError:
+                from logs.log import logger
+                logger.info('!!!!!预期结果不是Json格式!!!!!')
             result=is_json_contains(res,checkkpoint)
             Excel().write_result(row,result[0])
             self.assertTrue(result[0],result[1])
 if __name__ == '__main__':
     unittest.main()
+
