@@ -24,7 +24,7 @@ class Excel:
     def write_respone(self,row,respone):
         wb = load_workbook(self.filename)
         wb1 = wb.active
-        wb1.cell(row,9,respone)
+        wb1.cell(row,10,respone)
         wb.save(self.filename)
 
     def write_result(self,row,result):

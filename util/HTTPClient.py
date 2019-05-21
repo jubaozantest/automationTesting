@@ -42,14 +42,19 @@ class HTTPClient(object):
 
     def send(self, params=None, data=None,extract=None,count=None, **kwargs):
         if data and isinstance(data,str):
-            data=json.loads(data)
+            data=eval(data)
+            print(type(data))
             for key, value in data.items():
-                '''转换请求参数里面的变量,例如：152${random_phone}'''
-                if isinstance(value, str) and '${random_phone}' in value:
-                    data[key] = value.split('$')[0]+str(random_phone())
-                '''转换请求参数里面的sql,例如'''
-                if isinstance(value,str) and (value.startswith("select") or value.startswith("update")) :
-                    data[key]=execute_sql(value)
+                print(value,type(value))
+                '''转换请求参数里面的变量,例如：152${random_phone},{"com":"c3","agentid":14507427,"mobile":15074652511,"siteId":1122}${md5}'''
+                if isinstance(value, str):
+                    if '${random_phone}' in value:
+                        data[key] = value.split('$')[0]+str(random_phone())
+                    elif '${md5}' in value:
+                        md5_data=value.split('$')[0]
+                        data[key] =md5(json.loads(md5_data))
+                    elif value.startswith("select") or value.startswith("update") :
+                        data[key]=execute_sql(value)
         response = self.session.request(method=self.method, url=self.url, params=params, data=data, **kwargs)
         response.encoding = 'utf-8'
         logger.info('>>>开始执行第{2}个用例{0} {1}'.format(self.method, self.url,count-1))
@@ -74,10 +79,3 @@ class HTTPClient(object):
 
 if __name__=="__main__":
     pass
-    x=1
-    y=False
-    c=False
-    if x and (y or c) :
-        print('111')
-    else:
-        print('222')

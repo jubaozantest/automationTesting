@@ -3,6 +3,7 @@ import json
 import random
 import socket
 import time
+import hashlib
 
 import os
 from util.query_mysql import execute_sql
@@ -169,8 +170,11 @@ def generate_idcard():
     id_card = '%s%s' % (x, LAST[y % 11])
     return id_card
 
-
-
+def md5(data):
+    string = json.dumps(data).replace(': ', ':').replace(', ', ',')
+    m = hashlib.md5()
+    m.update(string.encode(encoding='utf-8'))
+    return m.hexdigest()
 
 if __name__ == '__main__':
     # print(get_host_port())
@@ -183,22 +187,8 @@ if __name__ == '__main__':
     # s = is_json_contains(a, b)
     # print(s)
     # print(generate_idcard())
-    pass
-    a={
-    "code": 0,
-    "message": "操作成功",
-    "body": {
-        "balance": 28.58,
-        "canApply": 25.47,
-        "noBanlance": 3.11,
-        "isbailMoneyToBalance": False,
-        "bailMoney": 0,
-        "nick": "焦梓意",
-        "headerUrl": "http://thirdwx.qlogo.cn/mmopen/vi_32/3goMib31BRX6g1bQTnhbiagrZYzK8wmgyzdQDJubEEEMTcdZOibYebI5dRYVbHele1eq6rDaFjVOt2YAkMsQ6F2icg/132",
-        "currency": "元"
-    },
-    "timestamp": 1557900966
-}
-    b={"message":"操作成功","body":{"canApply":"select money from fxydym.fx_angent_extend where agentid=14507854"}}
-    x=is_json_contains(a,b)
-    print(x)
+    data={"com":"c3","agentid":14507427,"mobile":15074652511,"siteId":1122}
+
+    x=json.dumps(data)
+    y=json.loads(x)
+    print(md5(y))
