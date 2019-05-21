@@ -4,4 +4,8 @@ __pycache__
 *.pyc
 *.xml
 *.log
+<<<<<<< HEAD
 
+=======
+*.html
+>>>>>>> dd5f2efea03b9c6e5e34a030775979643e0d8aa1

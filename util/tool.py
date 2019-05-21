@@ -134,6 +134,8 @@ def json_dumps(dic):
 def json_loads(str_):
     return json.loads(str_)
 
+def json_phone():
+    return random.randrange(0, 99999999)
 
 def generate_random_num(min_, max_):
     return random.randint(min_ + 1, max_)
