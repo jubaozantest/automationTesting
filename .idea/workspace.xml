@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a1c1bf26-2331-4344-ba6c-bf6bbdbbcf20" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/config/extract.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/extract.yaml" afterDir="false" />
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/config/interface_testcases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/config/interface_testcases.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/selenium.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/util/HTTPClient.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/HTTPClient.py" afterDir="false" />
@@ -50,17 +54,60 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/HTTPClient.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="50">
               <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+=======
+            <state relative-caret-position="473">
+              <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+              <folding>
+                <element signature="e#32#46#0" expanded="true" />
+              </folding>
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/util/tool.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="223">
               <caret line="150" column="40" lean-forward="true" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/tool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="123" selection-start-line="123" selection-end-line="125" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcasesInterface/handle_testcase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/util/HTTPClient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="55" column="44" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
@@ -79,6 +126,8 @@
       <find>uiautomator2</find>
       <find>report_path</find>
       <find>石期涛</find>
+      <find>logger</find>
+      <find>预期结果不是Json格式</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -128,9 +177,24 @@
         <option value="$PROJECT_DIR$/config/config.yaml" />
         <option value="$PROJECT_DIR$/lib/config.py" />
         <option value="$PROJECT_DIR$/testcases/testcases_login.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/util/HTTPClient.py" />
         <option value="$PROJECT_DIR$/testcases/demo.py" />
         <option value="$PROJECT_DIR$/util/tool.py" />
+=======
+        <option value="$PROJECT_DIR$/lib/initbrowser.py" />
+        <option value="$PROJECT_DIR$/logs/log.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/util/extractVariables.py" />
+        <option value="$PROJECT_DIR$/util/default_path.py" />
+        <option value="$PROJECT_DIR$/util/query_mysql.py" />
+        <option value="$PROJECT_DIR$/lib/basictestcase.py" />
+        <option value="$PROJECT_DIR$/util/operation_excel.py" />
+        <option value="$PROJECT_DIR$/util/tool.py" />
+        <option value="$PROJECT_DIR$/testcasesInterface/handle_testcase.py" />
+        <option value="$PROJECT_DIR$/util/HTTPClient.py" />
+>>>>>>> origin/master
       </list>
     </option>
   </component>
@@ -190,8 +254,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.demo">
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.run_interfaceCase">
+    <configuration name="HTTPClient" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="selenium_py_matser" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,24 +348,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Unittests in testcases_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="selenium_py_matser" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/testcases_login.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/tool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+>>>>>>> origin/master
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.run_interfaceCase" />
       <item itemvalue="Python.run" />
+<<<<<<< HEAD
       <item itemvalue="Python.goods" />
       <item itemvalue="Python.demo" />
       <item itemvalue="Python tests.Unittests in testcases_login.py" />
@@ -308,6 +392,19 @@
         <item itemvalue="Python.goods" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python tests.Unittests in testcases_login.py" />
+=======
+      <item itemvalue="Python.handle_testcase" />
+      <item itemvalue="Python.HTTPClient" />
+      <item itemvalue="Python.tool" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_interfaceCase" />
+        <item itemvalue="Python.handle_testcase" />
+        <item itemvalue="Python.HTTPClient" />
+        <item itemvalue="Python.tool" />
+        <item itemvalue="Python.run" />
+>>>>>>> origin/master
       </list>
     </recent_temporary>
   </component>
@@ -340,9 +437,17 @@
       <workItem from="1557396087199" duration="2563000" />
       <workItem from="1557450673888" duration="18869000" />
       <workItem from="1557483704281" duration="15000" />
+<<<<<<< HEAD
       <workItem from="1557484599654" duration="1135000" />
       <workItem from="1557710751854" duration="3684000" />
       <workItem from="1558322560879" duration="5497000" />
+=======
+      <workItem from="1557484499458" duration="228000" />
+      <workItem from="1557643468006" duration="402000" />
+      <workItem from="1557710530952" duration="97372000" />
+      <workItem from="1558059645507" duration="647000" />
+      <workItem from="1558320091662" duration="19321000" />
+>>>>>>> origin/master
     </task>
     <servers />
   </component>
@@ -379,7 +484,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="71575000" />
+=======
+    <option name="totallyTimeSpent" value="179229000" />
+>>>>>>> origin/master
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -391,6 +500,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20643431" />
@@ -409,6 +519,29 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.40509915" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32843137" />
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2193646" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3371522" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3989899" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32659933" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.54664487" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32843137" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+>>>>>>> origin/master
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -486,11 +619,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/automationTesting$mobile_login.coverage" NAME="mobile_login Coverage Results" MODIFIED="1557393138900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
     <SUITE FILE_PATH="coverage/automationTesting$Unittests_in_mobile_login_py.coverage" NAME="Unittests in mobile_login.py Coverage Results" MODIFIED="1557395474675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases_interface" />
     <SUITE FILE_PATH="coverage/automationTesting$login_mobile.coverage" NAME="login_mobile Coverage Results" MODIFIED="1557454628585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcasesInterface" />
     <SUITE FILE_PATH="coverage/automationTesting$run.coverage" NAME="run Coverage Results" MODIFIED="1557476242745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automationTesting$testcases_login.coverage" NAME="testcases_login Coverage Results" MODIFIED="1557396615529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+=======
+    <SUITE FILE_PATH="coverage/automationTesting$Unittests_in_login_mobile111_py.coverage" NAME="Unittests in login_mobile111.py Coverage Results" MODIFIED="1557398250439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcasesInterface" />
+    <SUITE FILE_PATH="coverage/automationTesting$read_excel.coverage" NAME="read_excel Coverage Results" MODIFIED="1557889950288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/automationTesting$authLogin.coverage" NAME="authLogin Coverage Results" MODIFIED="1557892142806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcasesInterface" />
+    <SUITE FILE_PATH="coverage/selenium_py_matser$testcases_login.coverage" NAME="testcases_login Coverage Results" MODIFIED="1557287639155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/automationTesting$Unittests_in_sendValidcode_py.coverage" NAME="Unittests in sendValidcode.py Coverage Results" MODIFIED="1557397284933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases_interface" />
+    <SUITE FILE_PATH="coverage/automationTesting$HTTPClient.coverage" NAME="HTTPClient Coverage Results" MODIFIED="1558408499546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/automationTesting$Unittests_in_testcases_login_py.coverage" NAME="Unittests in testcases_login.py Coverage Results" MODIFIED="1557475610144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/selenium_py_matser$run.coverage" NAME="run Coverage Results" MODIFIED="1557050114112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automationTesting$mobile_login.coverage" NAME="mobile_login Coverage Results" MODIFIED="1557393138900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
+    <SUITE FILE_PATH="coverage/automationTesting$handle_testcase.coverage" NAME="handle_testcase Coverage Results" MODIFIED="1558408911962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcasesInterface" />
+    <SUITE FILE_PATH="coverage/automationTesting$loginapi.coverage" NAME="loginapi Coverage Results" MODIFIED="1557372212180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
+    <SUITE FILE_PATH="coverage/automationTesting$login111.coverage" NAME="login111 Coverage Results" MODIFIED="1557370783854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
+    <SUITE FILE_PATH="coverage/automationTesting$login_mobile111.coverage" NAME="login_mobile111 Coverage Results" MODIFIED="1557397760233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases_interface" />
+>>>>>>> origin/master
     <SUITE FILE_PATH="coverage/automationTesting$Unittests_in_loginapi_py.coverage" NAME="Unittests in loginapi.py Coverage Results" MODIFIED="1557365661874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
     <SUITE FILE_PATH="coverage/automationTesting$Unittests_in_testcases_login_py.coverage" NAME="Unittests in testcases_login.py Coverage Results" MODIFIED="1557475610144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
     <SUITE FILE_PATH="coverage/selenium_py_matser$run.coverage" NAME="run Coverage Results" MODIFIED="1557050114112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -500,6 +649,17 @@
     <SUITE FILE_PATH="coverage/selenium_py_matser$testcases_login.coverage" NAME="testcases_login Coverage Results" MODIFIED="1557287639155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
     <SUITE FILE_PATH="coverage/automationTesting$goods.coverage" NAME="goods Coverage Results" MODIFIED="1557478436691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcasesInterface" />
     <SUITE FILE_PATH="coverage/selenium_py_matser$login.coverage" NAME="login Coverage Results" MODIFIED="1557281438014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
+<<<<<<< HEAD
+=======
+    <SUITE FILE_PATH="coverage/automationTesting$run.coverage" NAME="run Coverage Results" MODIFIED="1557990204033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automationTesting$run_interfaceCase.coverage" NAME="run_interfaceCase Coverage Results" MODIFIED="1558408922288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automationTesting$Unittests_in_mobile_login_py.coverage" NAME="Unittests in mobile_login.py Coverage Results" MODIFIED="1557395474675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases_interface" />
+    <SUITE FILE_PATH="coverage/automationTesting$tool.coverage" NAME="tool Coverage Results" MODIFIED="1558406425361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/automationTesting$login.coverage" NAME="login Coverage Results" MODIFIED="1557373480425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
+    <SUITE FILE_PATH="coverage/automationTesting$test.coverage" NAME="test Coverage Results" MODIFIED="1557744253673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/automationTesting$testcases_login.coverage" NAME="testcases_login Coverage Results" MODIFIED="1557974315162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/automationTesting$query_mysql.coverage" NAME="query_mysql Coverage Results" MODIFIED="1557902804609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+>>>>>>> origin/master
     <SUITE FILE_PATH="coverage/automationTesting$Unnamed.coverage" NAME="name Coverage Results" MODIFIED="1557396251871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../" />
     <SUITE FILE_PATH="coverage/automationTesting$run_interfaceCase.coverage" NAME="run_interfaceCase Coverage Results" MODIFIED="1558322740567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/automationTesting$login.coverage" NAME="login Coverage Results" MODIFIED="1557373480425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/intfTestCase" />
@@ -655,16 +815,25 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lib/basictestcase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#37#62#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/util/selenium_public_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#163#0" expanded="true" />
+>>>>>>> origin/master
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lib/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -678,22 +847,50 @@
           <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/util/operation_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <element signature="e#34#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testcasesInterface/handle_testcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+>>>>>>> origin/master
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/testcases/demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/util/query_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding>
+            <element signature="e#32#46#0" expanded="true" />
+>>>>>>> origin/master
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/HTTPClient.py">
+    <entry file="file://$PROJECT_DIR$/util/tool.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="50">
           <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
         </state>
@@ -703,6 +900,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="150" column="40" lean-forward="true" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
+=======
+        <state relative-caret-position="228">
+          <caret line="123" selection-start-line="123" selection-end-line="125" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/HTTPClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="55" column="44" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
