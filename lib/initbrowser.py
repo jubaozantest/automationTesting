@@ -63,10 +63,35 @@ class BrowserInit(object):
             return element
         except Exception:
             raise ElementNotFoundException("{}元素路径找不到".format(name))
+    def get_elements_until_is_visible(self,*args):
+        '''
+        等待某个元素出现，timeout默认5秒，频率0.5
+        :param by:定位方式
+        :param inspect:值
+        :param element:元素名字
+        :return: 元素对象webelement列表
+        '''
+        time = 5
+        by,inspect,name=args[0],args[1],args[2]
+        try:
+            element = WebDriverWait(self.driver, time).until(lambda x: x.find_elements(by=by,value=inspect))
+            return element
+        except Exception:
+            raise ElementNotFoundException("{}元素路径找不到".format(name))
+
     def click_element(self,*args):
-        logger.info('开始点击元素:{0}，路径值为:{1}'.format(args[2],args[1]))
+        '''点击元素'''
+        logger.info('开始点击元素:"{0}">>>，路径值为:{1}'.format(args[2],args[1]))
         self.get_element_until_is_visible(*args).click()
 
     def send_keys(self,*args):
-        logger.info('开始在元素:{0}输入:{1}，路径值为:{2}'.format(args[2],args[3],args[1]))
+        '''键盘输入'''
+        logger.info('开始在元素:"{0}">>>输入:{1}，路径值为:{2}'.format(args[2],args[3],args[1]))
         self.get_element_until_is_visible(*args).send_keys(args[3])
+
+
+    def element_visible_times(self,*args):
+        '''验证元素在页面出现的次数'''
+        times=len(self.get_elements_until_is_visible(*args))
+        logger.info('元素:"{0}">>>在页面上出现的次数为{1}，路径值为:{2}'.format(args[2],times,args[1]))
+        return times

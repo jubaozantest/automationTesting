@@ -4,20 +4,24 @@ from lib.config import test_config,extract_config
 from util.operation_excel import Excel
 from ddt import ddt,data
 from util.tool import is_json_contains
+import warnings
+
 row=1
 @ddt
 class AuthLogin(unittest.TestCase):
     testdata=Excel().read_excel()
     def setUp(self):
-        pass
+        warnings.simplefilter("ignore", ResourceWarning)
+
         #self.client = HTTPClient(url=self.URL, method='POST')
 
     @data(*testdata)
     def test_cases(self,tdata):
         global row
         row+=1
-        headers,params,url,method,checkkpoint=tdata['请求头信息'],tdata['请求入参'],tdata['接口url'],tdata['请求方式'],tdata['检查点']
+        headers,params,apiUrl,method,checkkpoint,host=tdata['请求头信息'],tdata['请求入参'],tdata['接口url'],tdata['请求方式'],tdata['检查点'],tdata["Host"]
         extract=tdata['提取变量']
+        url=host+apiUrl
         '''替换头部信息包含上个接口提取的变量'''
         if headers:
             headers = eval(headers)
@@ -32,7 +36,6 @@ class AuthLogin(unittest.TestCase):
         if checkkpoint:
             checkkpoint = eval(checkkpoint)
             result=is_json_contains(res,checkkpoint)
-            print(res)
             Excel().write_result(row,result[0])
             self.assertTrue(result[0],result[1])
 if __name__ == '__main__':

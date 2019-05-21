@@ -27,13 +27,13 @@ class LoginSuite(unittest.TestCase):
         :return:
         '''
         self.login(name=self.username, pwd=self.password)
-        self.assertEqual(1, 1)
+        times=self.browser.element_visible_times(*LoginPage.shouye,)
+        self.assertEqual(times,1)
 
     def login(self,**kwargs):
         self.browser.send_keys(*LoginPage.username_input,kwargs["name"])
         self.browser.send_keys(*LoginPage.pwd_input,kwargs["pwd"])
         self.browser.click_element(*LoginPage.login_button)
-
 
 if __name__ == "__main__":
     

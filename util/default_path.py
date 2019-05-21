@@ -21,11 +21,8 @@ class Config(object):
     SQLALCHEMY_POOL_TIMEOUT = 20
     SQLALCHEMY_POOL_RECYCLE = 900
 
-    # linux atp dir path
-    if get_host() == '99.48.58.241':
-        LINUX_BASE_PATH = '/usr/local/src/atp'
-    else:
-        LINUX_BASE_PATH = '/usr/local/src/atp'
+
+    LINUX_BASE_PATH = '/usr/local/src/atp'
 
     # log
     LINUX_LOG = '/usr/local/src/logs/atp-auto-core/atp-auto-core.log'
@@ -67,14 +64,11 @@ class Config(object):
     # email to
     EMAIL_TO = []
 
-    # default user password
-    DEFAULT_USER_PWD = '123456'
+
 
     # login_expire_time
     LOGIN_EXPIRE_TIME = 28800  # 8 hours
 
-    # run without authentication，DO NOT change to True
-    NON_AUTHENTICATION = False
 
 
 def get_config():

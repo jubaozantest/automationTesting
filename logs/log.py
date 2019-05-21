@@ -22,7 +22,6 @@ logger.addHandler(file_hdl)
 
 
 if __name__ == "__main__":
-
     for i in range(1):
         logger.debug("This is debug information")
         logger.info("This is info information")
