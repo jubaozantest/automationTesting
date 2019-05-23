@@ -36,6 +36,15 @@ def get_current_time():
 def random_phone():
     return random.randrange(0, 99999999)
 
+def generate_phone(top=None):
+    if not top:
+        phone_list = ['136', '188', '134', '135', '184', '187', '183']  # 定义号码段
+        phone = random.choice(phone_list) + "".join(random.choice("0123456789") for _ in range(8))
+    else:
+        phone = str(top) + "".join(random.choice("0123456789") for _ in range(8))
+    return phone
+
+
 def get_current_timestamp():
     """
     获取当前时间，返回10位时间戳
@@ -187,8 +196,9 @@ if __name__ == '__main__':
     # s = is_json_contains(a, b)
     # print(s)
     # print(generate_idcard())
-    data={"com":"c3","agentid":14507427,"mobile":15074652511,"siteId":1122}
-
-    x=json.dumps(data)
-    y=json.loads(x)
-    print(md5(y))
+    # data={"com":"c3","agentid":14507427,"mobile":15074652511,"siteId":1122}
+#     #
+#     # x=json.dumps(data)
+#     # y=json.loads(x)
+#     # print(md5(y))
+    print(generate_phone(152))

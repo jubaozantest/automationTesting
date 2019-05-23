@@ -39,7 +39,10 @@ class AuthLogin(unittest.TestCase):
                     headers[key] = str(replace)
         '''开始请求接口，返回接口响应值'''
         client = HTTPClient(url=url, method=method,headers=headers)
-        res = client.send(data=params,extract=extract,count=row)
+        if method=='get':
+            res = client.send(params=params,extract=extract,count=row)
+        else:
+            res = client.send(data=params,extract=extract,count=row)
         '''校验excel中的检查点：1.字段的值和respone中的值相等 2.字段的值不为空'''
         if checkkpoint:
             try:
@@ -49,6 +52,7 @@ class AuthLogin(unittest.TestCase):
                 logger.info('!!!!!预期结果不是Json格式!!!!!')
             result=is_json_contains(res,checkkpoint)
             Excel().write_result(row,result[0])
+            Excel().write_fail_message(row,result[1])
             self.assertTrue(result[0],result[1])
 if __name__ == '__main__':
     unittest.main()

@@ -32,13 +32,15 @@ class ExecuteSQL(object):
             db_connect.close()
             return results
 def execute_sql(sql):
+    #print('sql',sql)
     connect = ExecuteSQL(sql)
     res = connect.execute_sql()
     return res[0][0]
 if __name__ == '__main__':
     #sql = "select mobile from fx_agent where agentid='14494534'"
-    sql = "select money from fxydym.fx_angent_extend where agentid=14507854"
-    execute_sql(sql)
+    #sql = "select money from fxydym.fx_angent_extend where agentid=14507854"
+    sql="SELECT mobile FROM fxydym.fx_agent WHERE sjid=1122 AND mobile>1 GROUP BY mobile DESC LIMIT 1"
+    print(execute_sql(sql))
 
 
 

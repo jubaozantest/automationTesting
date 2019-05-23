@@ -35,3 +35,20 @@ class Excel:
         else:
             wb1.cell(row,11,'fail')
         wb.save(self.filename)
+
+    def write_fail_message(self,row,message):
+        wb = load_workbook(self.filename)
+        wb1 = wb.active
+        if message:
+            wb1.cell(row,12,message)
+        wb.save(self.filename)
+
+    def write_number(self,row):
+        wb = load_workbook(self.filename)
+        wb1 = wb.active
+
+        wb1.cell(row,1,row-1)
+        wb.save(self.filename)
+
+
+
