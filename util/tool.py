@@ -196,9 +196,6 @@ if __name__ == '__main__':
     # s = is_json_contains(a, b)
     # print(s)
     # print(generate_idcard())
-    # data={"com":"c3","agentid":14507427,"mobile":15074652511,"siteId":1122}
-#     #
-#     # x=json.dumps(data)
-#     # y=json.loads(x)
-#     # print(md5(y))
+    data={"com":"c3","agentid":14507967,"mobile":18973195297,"siteId":1122}
+    print(md5(data))
     print(generate_phone(152))

@@ -53,7 +53,7 @@ class AuthLogin(unittest.TestCase):
             result=is_json_contains(res,checkkpoint)
             Excel().write_result(row,result[0])
             Excel().write_fail_message(row,result[1])
+            Excel().write_number(row)
             self.assertTrue(result[0],result[1])
 if __name__ == '__main__':
     unittest.main()
-

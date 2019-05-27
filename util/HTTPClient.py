@@ -7,6 +7,7 @@ from util.tool import  *
 
 extract_path=get_config().EXTRACT_PATH
 METHODS = ['GET', 'POST', 'HEAD', 'TRACE', 'PUT', 'DELETE', 'OPTIONS', 'CONNECT']
+extract_dict = {}
 defult_headers = {
         #'Content-Type':'application/json'
         'Content-Type':'application/x-www-form-urlencoded'
@@ -76,13 +77,15 @@ class HTTPClient(object):
         if response.status_code==200 and isinstance(response.text,str):
             response=json.loads(response.text)
             '''提取变量写入yaml文件'''
-            if extract in response.keys():
-                extract_dict={}
-                extract_dict[extract]=response[extract]
-                with open(extract_path, "w") as yaml_file:
-                    yaml.dump(extract_dict, yaml_file, Dumper=yaml.RoundTripDumper)
-                    logger.info(">>>开始提取变量{}值为:{}".format(extract,response[extract]))
-                    time.sleep(1.8)
+            if extract:
+                variable_name=extract.split("=")[0]
+                extract_name=extract.split("=")[1]
+                if extract_name in response.keys():
+                    extract_dict[variable_name]=response[extract_name]
+                    with open(extract_path, "w") as yaml_file:
+                        yaml.dump(extract_dict, yaml_file, Dumper=yaml.RoundTripDumper)
+                        logger.info(">>>开始提取变量{0}值为:{1},提取后的名称为{2}".format(extract_name,response[extract_name],variable_name))
+                time.sleep(1.8)
         else:
             raise RequestFailed('请求500')
         return response
@@ -90,3 +93,8 @@ class HTTPClient(object):
 
 if __name__=="__main__":
     pass
+    extract_dict={"token1":"123",
+                  "token2":"456",
+                  "token3":"789"}
+    with open(extract_path, "w") as yaml_file:
+                        yaml.dump(extract_dict, yaml_file, Dumper=yaml.RoundTripDumper)
