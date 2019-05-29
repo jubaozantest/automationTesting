@@ -42,7 +42,7 @@ class HTTPClient(object):
         if cookies:
             self.session.cookies.update(cookies)
 
-    def send(self, params=None, data=None,extract=None,count=None, **kwargs):
+    def send(self, params=None, data=None,extract=None,count=None, sheet_index=None,**kwargs):
         if data and isinstance(data,str):
             data=eval(data)
             for key, value in data.items():
@@ -69,11 +69,11 @@ class HTTPClient(object):
                         params[key]=execute_sql(value)
         response = self.session.request(method=self.method, url=self.url, params=params, data=data, **kwargs)
         response.encoding = 'utf-8'
-        logger.info('>>>开始执行第{2}个用例{0} {1}'.format(self.method, self.url,count-1))
+        logger.info('>>>开始执行第{3}个表格的第{2}个用例{0} {1}'.format(self.method, self.url,count-1,sheet_index+1))
         logger.info('>>>请求参数为:{0}{1}'.format(data,params))
         logger.info('>>>请求成功: {0}\n接口响应值为:{1}'.format(response, response.text))
         '''写入响应值到excel表的请求响应值'''
-        Excel().write_respone(count,response.text)
+        Excel().write_respone(sheet_index,count,response.text)
         if response.status_code==200 and isinstance(response.text,str):
             response=json.loads(response.text)
             '''提取变量写入yaml文件'''
