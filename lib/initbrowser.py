@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """ 浏览器初始化
 """
+#from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
@@ -45,6 +48,8 @@ def supportBrowserType(browsertype, url):
 class BrowserInit(object):
     def __init__(self,  browser,url):
         self.driver = supportBrowserType(browser, url)
+        self.driver.implicitly_wait(20)
+
     def quit(self):
         return self.driver.quit()
 
@@ -56,10 +61,15 @@ class BrowserInit(object):
         :param element:元素名字
         :return: 元素对象webelement
         '''
-        time = 5
+        time = 8
         by,inspect,name=args[0],args[1],args[2]
+        # try:
+        #     element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
+        #     return element
         try:
-            element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
+            element = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((By.XPATH,inspect)))
+            #x=EC.element_to_be_clickable((By.XPATH,inspect))
+
             return element
         except Exception:
             raise ElementNotFoundException("{}元素路径找不到".format(name))

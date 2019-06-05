@@ -13,6 +13,7 @@ class AuthLogin(unittest.TestCase):
     excel_data=Excel().read_excel()
     testdata=excel_data[0]
     excel_data=excel_data[1]
+
     def setUp(self):
         warnings.simplefilter("ignore", ResourceWarning)
         #self.client = HTTPClient(url=self.URL, method='POST')
@@ -26,7 +27,6 @@ class AuthLogin(unittest.TestCase):
         else:
             row=2
             sheet_index+=1
-        #row+=1
         headers,params,apiUrl,method,checkkpoint,host=tdata['请求头信息'],tdata['请求入参'],tdata['接口url'],tdata['请求方式'],tdata['检查点'],tdata["Host"]
         extract=tdata['提取变量']
         '''解析host,如有变量就替换，例如{host}'''
@@ -48,7 +48,7 @@ class AuthLogin(unittest.TestCase):
                     headers[key] = str(replace)
         '''开始请求接口，返回接口响应值'''
         client = HTTPClient(url=url, method=method,headers=headers)
-        if method=='get':
+        if method=='get' or method=='delete':
             res = client.send(params=params,extract=extract,count=row,sheet_index=sheet_index)
         else:
             res = client.send(data=params,extract=extract,count=row,sheet_index=sheet_index)
@@ -66,12 +66,13 @@ class AuthLogin(unittest.TestCase):
             self.assertTrue(result[0],result[1])
 if __name__ == '__main__':
     unittest.main()
-    # import requests
+    # import requests,json
     # headers={
-    #         'Content-Type': 'application/json',
+    #         'Content-Type': 'application/x-www-form-urlencoded',
     #         "x-c3-site": "1122",
-    #         "x-c3-token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTk2NDI0MTIzMDYsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3OTY3XCIsXCJtZXJjaGFudElkXCI6XCIxMTIyXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTkwMzc2MTIzMDZ9In0.z-z9pssgBzLjVpT8vF3z7xI5CibiWMRxbVxi6zo3MwM",
+    #         "x-c3-token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTk2MzI4Mzc1ODcsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjE0NTA3NjY0XCIsXCJtZXJjaGFudElkXCI6XCIxMTIyXCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTkwMjgwMzc1ODd9In0.m49qQJ2Z3ogJmw_JdctlImDRHslgusBsY0S7YDaKtwk"
     #     }
-    #
-    # res=requests.delete(url='https://wx.jubaozan.cn/mall/shopCart/goods',headers=headers)
-    # print(res)
+    # data={"shopCartIdJson":[36,37,38,39,40]}
+    # da=json.dumps(data)
+    # res=requests.request(method='delete',url='https://trade.jubaozan.cn/mall/shopCart/goods',headers=headers,params=data)
+    # print(res,res.text)

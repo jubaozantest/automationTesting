@@ -36,6 +36,5 @@ class LoginSuite(unittest.TestCase):
         self.browser.click_element(*LoginPage.login_button)
 
 if __name__ == "__main__":
-    
     unittest.main()
 

@@ -10,7 +10,6 @@ class BasicTestCase(object):
     url = test_config.server
     username = test_config.cfg['user01']['name']
     password = test_config.cfg['user01']['password']
-    cell =  test_config.cfg['user01']['cell']
     def __init__(self):
         pass
 

@@ -18223,3 +18223,1212 @@ AssertionError: None != 1
 [HTTPClient.py]: [INFO  ] [2019-05-28 18:04:22,784]: >>>请求参数为:{'shopCartIdJson': ''}None
 [HTTPClient.py]: [INFO  ] [2019-05-28 18:04:22,785]: >>>请求成功: <Response [200]>
 接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:06,783]: >>>开始执行第1个表格的第1个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:06,783]: >>>请求参数为:None{'shopCartIdJson': [36, 37, 38, 39, 40]}
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:06,783]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:07,089]: >>>开始执行第1个表格的第2个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:07,089]: >>>请求参数为:None{'shopCartIdJson': ''}
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:07,089]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:30,487]: >>>开始执行第1个表格的第1个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:30,488]: >>>请求参数为:None{'shopCartIdJson': [36, 37, 38, 39, 40]}
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:30,488]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:30,759]: >>>开始执行第1个表格的第2个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:30,759]: >>>请求参数为:None{'shopCartIdJson': ''}
+[HTTPClient.py]: [INFO  ] [2019-05-29 15:56:30,759]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:16,256]: >>>开始执行第1个表格的第1个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:16,256]: >>>请求参数为:None{'shopCartIdJson': [36, 37, 38, 39, 40]}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:16,257]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:16,555]: >>>开始执行第1个表格的第2个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:16,555]: >>>请求参数为:None{'shopCartIdJson': ''}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:16,555]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:41,870]: >>>开始执行第1个表格的第1个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:41,870]: >>>请求参数为:None{'shopCartIdJson': [36, 37, 38, 39, 40]}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:41,870]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:42,103]: >>>开始执行第1个表格的第2个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:42,104]: >>>请求参数为:None{'shopCartIdJson': ''}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:51:42,104]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:12,858]: >>>开始执行第1个表格的第1个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:12,859]: >>>请求参数为:None{'shopCartIdJson': [36, 37, 38, 39, 40]}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:12,859]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:13,203]: >>>开始执行第1个表格的第2个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:13,204]: >>>请求参数为:None{'shopCartIdJson': ''}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:13,204]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:51,305]: >>>开始执行第1个表格的第1个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:51,305]: >>>请求参数为:None{'shopCartIdJson': [36, 37, 38, 39, 40]}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:51,307]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:51,526]: >>>开始执行第1个表格的第2个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:51,526]: >>>请求参数为:None{'shopCartIdJson': ''}
+[HTTPClient.py]: [INFO  ] [2019-05-30 14:54:51,526]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 15:37:01,403]: >>>开始执行第1个表格的第1个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 15:37:01,403]: >>>请求参数为:None{'shopCartIdJson': [36, 37, 38, 39, 40]}
+[HTTPClient.py]: [INFO  ] [2019-05-30 15:37:01,403]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[HTTPClient.py]: [INFO  ] [2019-05-30 15:37:01,660]: >>>开始执行第1个表格的第2个用例DELETE https://trade.jubaozan.cn/mall/shopCart/goods
+[HTTPClient.py]: [INFO  ] [2019-05-30 15:37:01,661]: >>>请求参数为:None{'shopCartIdJson': ''}
+[HTTPClient.py]: [INFO  ] [2019-05-30 15:37:01,661]: >>>请求成功: <Response [200]>
+接口响应值为:{"code":100000,"success":false,"errorMessage":"系统内部错误"}
+[wrappers.py]: [INFO  ] [2019-05-30 17:40:53,496]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 17:40:53,496]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[wrappers.py]: [ERROR ] [2019-05-30 17:40:58,704]: ATP: 接口发现未知错误 
+ an error occured 
+用户名输入框元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 62, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/testcases_login.py", line 29, in test_1_correct_user
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/testcases_login.py", line 34, in login
+    self.browser.send_keys(*LoginPage.username_input,kwargs["name"])
+  File "E:\automationTesting\lib\initbrowser.py", line 90, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "E:\automationTesting\lib\initbrowser.py", line 65, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 用户名输入框元素路径找不到
+
+[wrappers.py]: [INFO  ] [2019-05-30 17:41:46,621]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 17:41:46,621]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-30 17:41:46,679]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-30 17:41:46,740]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-30 17:41:48,979]: 元素:"舌尖上的名族">>>在页面上出现的次数为1，路径值为://span[text()='舌尖上的民族']
+[wrappers.py]: [INFO  ] [2019-05-30 17:41:48,979]: ==================== End call [__main__.LoginSuite], run 2.36s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-30 17:48:12,671]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 17:48:12,671]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-30 17:48:12,723]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-30 17:48:12,772]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[wrappers.py]: [ERROR ] [2019-05-30 17:48:14,393]: ATP: 接口发现未知错误 
+ an error occured 
+tuple index out of range
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 34, in test_1_add_manjianmansong
+    self.browser.click_element(*ShouYe.yingxiao)
+  File "E:\automationTesting\lib\initbrowser.py", line 84, in click_element
+    logger.info('开始点击元素:"{0}">>>，路径值为:{1}'.format(args[2],args[1]))
+IndexError: tuple index out of range
+
+[wrappers.py]: [INFO  ] [2019-05-30 17:49:23,684]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 17:49:23,684]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-30 17:49:23,782]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-30 17:49:23,836]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-30 17:49:25,526]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-30 17:49:25,876]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[wrappers.py]: [ERROR ] [2019-05-30 17:49:26,006]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 35, in test_1_add_manjianmansong
+    self.browser.click_element(*ManJianManSong.manjianmansong_link)
+  File "E:\automationTesting\lib\initbrowser.py", line 85, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-30 18:01:59,145]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 18:01:59,145]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:01:59,196]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:01:59,246]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:02:02,048]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:02:03,761]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[wrappers.py]: [ERROR ] [2019-05-30 18:02:03,825]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 35, in test_1_add_manjianmansong
+    self.browser.click_element(*ManJianManSong.manjianmansong_link)
+  File "E:\automationTesting\lib\initbrowser.py", line 85, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-30 18:04:51,211]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 18:04:51,211]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:04:51,270]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:04:51,325]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:04:53,409]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:04:53,809]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[wrappers.py]: [ERROR ] [2019-05-30 18:04:53,910]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 35, in test_1_add_manjianmansong
+    self.browser.click_element(*ManJianManSong.manjianmansong_link)
+  File "E:\automationTesting\lib\initbrowser.py", line 85, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-30 18:10:06,367]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 18:10:06,368]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:10:06,423]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:10:06,489]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:10:08,644]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:10:09,060]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[wrappers.py]: [ERROR ] [2019-05-30 18:10:09,125]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 35, in test_1_add_manjianmansong
+    self.browser.click_element(*ManJianManSong.manjianmansong_link)
+  File "E:\automationTesting\lib\initbrowser.py", line 85, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-30 18:11:36,753]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 18:11:36,753]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:11:36,812]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:11:36,860]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:11:39,098]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:11:44,508]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:11:49,746]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-30 18:11:50,493]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:11:50,654]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[wrappers.py]: [ERROR ] [2019-05-30 18:11:50,708]: ATP: 接口发现未知错误 
+ an error occured 
+Message: unknown error: Element <input type="text" class="layui-input" lay-verify="required" required="" name="time" id="startTime" lay-key="1"> is not clickable at point (489, 263). Other element would receive the click: <div class="modal bootstrap-dialog laoding_modal type-primary fade size-normal in" role="dialog" aria-hidden="true" id="b4b4146f-c4f2-41b3-8c12-7bf29d0a8cbb" aria-labelledby="b4b4146f-c4f2-41b3-8c12-7bf29d0a8cbb_title" tabindex="-1" style="z-index: 1050; display: block;">...</div>
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 40, in test_1_add_manjianmansong
+    self.browser.click_element(*ManJianManSong.shengxiaoshijian_input)
+  File "E:\automationTesting\lib\initbrowser.py", line 85, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Element <input type="text" class="layui-input" lay-verify="required" required="" name="time" id="startTime" lay-key="1"> is not clickable at point (489, 263). Other element would receive the click: <div class="modal bootstrap-dialog laoding_modal type-primary fade size-normal in" role="dialog" aria-hidden="true" id="b4b4146f-c4f2-41b3-8c12-7bf29d0a8cbb" aria-labelledby="b4b4146f-c4f2-41b3-8c12-7bf29d0a8cbb_title" tabindex="-1" style="z-index: 1050; display: block;">...</div>
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-30 18:15:40,154]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 18:15:40,155]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:15:40,288]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:15:40,342]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:15:42,260]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:15:47,776]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:15:48,022]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-30 18:15:48,084]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-30 18:15:56,539]: ATP: 接口发现未知错误 
+ an error occured 
+活动名称输入框元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 62, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(lambda x: x.find_element(by=by,value=inspect))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 38, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 90, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "E:\automationTesting\lib\initbrowser.py", line 65, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 活动名称输入框元素路径找不到
+
+[wrappers.py]: [INFO  ] [2019-05-30 18:16:38,993]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-30 18:16:38,995]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:16:39,047]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:16:39,092]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:16:40,841]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:16:46,259]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:16:49,457]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-30 18:16:52,825]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-05-30 18:16:55,966]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[initbrowser.py]: [INFO  ] [2019-05-30 18:16:59,098]: 开始点击元素:"开始时间">>>，路径值为://*[@id="layui-laydate1"]/div[1]/div[2]/table/tbody/tr[2]/td[5]
+[initbrowser.py]: [INFO  ] [2019-05-30 18:17:02,220]: 开始点击元素:"结束时间">>>，路径值为://*[@id="layui-laydate1"]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+[wrappers.py]: [INFO  ] [2019-05-30 18:17:02,308]: ==================== End call [__main__.LoginSuite], run 23.3s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-31 11:26:37,592]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 11:26:37,593]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:26:37,732]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:26:37,799]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:26:39,804]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:26:45,359]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:26:48,531]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 11:26:52,500]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:26:55,608]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[initbrowser.py]: [INFO  ] [2019-05-31 11:26:58,746]: 开始点击元素:"开始时间">>>，路径值为://*[@id="layui-laydate1"]/div[1]/div[2]/table/tbody/tr[2]/td[5]
+[initbrowser.py]: [INFO  ] [2019-05-31 11:27:01,856]: 开始点击元素:"结束时间">>>，路径值为://*[@id="layui-laydate1"]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+[wrappers.py]: [INFO  ] [2019-05-31 11:27:01,947]: ==================== End call [__main__.LoginSuite], run 24.4s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-31 11:36:24,292]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:24,292]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:24,388]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:24,440]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:26,428]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:32,013]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:35,203]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:38,644]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:41,756]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:44,894]: 开始点击元素:"开始时间">>>，路径值为://*[@id="layui-laydate1"]/div[1]/div[2]/table/tbody/tr[2]/td[5]
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:48,013]: 开始点击元素:"结束时间">>>，路径值为://*[@id="layui-laydate1"]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+[initbrowser.py]: [INFO  ] [2019-05-31 11:36:48,112]: 开始点击元素:"确定时间">>>，路径值为://*[text()='确定' and @class='laydate-btns-confirm']
+[wrappers.py]: [INFO  ] [2019-05-31 11:36:48,169]: ==================== End call [__main__.LoginSuite], run 23.9s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-31 11:37:45,203]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 11:37:45,204]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:37:45,275]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:37:45,320]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:37:47,523]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 11:37:47,957]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[wrappers.py]: [ERROR ] [2019-05-31 11:37:48,031]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 35, in test_1_add_manjianmansong
+    self.browser.click_element(*ManJianManSong.manjianmansong_link)
+  File "E:\automationTesting\lib\initbrowser.py", line 85, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:15:00,342]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:15:00,343]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:15:00,394]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:15:00,447]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:15:03,486]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:15:04,008]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[wrappers.py]: [ERROR ] [2019-05-31 14:15:04,079]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 35, in test_1_add_manjianmansong
+    self.browser.click_element(*ManJianManSong.manjianmansong_link)
+  File "E:\automationTesting\lib\initbrowser.py", line 85, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:18:16,635]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:18:16,635]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:18:16,753]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:18:16,801]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:18:18,656]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[wrappers.py]: [INFO  ] [2019-05-31 14:18:19,204]: ==================== End call [__main__.LoginSuite], run 2.57s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:23:36,313]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:23:36,315]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:23:36,427]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:23:36,486]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:23:38,435]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:23:38,862]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[wrappers.py]: [ERROR ] [2019-05-31 14:23:38,958]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 35, in test_1_add_manjianmansong
+    self.browser.click_element(*ManJianManSong.manjianmansong_link)
+  File "E:\automationTesting\lib\initbrowser.py", line 86, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:31:39,211]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:31:39,211]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:31:39,266]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:31:39,311]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:31:41,017]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:31:41,427]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[wrappers.py]: [ERROR ] [2019-05-31 14:31:41,486]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 35, in test_1_add_manjianmansong
+    self.browser.click_element(*ManJianManSong.manjianmansong_link)
+  File "E:\automationTesting\lib\initbrowser.py", line 88, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:35:59,233]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:35:59,235]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[wrappers.py]: [ERROR ] [2019-05-31 14:35:59,238]: ATP: 接口发现未知错误 
+ an error occured 
+用户名输入框元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 68, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(EC.visibility_of_all_elements_located(By.XPATH,inspect))
+TypeError: __init__() takes 2 positional arguments but 3 were given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 33, in test_1_add_manjianmansong
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 45, in login
+    self.browser.send_keys(*LoginPage.username_input, kwargs["name"])
+  File "E:\automationTesting\lib\initbrowser.py", line 96, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "E:\automationTesting\lib\initbrowser.py", line 71, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 用户名输入框元素路径找不到
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:37:07,144]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:37:07,145]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[wrappers.py]: [ERROR ] [2019-05-31 14:37:07,200]: ATP: 接口发现未知错误 
+ an error occured 
+'list' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 33, in test_1_add_manjianmansong
+    self.login(name=self.username, pwd=self.password)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 45, in login
+    self.browser.send_keys(*LoginPage.username_input, kwargs["name"])
+  File "E:\automationTesting\lib\initbrowser.py", line 96, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+AttributeError: 'list' object has no attribute 'send_keys'
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:38:10,166]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:10,166]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:10,282]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:10,344]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:12,391]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:12,734]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[wrappers.py]: [INFO  ] [2019-05-31 14:38:13,476]: ==================== End call [__main__.LoginSuite], run 3.31s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:38:53,789]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:53,790]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:53,855]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:53,919]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:56,083]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:56,449]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:57,308]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 14:38:57,383]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 14:39:05,822]: ATP: 接口发现未知错误 
+ an error occured 
+活动名称输入框元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 68, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((By.XPATH,inspect)))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 37, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 96, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "E:\automationTesting\lib\initbrowser.py", line 71, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 活动名称输入框元素路径找不到
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:39:37,284]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:39:37,286]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:39:37,430]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:39:37,488]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:39:39,365]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:39:39,891]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:39:40,740]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 14:39:40,841]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 14:39:49,108]: ATP: 接口发现未知错误 
+ an error occured 
+活动名称输入框元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 68, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((By.XPATH,inspect)))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 37, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 96, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "E:\automationTesting\lib\initbrowser.py", line 71, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 活动名称输入框元素路径找不到
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:42:48,004]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:42:48,004]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:42:48,071]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:42:48,134]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:42:51,141]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:42:52,134]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:42:53,007]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 14:42:53,108]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 14:43:01,526]: ATP: 接口发现未知错误 
+ an error occured 
+活动名称输入框元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 68, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((By.XPATH,inspect)))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 37, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 97, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "E:\automationTesting\lib\initbrowser.py", line 72, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 活动名称输入框元素路径找不到
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:50:49,728]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:50:49,728]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:50:49,796]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:50:49,859]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:50:51,671]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:50:52,056]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:50:52,828]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 14:50:54,940]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 14:51:03,395]: ATP: 接口发现未知错误 
+ an error occured 
+活动名称输入框元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 68, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((By.XPATH,inspect)))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 38, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 97, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "E:\automationTesting\lib\initbrowser.py", line 72, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 活动名称输入框元素路径找不到
+
+[wrappers.py]: [INFO  ] [2019-05-31 14:51:35,865]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:35,867]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:35,932]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:35,995]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:37,790]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:38,156]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:40,983]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:43,532]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:43,678]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:43,767]: 开始点击元素:"开始时间">>>，路径值为://*[@id="layui-laydate1"]/div[1]/div[2]/table/tbody/tr[2]/td[5]
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:43,859]: 开始点击元素:"结束时间">>>，路径值为://*[@id="layui-laydate1"]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+[initbrowser.py]: [INFO  ] [2019-05-31 14:51:43,916]: 开始点击元素:"确定时间">>>，路径值为://*[text()='确定' and @class='laydate-btns-confirm']
+[wrappers.py]: [INFO  ] [2019-05-31 14:51:43,986]: ==================== End call [__main__.LoginSuite], run 8.12s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-31 15:08:49,026]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 15:08:49,026]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:08:49,139]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:08:49,197]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:08:52,348]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[wrappers.py]: [ERROR ] [2019-05-31 15:08:58,427]: ATP: 接口发现未知错误 
+ an error occured 
+营销tab元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 69, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((By.XPATH,inspect)))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 35, in test_1_add_manjianmansong
+    self.browser.click_element(*ShouYe.yingxiao)
+  File "E:\automationTesting\lib\initbrowser.py", line 93, in click_element
+    self.get_element_until_is_visible(*args).click()
+  File "E:\automationTesting\lib\initbrowser.py", line 73, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 营销tab元素路径找不到
+
+[wrappers.py]: [INFO  ] [2019-05-31 15:09:14,296]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 15:09:14,296]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:09:14,423]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:09:14,500]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:09:17,913]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:09:18,552]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:09:19,430]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 15:09:19,503]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 15:09:30,599]: ATP: 接口发现未知错误 
+ an error occured 
+活动名称输入框元素路径找不到
+Traceback (most recent call last):
+  File "E:\automationTesting\lib\initbrowser.py", line 69, in get_element_until_is_visible
+    element = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((By.XPATH,inspect)))
+  File "C:\python3\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 38, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 98, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "E:\automationTesting\lib\initbrowser.py", line 73, in get_element_until_is_visible
+    raise ElementNotFoundException("{}元素路径找不到".format(name))
+lib.initbrowser.ElementNotFoundException: 活动名称输入框元素路径找不到
+
+[wrappers.py]: [INFO  ] [2019-05-31 15:14:04,792]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 15:14:04,792]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:14:04,958]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:14:05,020]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:14:06,809]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:14:07,131]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:14:09,841]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 15:14:10,279]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 15:14:10,425]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 39, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 98, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-31 15:28:16,800]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 15:28:16,800]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:28:16,908]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:28:16,971]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:28:19,463]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:28:20,079]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:28:22,851]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 15:28:23,338]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 15:28:23,475]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 39, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 101, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-31 15:49:33,140]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 15:49:33,140]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:49:33,201]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:49:33,267]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:49:38,345]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:49:39,036]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 15:49:41,894]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 15:49:42,542]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 15:49:42,640]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 39, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 100, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-31 16:16:19,118]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 16:16:19,118]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:16:19,238]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:16:19,305]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:16:21,848]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:16:22,536]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:16:25,452]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:16:27,918]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 16:16:27,973]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 40, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 100, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-31 16:17:34,680]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:34,680]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:34,775]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:34,840]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:36,927]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:37,327]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:40,094]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:43,478]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:43,617]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:43,707]: 开始点击元素:"开始时间">>>，路径值为://*[@id="layui-laydate1"]/div[1]/div[2]/table/tbody/tr[2]/td[5]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:43,806]: 开始点击元素:"结束时间">>>，路径值为://*[@id="layui-laydate1"]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:43,864]: 开始点击元素:"确定时间">>>，路径值为://*[text()='确定' and @class='laydate-btns-confirm']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:43,929]: 开始在元素:"优惠设置">>>输入:10，路径值为://input[@name='conditionNum-0']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:43,983]: 开始点击元素:"减现金">>>，路径值为://*[@title='减现金']/..//i
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:44,046]: 开始点击元素:"减现金输入框">>>，路径值为://*[@name='reductionMoney-0']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:17:44,115]: 开始点击元素:"减现金">>>，路径值为://*[@title='减现金']/..//i
+[wrappers.py]: [INFO  ] [2019-05-31 16:17:44,184]: ==================== End call [__main__.LoginSuite], run 9.5s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-31 16:23:06,087]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:06,088]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:06,187]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:06,255]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:08,945]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:09,369]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:12,216]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:15,726]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:15,863]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:15,950]: 开始点击元素:"开始时间">>>，路径值为://*[@id="layui-laydate1"]/div[1]/div[2]/table/tbody/tr[2]/td[5]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:16,029]: 开始点击元素:"结束时间">>>，路径值为://*[@id="layui-laydate1"]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:16,108]: 开始点击元素:"确定时间">>>，路径值为://*[text()='确定' and @class='laydate-btns-confirm']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:16,179]: 开始在元素:"优惠设置">>>输入:10，路径值为://input[@name='conditionNum-0']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:16,235]: 开始点击元素:"减现金">>>，路径值为://*[@title='减现金']/..//i
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:16,297]: 开始在元素:"减现金输入框">>>输入:2，路径值为://*[@name='reductionMoney-0']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:23:16,359]: 开始点击元素:"保存按钮">>>，路径值为://button[text()='保存']
+[wrappers.py]: [INFO  ] [2019-05-31 16:23:28,408]: ==================== End call [__main__.LoginSuite], run 22.3s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-31 16:26:15,999]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:15,999]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:16,062]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:16,124]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:18,065]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:18,483]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:21,281]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:24,744]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:24,865]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:24,955]: 开始点击元素:"开始时间">>>，路径值为://*[@id="layui-laydate1"]/div[1]/div[2]/table/tbody/tr[2]/td[5]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:25,036]: 开始点击元素:"结束时间">>>，路径值为://*[@id="layui-laydate1"]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:25,098]: 开始点击元素:"确定时间">>>，路径值为://*[text()='确定' and @class='laydate-btns-confirm']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:25,167]: 开始在元素:"优惠设置">>>输入:10，路径值为://input[@name='conditionNum-0']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:25,238]: 开始点击元素:"减现金">>>，路径值为://*[@title='减现金']/..//i
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:25,312]: 开始在元素:"减现金输入框">>>输入:2，路径值为://*[@name='reductionMoney-0']
+[initbrowser.py]: [INFO  ] [2019-05-31 16:26:25,372]: 开始点击元素:"保存按钮">>>，路径值为://button[text()='保存']
+[wrappers.py]: [INFO  ] [2019-05-31 16:26:25,963]: ==================== End call [__main__.LoginSuite], run 9.96s ====================>
+
+[wrappers.py]: [INFO  ] [2019-05-31 17:00:09,764]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 17:00:09,766]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:00:09,872]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:00:09,937]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:00:17,524]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:00:18,815]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:00:21,793]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 17:00:25,776]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[wrappers.py]: [ERROR ] [2019-05-31 17:00:25,844]: ATP: 接口发现未知错误 
+ an error occured 
+Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+Traceback (most recent call last):
+  File "E:\automationTesting\util\wrappers.py", line 15, in wrapper
+    c = func(self, *args, **kw)
+  File "E:/automationTesting/testcases/yingxiao_manjianmansong.py", line 40, in test_1_add_manjianmansong
+    self.browser.send_keys(*ManJianManSong.huodongmingcheng_input,'hjhtest')
+  File "E:\automationTesting\lib\initbrowser.py", line 100, in send_keys
+    self.get_element_until_is_visible(*args).send_keys(args[3])
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\python3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+[wrappers.py]: [INFO  ] [2019-05-31 17:05:54,971]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-05-31 17:05:54,973]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:05:55,046]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:05:55,111]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:05:57,094]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:05:57,383]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:01,269]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:06,671]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:06,802]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:06,900]: 开始点击元素:"开始时间">>>，路径值为://*[@id="layui-laydate1"]/div[1]/div[2]/table/tbody/tr[2]/td[5]
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:06,988]: 开始点击元素:"结束时间">>>，路径值为://*[@id="layui-laydate1"]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:07,057]: 开始点击元素:"确定时间">>>，路径值为://*[text()='确定' and @class='laydate-btns-confirm']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:07,147]: 开始在元素:"优惠设置">>>输入:10，路径值为://input[@name='conditionNum-0']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:07,209]: 开始点击元素:"减现金">>>，路径值为://*[@title='减现金']/..//i
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:07,276]: 开始在元素:"减现金输入框">>>输入:2，路径值为://*[@name='reductionMoney-0']
+[initbrowser.py]: [INFO  ] [2019-05-31 17:06:07,344]: 开始点击元素:"保存按钮">>>，路径值为://button[text()='保存']
+[wrappers.py]: [INFO  ] [2019-05-31 17:06:14,947]: ==================== End call [__main__.LoginSuite], run 20.0s ====================>
+
+[wrappers.py]: [INFO  ] [2019-06-03 10:26:47,710]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-06-03 10:26:47,711]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-06-03 10:26:47,776]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-06-03 10:26:47,836]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-06-03 10:26:51,363]: 开始点击元素:"营销tab">>>，路径值为://li[contains(@class,'el-menu-item')]/span[text()='营销']
+[initbrowser.py]: [INFO  ] [2019-06-03 10:26:52,110]: 开始点击元素:"满减满送链接入口">>>，路径值为://li/p[text()='满减满送']
+[initbrowser.py]: [INFO  ] [2019-06-03 10:26:55,937]: 开始点击元素:"添加按钮">>>，路径值为://button[@id="add"]
+[initbrowser.py]: [INFO  ] [2019-06-03 10:27:01,674]: 开始在元素:"活动名称输入框">>>输入:hjhtest，路径值为://input[@placeholder='请输入活动名称']
+[initbrowser.py]: [INFO  ] [2019-06-03 10:27:01,830]: 开始点击元素:"生效时间">>>，路径值为://*[@id="startTime"]
+[initbrowser.py]: [INFO  ] [2019-06-03 10:27:01,932]: 开始点击元素:"开始时间">>>，路径值为://*[@id="layui-laydate1"]/div[1]/div[2]/table/tbody/tr[2]/td[5]
+[initbrowser.py]: [INFO  ] [2019-06-03 10:27:02,032]: 开始点击元素:"结束时间">>>，路径值为://*[@id="layui-laydate1"]/div[2]/div[2]/table/tbody/tr[2]/td[4]
+[initbrowser.py]: [INFO  ] [2019-06-03 10:27:02,111]: 开始点击元素:"确定时间">>>，路径值为://*[text()='确定' and @class='laydate-btns-confirm']
+[initbrowser.py]: [INFO  ] [2019-06-03 10:27:02,183]: 开始在元素:"优惠设置">>>输入:10，路径值为://input[@name='conditionNum-0']
+[initbrowser.py]: [INFO  ] [2019-06-03 10:27:02,240]: 开始点击元素:"减现金">>>，路径值为://*[@title='减现金']/..//i
+[initbrowser.py]: [INFO  ] [2019-06-03 10:27:02,304]: 开始在元素:"减现金输入框">>>输入:2，路径值为://*[@name='reductionMoney-0']
+[initbrowser.py]: [INFO  ] [2019-06-03 10:27:02,363]: 开始点击元素:"保存按钮">>>，路径值为://button[text()='保存']
+[wrappers.py]: [INFO  ] [2019-06-03 10:27:03,435]: ==================== End call [__main__.LoginSuite], run 15.7s ====================>
+
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:33:31,179]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:33:31,180]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:33:31,180]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTU2MTA0NjAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTA4MTA0NjB9In0.VQzW-dyVsAQSINqLOsGF4mDT5hZWCJMVmnoJjFdlphg"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:33:31,217]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTU2MTA0NjAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTA4MTA0NjB9In0.VQzW-dyVsAQSINqLOsGF4mDT5hZWCJMVmnoJjFdlphg,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:32,899]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:32,899]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:32,899]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTU5NzIyMDMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTExNzIyMDN9In0.FzcgaA4-HT7kWIZEfrzIUAgrRF28ibO8k3p1p6hB7Cg"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:32,930]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTU5NzIyMDMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTExNzIyMDN9In0.FzcgaA4-HT7kWIZEfrzIUAgrRF28ibO8k3p1p6hB7Cg,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:35,017]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:35,017]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:35,017]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:39:34.327+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:35,240]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:35,240]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:39:35,240]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:39:34.549+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:34,239]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:34,239]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:34,240]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTYyMTM1NDQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTE0MTM1NDR9In0.ix4Vb6PhRW_tLJtYNmkBRDIgaItdLFnOZfVpGByDUQc"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:34,279]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTYyMTM1NDQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTE0MTM1NDR9In0.ix4Vb6PhRW_tLJtYNmkBRDIgaItdLFnOZfVpGByDUQc,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:36,332]: >>>开始执行第1个表格的第2个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:36,332]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile1': '15613384853'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:36,332]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:43:35.639+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:36,569]: >>>开始执行第1个表格的第3个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:36,569]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile': '15215645784'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:36,569]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:43:35.876+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:36,814]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:36,814]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:36,815]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:43:36.123+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:37,179]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:37,179]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:43:37,179]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:43:36.485+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:12,072]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:12,072]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:12,072]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTY0OTEzODAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTE2OTEzODB9In0.pLfT_qYsAT9FK31gXTqEsIVV6Ecxjz1N2Jz_KIMIOh8"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:12,121]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTY0OTEzODAsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTE2OTEzODB9In0.pLfT_qYsAT9FK31gXTqEsIVV6Ecxjz1N2Jz_KIMIOh8,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:14,428]: >>>开始执行第1个表格的第2个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:14,428]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile1': '15613384853'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:14,428]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:48:13.740+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:14,921]: >>>开始执行第1个表格的第3个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:14,921]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile': '15215645784'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:14,921]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:48:14.220+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:15,172]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:15,172]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:15,174]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:48:14.476+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:15,424]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:15,424]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:48:15,424]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:48:14.733+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:07,977]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:07,977]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:07,979]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTY3ODcyODMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTE5ODcyODN9In0.asfrAR9C9B6fVyFiMYzz5qtBNy53AEKqWAYO-XyKT8E"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:08,019]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTY3ODcyODMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTE5ODcyODN9In0.asfrAR9C9B6fVyFiMYzz5qtBNy53AEKqWAYO-XyKT8E,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,030]: >>>开始执行第1个表格的第2个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,031]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile1': '15613384853'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,031]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:53:09.342+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,220]: >>>开始执行第1个表格的第3个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,220]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile': '15215645784'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,222]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:53:09.532+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,424]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,424]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,424]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:53:09.733+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,608]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,608]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 16:53:10,609]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T08:53:09.917+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:49,216]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:49,216]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:49,217]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTc4NDg1MjEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTMwNDg1MjF9In0.MHXBQHGH1SxwZAzzveJfKKleZc-_4wdujvR8pRBDHJM"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:49,266]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNTc4NDg1MjEsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTMwNDg1MjF9In0.MHXBQHGH1SxwZAzzveJfKKleZc-_4wdujvR8pRBDHJM,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:51,308]: >>>开始执行第1个表格的第2个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:51,309]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile1': '15613384853'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:51,310]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:10:50.622+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:51,544]: >>>开始执行第1个表格的第3个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:51,545]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile': '15215645784'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:51,545]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:10:50.856+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:51,743]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:51,744]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:51,744]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:10:51.059+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:52,001]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:52,003]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:10:52,003]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:10:51.315+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:05,766]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:05,766]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:05,766]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNjAwODUwNDQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTUyODUwNDR9In0.mhrZIb9laAEWGO46cL8DQa0B-n4H8_Hvy6LnNLAmqDM"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,155]: >>>开始执行第1个表格的第2个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,155]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile1': '15613384853'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,156]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:48:05.452+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,421]: >>>开始执行第1个表格的第3个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,421]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile': '15215645784'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,422]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:48:05.741+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,634]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,634]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,635]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:48:05.941+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,944]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,944]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:06,944]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:48:06.244+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:14,811]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:14,812]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:14,812]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNjAwOTQxMTgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTUyOTQxMTh9In0.ZqeTu6x88buxuHGwWP4_ZB9RKs0ogQvtFHzEe64fHFg"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:14,856]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAxNjAwOTQxMTgsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk1NTUyOTQxMTh9In0.ZqeTu6x88buxuHGwWP4_ZB9RKs0ogQvtFHzEe64fHFg,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:17,105]: >>>开始执行第1个表格的第2个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:17,105]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile1': '15613384853'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:17,105]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:48:16.373+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:17,523]: >>>开始执行第1个表格的第3个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:17,523]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile': '15215645784'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:17,523]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:48:16.842+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:17,851]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:17,851]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:17,851]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:48:17.149+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:18,235]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:18,235]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-03 17:48:18,235]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-03T09:48:17.544+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:32:57,922]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:32:57,923]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:32:57,923]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAyMjM5NzYzODMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk2MTkxNzYzODN9In0.aIwe8fDVD-2lZrvidJJCHxZ96CdLR1eO7QCCp9eDxRs"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:32:57,956]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAyMjM5NzYzODMsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk2MTkxNzYzODN9In0.aIwe8fDVD-2lZrvidJJCHxZ96CdLR1eO7QCCp9eDxRs,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:32:59,958]: >>>开始执行第1个表格的第2个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:32:59,958]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile1': '15613384853'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:32:59,958]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-04T03:32:58.419+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:33:00,136]: >>>开始执行第1个表格的第3个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:33:00,136]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile': '15215645784'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:33:00,137]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-04T03:32:58.599+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:33:00,328]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:33:00,328]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:33:00,328]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-04T03:32:58.793+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:33:00,535]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:33:00,535]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-04 11:33:00,535]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-04T03:32:58.994+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:19,092]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:19,092]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:19,092]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAyMzQ3OTc1OTIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk2Mjk5OTc1OTJ9In0.uDVy2Xdf5q_iGJ-HIItZLs1SWbEvGhK0E_zCB2DBUW0"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:19,131]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAyMzQ3OTc1OTIsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk2Mjk5OTc1OTJ9In0.uDVy2Xdf5q_iGJ-HIItZLs1SWbEvGhK0E_zCB2DBUW0,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,163]: >>>开始执行第1个表格的第2个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,163]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile1': '15613384853'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,164]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-04T06:33:19.664+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,352]: >>>开始执行第1个表格的第3个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,352]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile': '15215645784'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,353]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-04T06:33:19.850+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,552]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,553]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,553]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-04T06:33:20.055+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,780]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,782]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-04 14:33:21,782]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-04T06:33:20.281+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:33,871]: >>>开始执行第1个表格的第1个用例POST https://pre.auth.2mhn.cn/auth/login
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:33,903]: >>>请求参数为:{'siteId': '2136', 'mobile': '15773119729', 'password': '123456', 'loginType': '2', 'validCode': '123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:33,904]: >>>请求成功: <Response [200]>
+接口响应值为:{"agentId":57642488,"success":true,"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAzMzAyMTE2NDQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk3MjU0MTE2NDR9In0.LnHBnDXGlBk7rcZwwEJxmeDNDe0NoR--p984GMRJ6Yg"}
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:33,936]: >>>开始提取变量token值为:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjAzMzAyMTE2NDQsInBheWxvYWQiOiJ7XCJrZXlUeXBlXCI6XCJ1c2VyaWRcIixcInVzZXJLZXlcIjpcIjU3NjQyNDg4XCIsXCJtZXJjaGFudElkXCI6XCIyMTM2XCIsXCJzdG9yZVJlZ2lvbklkXCI6bnVsbCxcInVzZXJUeXBlXCI6bnVsbCxcImV4cGlyZVwiOjYwNDgwMDAwMCxcIm90aGVyXCI6bnVsbCxcInRva2VuVGltZVwiOjE1NTk3MjU0MTE2NDR9In0.LnHBnDXGlBk7rcZwwEJxmeDNDe0NoR--p984GMRJ6Yg,提取后的名称为token
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:35,988]: >>>开始执行第1个表格的第2个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:35,990]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile1': '15613384853'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:35,990]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-05T09:03:33.857+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,291]: >>>开始执行第1个表格的第3个用例POST https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,292]: >>>请求参数为:{'paramJson': {'addressId': '', 'receiverName': '李四', 'receiverCountry': '', 'provinceCode': '430000', 'cityCode': '430100', 'districtCode': '430104', 'provinceName': '湖南省', 'cityName': '长沙市', 'districtName': '岳麓区', 'receiverAddress': '芯城科技园2栋9楼', 'mobile': '15215645784'}}None
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,292]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-05T09:03:34.159+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,491]: >>>开始执行第1个表格的第4个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,491]: >>>请求参数为:None{'addressId': '194'}
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,492]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-05T09:03:34.354+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,695]: >>>开始执行第1个表格的第5个用例DELETE https://pre.auth.2mhn.cn/mall/userAddress/info
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,696]: >>>请求参数为:None{'addressId': '1630646'}
+[HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,696]: >>>请求成功: <Response [500]>
+接口响应值为:{"timestamp":"2019-06-05T09:03:34.564+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}

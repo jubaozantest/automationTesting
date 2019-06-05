@@ -8,3 +8,4 @@ class LoginPage:
     login_button=(By.XPATH, "//input[@value='登录']",'登录按钮')
     shouye =(By.XPATH,"//span[text()='舌尖上的民族']",'舌尖上的名族')
 
+

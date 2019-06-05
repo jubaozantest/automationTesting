@@ -2,8 +2,7 @@
 import  xlrd,os
 from openpyxl import load_workbook
 BASE_PATH = os.path.abspath(os.path.dirname(os.path.abspath(__file__)) + '\..')
-# excel_path=BASE_PATH+r'\config\interface_testcases.xlsx'
-excel_path=BASE_PATH+r'\config\test.xlsx'
+excel_path=BASE_PATH+r'\config\interface_testcases.xlsx'
 
 class Excel:
     def __init__(self):
