@@ -1,4 +1,9 @@
 server: https://t.jubaozan.cn/
+database:
+  ssh_host: 119.23.12.157
+  ssh_password: j70ubz##$y*movsr4W(1fntqlEJBZ70#
+  db_host: 10.0.103.69
+  db_password: ilszRSaCXojd
 variables:
   userhost: https://u.jubaozan.cn
   shophost: https://trade.jubaozan.cn
@@ -10,3 +15,4 @@ browser:
 user01:
   name: sjsdmz
   password: a111111
+

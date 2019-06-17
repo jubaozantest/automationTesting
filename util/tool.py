@@ -186,16 +186,6 @@ def md5(data):
     return m.hexdigest()
 
 if __name__ == '__main__':
-    # print(get_host_port())
-    # print(get_current_time())
-    # check_dict = {"a": {"C": "122", "B": {"C": "122", "B": {"kk": 123}}},
-    #               "b": [1, 2, [3, 2], {"1": [{}, "2"]}, {"1": "2"}], "c": 2}
-    # expect_dict = {"a": {"C": "122", "B": {"B": {"kk": {}}}}, "b": [1, [2, 3], {"1": "2"}], "c": 2}
-    # a = {"receiveStatusDesc": "优惠券已放入您的券包"}
-    # b = {"receiveStatusDesc": None}
-    # s = is_json_contains(a, b)
-    # print(s)
-    # print(generate_idcard())
     data={"com":"c3","agentid":14507967,"mobile":18973195297,"siteId":1122}
     print(md5(data))
     print(generate_phone(152))

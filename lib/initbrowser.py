@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """ 浏览器初始化
 """
 #from selenium.webdriver.support.ui import WebDriverWait
@@ -9,7 +8,7 @@ from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
 from util.default_path import get_config
 from logs.log import logger
-from lib.config import test_config
+from lib.read_config import read_basic_config as basic
 config=get_config()
 executable_path=config.WINDOWS_CHROME_DRIVER
 
@@ -18,15 +17,16 @@ class ElementNotFoundException(Exception):
 
 def supportBrowserType(browsertype, url):
         '''
-        设置需要使用的浏览器及浏览器配置,并打开指定页面
-        browsertype:浏览器类型
-        url：访问页面的url
+        设置UI自动化打开游览器的类型，和打开浏览器的url
+        参数browsertype:浏览器类型
+        参数url：访问页面的url
+        :return:返回浏览器对象
         '''
 
         options = webdriver.ChromeOptions()
-        if test_config.cfg['browser']['mode'] == 'headless':
+        '''谷歌的headless模式'''
+        if basic.cfg['browser']['mode'] == 'headless':
             options.add_argument("headless")
-
         options.add_argument("start-maximized")
 
         if browsertype is None:
@@ -46,9 +46,16 @@ def supportBrowserType(browsertype, url):
         return browser
 
 class BrowserInit(object):
+    '''浏览器初始化类，封装一些常用的方法
+    get_element_until_is_visible：等待元素出现
+    get_elements_until_is_visible：等待多个相同的元素出现
+    click_element：点击元素
+    send_keys:元素输入
+    element_visible_times：元素在页面出现的次数
+    '''
     def __init__(self,  browser,url):
         self.driver = supportBrowserType(browser, url)
-        self.driver.implicitly_wait(20)
+        self.driver.implicitly_wait(5)
 
     def quit(self):
         return self.driver.quit()

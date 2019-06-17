@@ -1,7 +1,7 @@
 import logging
 from util.default_path import get_config
 config = get_config()
-log_path = config.LOG_PATH
+log_path = config.LOG_PATH   #日志输入文件的路径
 
 logger=logging.getLogger('test')
 #logging.basicConfig() #不用basicConfig 需要手动添加handler

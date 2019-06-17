@@ -23,9 +23,7 @@ def timer(func):
         logger.info("==================== End call [{0}], run {1:.3}s ====================>\n"
                     .format(__get_full_class(self), d_time))
         return c
-
     return wrapper
-
 
 
 def __get_full_class(obj):

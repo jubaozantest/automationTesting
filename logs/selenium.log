@@ -19432,3 +19432,47 @@ selenium.common.exceptions.ElementNotInteractableException: Message: element not
 [HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,696]: >>>请求参数为:None{'addressId': '1630646'}
 [HTTPClient.py]: [INFO  ] [2019-06-05 17:03:36,696]: >>>请求成功: <Response [500]>
 接口响应值为:{"timestamp":"2019-06-05T09:03:34.564+0000","status":500,"error":"Internal Server Error","message":"org/springframework/web/servlet/resource/DefaultResourceResolverChain","path":"/mall/userAddress/info"}
+[wrappers.py]: [INFO  ] [2019-06-17 16:51:25,091]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-06-17 16:51:25,091]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-06-17 16:51:25,197]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-06-17 16:51:25,275]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-06-17 16:51:27,132]: 元素:"舌尖上的名族">>>在页面上出现的次数为1，路径值为://span[text()='舌尖上的民族']
+[wrappers.py]: [INFO  ] [2019-06-17 16:51:27,132]: ==================== End call [__main__.LoginSuite], run 2.04s ====================>
+
+[wrappers.py]: [INFO  ] [2019-06-17 16:52:04,332]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-06-17 16:52:04,332]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-06-17 16:52:04,395]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-06-17 16:52:04,454]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-06-17 16:52:06,566]: 元素:"舌尖上的名族">>>在页面上出现的次数为1，路径值为://span[text()='舌尖上的民族']
+[wrappers.py]: [INFO  ] [2019-06-17 16:52:06,566]: ==================== End call [__main__.LoginSuite], run 2.23s ====================>
+
+[log.py]: [DEBUG ] [2019-06-17 18:27:10,388]: This is debug information
+[log.py]: [INFO  ] [2019-06-17 18:27:10,388]: This is info information
+[log.py]: [ERROR ] [2019-06-17 18:27:10,388]: This is error information
+[wrappers.py]: [INFO  ] [2019-06-17 18:27:34,177]: <==================== hejianhao Begin call [__main__.LoginSuite] ====================
+[initbrowser.py]: [INFO  ] [2019-06-17 18:27:34,179]: 开始在元素:"用户名输入框">>>输入:sjsdmz，路径值为://*[@id='use_name']
+[initbrowser.py]: [INFO  ] [2019-06-17 18:27:34,273]: 开始在元素:"密码输入框">>>输入:a111111，路径值为://*[@id='use_pwd']
+[initbrowser.py]: [INFO  ] [2019-06-17 18:27:34,331]: 开始点击元素:"登录按钮">>>，路径值为://input[@value='登录']
+[initbrowser.py]: [INFO  ] [2019-06-17 18:27:36,254]: 元素:"舌尖上的名族">>>在页面上出现的次数为1，路径值为://span[text()='舌尖上的民族']
+[wrappers.py]: [INFO  ] [2019-06-17 18:27:36,254]: ==================== End call [__main__.LoginSuite], run 2.08s ====================>
+
+[HTTPClient.py]: [INFO  ] [2019-06-17 19:10:20,717]: >>>开始执行第1个表格的第1个用例POST https://arkie.cn/api/v0/login
+[HTTPClient.py]: [INFO  ] [2019-06-17 19:10:20,717]: >>>请求参数为:{'mobile': '15902127953', 'password': 'test123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-17 19:10:20,717]: >>>请求成功: <Response [200]>
+接口响应值为:{"data":{"message":"Logged In Successfully","user":{"mobile":"15902127953","nickname":"测试团队superuser","avatar_url":"http://arkie-public.oss-cn-hangzhou.aliyuncs.com/avatar/default.png","lastLoginDate":"2018-07-16T07:37:16.318Z","flags":{"hasMobileCheck":false},"createdAt":"2017-09-05T08:13:33.510Z","updatedAt":"2018-07-19T03:41:07.303Z","role":"superuser","frontend":{"showBrandGuide":false,"showBrandTip":false},"preference":{"preference":{"lastLoginPath":"/component/images/root"},"lastLoginPath":"/designer"},"id":"e12aabb1-db89-4325-8b2f-35ec38f0cb44"}}}
+[HTTPClient.py]: [INFO  ] [2019-06-17 19:14:23,598]: >>>开始执行第1个表格的第1个用例POST https://arkie.cn/api/v0/login
+[HTTPClient.py]: [INFO  ] [2019-06-17 19:14:23,599]: >>>请求参数为:{'mobile': '15902127953', 'password': 'test123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-17 19:14:23,600]: >>>请求成功: <Response [200]>
+接口响应值为:{"data":{"message":"Logged In Successfully","user":{"mobile":"15902127953","nickname":"测试团队superuser","avatar_url":"http://arkie-public.oss-cn-hangzhou.aliyuncs.com/avatar/default.png","lastLoginDate":"2018-07-16T07:37:16.318Z","flags":{"hasMobileCheck":false},"createdAt":"2017-09-05T08:13:33.510Z","updatedAt":"2018-07-19T03:41:07.303Z","role":"superuser","frontend":{"showBrandGuide":false,"showBrandTip":false},"preference":{"preference":{"lastLoginPath":"/component/images/root"},"lastLoginPath":"/designer"},"id":"e12aabb1-db89-4325-8b2f-35ec38f0cb44"}}}
+[HTTPClient.py]: [INFO  ] [2019-06-17 19:14:23,798]: >>>开始执行第1个表格的第2个用例GET https://arkie.cn/api/v0/brand
+[HTTPClient.py]: [INFO  ] [2019-06-17 19:14:23,798]: >>>请求参数为:None
+[HTTPClient.py]: [INFO  ] [2019-06-17 19:14:23,798]: >>>请求成功: <Response [401]>
+接口响应值为:{"code":"BACKEND_NOT_AUTHENTICATED","message":""}
+[HTTPClient.py]: [INFO  ] [2019-06-17 20:04:52,960]: >>>开始执行第1个表格的第1个用例POST https://arkie.cn/api/v0/login
+[HTTPClient.py]: [INFO  ] [2019-06-17 20:04:52,960]: >>>请求参数为:{'mobile': '15902127953', 'password': 'test123456'}None
+[HTTPClient.py]: [INFO  ] [2019-06-17 20:04:52,961]: >>>请求成功: <Response [200]>
+接口响应值为:{"data":{"message":"Logged In Successfully","user":{"mobile":"15902127953","nickname":"测试团队superuser","avatar_url":"http://arkie-public.oss-cn-hangzhou.aliyuncs.com/avatar/default.png","lastLoginDate":"2018-07-16T07:37:16.318Z","flags":{"hasMobileCheck":false},"createdAt":"2017-09-05T08:13:33.510Z","updatedAt":"2018-07-19T03:41:07.303Z","role":"superuser","frontend":{"showBrandGuide":false,"showBrandTip":false},"preference":{"preference":{"lastLoginPath":"/component/images/root"},"lastLoginPath":"/designer"},"id":"e12aabb1-db89-4325-8b2f-35ec38f0cb44"}}}
+[HTTPClient.py]: [INFO  ] [2019-06-17 20:04:53,118]: >>>开始执行第1个表格的第2个用例GET http://39.107.96.138:3000/api/v1/topics
+[HTTPClient.py]: [INFO  ] [2019-06-17 20:04:53,118]: >>>请求参数为:None{'page': '1', 'tab': 'share', 'limit': '1'}
+[HTTPClient.py]: [INFO  ] [2019-06-17 20:04:53,118]: >>>请求成功: <Response [200]>
+接口响应值为:{"success":true,"data":[{"id":"5d07808dbb46766ddf912862","author_id":"5bdb2215d3dee53d61221996","tab":"share","content":"<div class=\"markdown-text\"><p>safsfdsf</p>\n</div>","title":"hjdsfhfds","last_reply_at":"2019-06-17T11:59:09.509Z","good":false,"top":false,"reply_count":0,"visit_count":0,"create_at":"2019-06-17T11:59:09.509Z","author":{"loginname":"testuser1","avatar_url":"//gravatar.com/avatar/8f0e13b6a34b4c17ab4d8b312a7dbee5?size=48"}}]}
